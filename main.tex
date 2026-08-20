@@ -18,8 +18,14 @@
 \usepackage{array}
 \usepackage{longtable}
 \usepackage{caption}
-\captionsetup{font={stretch=1},labelfont=bf,justification=justified,singlelinecheck=false}
-
+\captionsetup[figure]{
+  labelfont=bf,          
+  textfont=it,            
+  labelsep=newline,        
+  justification=raggedright,
+  singlelinecheck=false,
+  skip=6pt
+}
 % ===================== ENCABEZADOS / NUMERACIÓN DE PÁGINA =====================
 % Estilo tipo APA: número de página en la esquina superior derecha, sin línea de encabezado.
 \usepackage{fancyhdr}
@@ -159,6 +165,7 @@ Finalmente, agradezco a todas aquellas personas que, de una u otra manera, contr
 % ----------------------------------------------------------------
 \input{Chapters/1-Introduction}
 \input{Chapters/2-Theoretical-framework}
+\input{Chapters/3-Emotional-disconnection}
 % ----------------------------------------------------------------
 
 
