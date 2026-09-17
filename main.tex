@@ -17,6 +17,7 @@
 \usepackage{graphicx}
 \usepackage{array}
 \usepackage{longtable}
+\usepackage{booktabs}
 \usepackage{caption}
 \captionsetup[figure]{
   labelfont=bf,          
@@ -26,6 +27,21 @@
   singlelinecheck=false,
   skip=6pt
 }
+
+\usepackage{chngcntr}
+\counterwithin{table}{chapter}
+\renewcommand{\tablename}{Tabla}
+
+\captionsetup[table]{
+  labelfont=normalfont,
+  textfont=it,            
+  labelsep=newline,     
+  justification=raggedright,
+  singlelinecheck=false,
+  skip=6pt,
+  position=above
+}
+
 % ===================== ENCABEZADOS / NUMERACIÓN DE PÁGINA =====================
 % Estilo tipo APA: número de página en la esquina superior derecha, sin línea de encabezado.
 \usepackage{fancyhdr}
@@ -39,6 +55,7 @@
   \fancyhead[R]{\thepage}
   \renewcommand{\headrulewidth}{0pt}
 }
+\usepackage{enumitem}
 
 % ===================== ÍNDICE GENERAL / DE FIGURAS / DE TABLAS =====================
 \usepackage{tocloft}
@@ -100,9 +117,12 @@
   pdfauthor={Gutierrez Mollo Adriana}
 }
 
-% Bibliografía en formato APA 7 (se activará cuando trabajemos el capítulo de Bibliografía)
-% \usepackage[backend=biber,style=apa]{biblatex}
-% \addbibresource{bibliografia.bib}
+% Bibliografía en formato APA 7
+\usepackage[natbibapa]{apacite}
+
+
+
+
 
 \begin{document}
 
@@ -170,4 +190,11 @@ Finalmente, agradezco a todas aquellas personas que, de una u otra manera, contr
 
 
 % ===================== BIBLIOGRAFÍA =====================
+\clearpage
+\renewcommand{\bibname}{BIBLIOGRAFÍA}
+
+\nocite{*}
+\bibliographystyle{apacite}
+\bibliography{bibliography}
+
 \end{document}

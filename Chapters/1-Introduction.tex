@@ -46,9 +46,10 @@ Este proyecto surge como respuesta a la falta de herramientas digitales que prio
 Con este desarrollo, se espera reducir la brecha entre la hiperconectividad digital y el estado emocional de los jóvenes, promover la creación de espacios digitales más empáticos y fomentar interacciones auténticas y significativas que contribuyan a su estado emocional.
 
 \section{ALCANCE Y LÍMITES}
-Alcances:
 
-\begin{itemize}
+\noindent\textbf{Alcances:}
+
+\begin{itemize}[noitemsep, topsep=4pt, leftmargin=*]
     \item El proyecto desarrollará un prototipo de una aplicación móvil funcional e interactiva centrada en fomentar micro interacciones sociales positivas entre jóvenes.
     \item Se incluirán funcionalidades de envío y recepción de mensajes breves diarios diseñados para fomentar la conexión emocional.
     \item Se implementará un sistema de personalización de avatares que permita la expresión identitaria de los usuarios.
@@ -56,9 +57,9 @@ Alcances:
     \item Se realizarán pruebas piloto con un grupo de jóvenes de entre 16 y 28 años para evaluar la usabilidad, la experiencia de usuario (UX) y el impacto de la aplicación en la regulación emocional de los usuarios.
 \end{itemize}
 
-Límites:
+\noindent\textbf{Límites:}
 
-\begin{itemize}
+\begin{itemize}[noitemsep, topsep=4pt, leftmargin=*]
     \item La aplicación no sustituirá intervenciones terapéuticas profesionales ni funcionará como tratamiento para trastornos de salud mental.
     \item No se incluirán métodos clínicos formales ni pruebas que midan directamente mejoras en la salud mental de los usuarios.
     \item No se abordarán funcionalidades de redes sociales masivas como transmisiones en vivo, publicaciones públicas o métricas de popularidad.
@@ -67,5 +68,181 @@ Límites:
 \end{itemize}
 
 \section{DISEÑO METODOLÓGICO}
-FALTA COPIAR DE DOCS GOOGLE
+\subsection{Tipo de investigación}
+Aplicativa con enfoque mixto (cualitativo-cuantitativo): se busca desarrollar una solución tecnológica concreta (aplicación móvil) mientras se evalúa su impacto en aspectos emocionales de los usuarios.\\
+El componente cualitativo permitirá comprender las experiencias emocionales y percepciones de los usuarios, mientras que el componente cuantitativo facilitará la medición de la usabilidad y el impacto emocional mediante escalas validadas.
 
+\subsection{Fuentes de información}
+
+\noindent\textbf{Fuentes primarias:}
+
+\begin{itemize}[noitemsep, topsep=4pt, leftmargin=*]
+    \item Encuestas y cuestionarios aplicados a participantes del grupo objetivo.
+    \item Retroalimentación de usuarios durante el proceso de diseño iterativo.
+    \item Observación directa durante las pruebas piloto.
+\end{itemize}
+
+\noindent\textbf{Fuentes secundarias:}
+
+\begin{itemize}[noitemsep, topsep=4pt, leftmargin=*]
+    \item Literatura académica sobre la Interacción Humano-Computadora Afectiva, diseño emocional y desarrollo móvil.
+    \item Estudios previos sobre aplicaciones del estado emocional.
+    \item Documentación técnica de Unity, MongoDB, Blender y APIs de moderación.
+    \item Referencias metodológicas sobre Design Thinking y evaluación de UX.
+\end{itemize}
+
+\subsection{Técnicas de recolección de datos}
+
+\noindent\textbf{Encuestas}
+
+\noindent Se aplicará una encuesta inicial de diagnóstico con 10-20 preguntas para evaluar el nivel de desconexión emocional, patrones de uso de redes sociales, calidad percibida de interacciones digitales y necesidades emocionales de los jóvenes.
+
+\noindent\textbf{Observación}
+
+\noindent Se aplicará observación directa durante las pruebas de usabilidad del prototipo en Figma con 10-20 usuarios mientras navegan e interactúan con las pantallas diseñadas. Se documentarán expresiones emocionales, dudas verbalizadas, tiempo dedicado a cada tarea, dificultades de navegación y reacciones ante elementos visuales.\\
+Se utilizará la técnica \textit{Think Aloud} (pensar en voz alta), donde los usuarios verbalizarán sus pensamientos, expectativas y reacciones emocionales durante la exploración del prototipo. También se registrarán observaciones sobre la comprensión de flujos de interacción y preferencias de diseño.
+
+\subsection{Procedimiento}
+
+\begin{longtable}{
+  >{\raggedright\arraybackslash}p{0.18\textwidth}
+  >{\raggedright\arraybackslash}p{0.22\textwidth}
+  >{\raggedright\arraybackslash}p{0.20\textwidth}
+  >{\raggedright\arraybackslash}p{0.22\textwidth}
+  >{\raggedright\arraybackslash}p{0.08\textwidth}
+}
+\caption{Procedimientos}\label{tab:procedimientos}\\
+\toprule
+\textbf{Objetivo específico} & \textbf{Actividades} & \textbf{Recursos} & \textbf{Producto esperado} & \textbf{Tiempo} \\
+\midrule
+\endfirsthead
+
+\multicolumn{5}{l}{\textit{Tabla \thetable{} (continuación)}} \\[4pt]
+\toprule
+\textbf{Objetivo específico} & \textbf{Actividades} & \textbf{Recursos} & \textbf{Producto esperado} & \textbf{Tiempo} \\
+\midrule
+\endhead
+
+\midrule
+\multicolumn{5}{r}{\textit{Continúa en la siguiente página}} \\
+\endfoot
+
+\bottomrule
+\endlastfoot
+
+Analizar el nivel de desconexión emocional que experimentan los jóvenes al interactuar con plataformas digitales, identificando factores que limitan la generación de vínculos significativos.
+&
+- Revisión bibliográfica sobre desconexión emocional digital \newline
+- Recolección de datos \newline
+- Prototipo base
+&
+- Libros, informes, y artículos \newline
+- Herramientas de encuestas (Google Forms) \newline
+- Herramientas de diseño (Figma)
+&
+- Informe de diagnóstico sobre desconexión emocional \newline
+- Identificación de factores críticos
+&
+2 semanas \\[6pt]
+
+Diseñar una interfaz móvil centrada en el usuario que incorpore dinámicas de interacción breves y elementos visuales orientados a fortalecer la conexión emocional.
+&
+- Aplicación de fase ``Empatizar'' y ``Definir'' de Design Thinking \newline
+- Definición de paleta de colores y tipografía \newline
+- Diseño de flujos de interacción y micro-interacción \newline
+- Modelado 3D de avatares base en Blender
+&
+- Blender para modelado 3D \newline
+- Unity para el desarrollo \newline
+- Feedback de usuarios \newline
+- Conocimiento sobre UX/UI
+&
+- Sistema con diseño completo UX/UI (colores, tipografía, componentes) \newline
+- Biblioteca de modelos 3D de avatares
+&
+8 semanas \\[6pt]
+
+Desarrollar un prototipo funcional de la aplicación móvil que implemente las funcionalidades identificadas.
+&
+- Configuración del entorno de desarrollo en Unity \newline
+- Configuración de base de datos MongoDB \newline
+- Implementación de funcionalidades \newline
+- Integración de modelos 3D de Blender
+&
+- Unity para el desarrollo \newline
+- MongoDB \newline
+- Modelos 3D exportados desde Blender
+&
+- Prototipo funcional de aplicación móvil para Android \newline
+- Backend operativo con MongoDB \newline
+- Personalización de avatares operativa
+&
+9 semanas \\[6pt]
+
+Realizar pruebas piloto con un grupo de jóvenes para evaluar la usabilidad, la experiencia de usuario (UX) y la influencia de la aplicación en el estado emocional de los usuarios.
+&
+- Reclutamiento y selección de participantes (10-20 jóvenes) \newline
+- Período de uso libre de la aplicación (1-2 semanas) \newline
+- Registros de las pruebas \newline
+- Documentación de hallazgos
+&
+- Grupo de 10-20 jóvenes participantes \newline
+- Cuestionarios y formularios validados \newline
+- Dispositivos móviles Android \newline
+- Herramientas de grabación de sesiones
+&
+- Informe de la evaluación \newline
+- Análisis estadístico del impacto emocional \newline
+- Reporte de experiencia de usuario \newline
+- Documento final del proyecto
+&
+5 semanas \\
+
+\end{longtable}
+\vspace{-6pt}
+\noindent\textit{Nota.} Elaboración propia basada en los objetivos específicos del proyecto.
+
+\subsection{Cronograma de desarrollo}
+
+\begin{longtable}{
+  >{\raggedright\arraybackslash}p{0.34\textwidth}
+  *{6}{>{\centering\arraybackslash}p{0.09\textwidth}}
+}
+\caption{Cronograma de desarrollo}\label{tab:cronograma}\\
+\toprule
+ & \multicolumn{6}{c}{\textbf{Meses}} \\
+\cmidrule(l){2-7}
+\textbf{Actividad} & \textbf{Mes 1} & \textbf{Mes 2} & \textbf{Mes 3} & \textbf{Mes 4} & \textbf{Mes 5} & \textbf{Mes 6} \\
+\midrule
+\endfirsthead
+
+\multicolumn{7}{l}{\textit{Tabla \thetable{} (continuación)}} \\[4pt]
+\toprule
+ & \multicolumn{6}{c}{\textbf{Meses}} \\
+\cmidrule(l){2-7}
+\textbf{Actividad} & \textbf{Mes 1} & \textbf{Mes 2} & \textbf{Mes 3} & \textbf{Mes 4} & \textbf{Mes 5} & \textbf{Mes 6} \\
+\midrule
+\endhead
+
+\midrule
+\multicolumn{7}{r}{\textit{Continúa en la siguiente página}} \\
+\endfoot
+
+\bottomrule
+\endlastfoot
+
+Revisión bibliográfica sobre desconexión emocional digital & X & & & & & \\
+Recolección de datos & X & & & & & \\
+Prototipo base en Figma & X & & & & & \\
+Aplicación de Design Thinking y definición de diseño & X & X & & & & \\
+Diseño de flujos de interacción y modelado 3D de avatares & & X & & & & \\
+Configuración de Unity y MongoDB & & & X & & & \\
+Implementación de funcionalidades & & & X & X & & \\
+Integración de modelos 3D & & & X & X & & \\
+Pruebas de usabilidad y UX & & & & & & X \\
+Análisis de resultados & & & & & & X \\
+Elaboración de documento final & & & & & & X \\
+
+\end{longtable}
+\vspace{-6pt}
+\noindent\textit{Nota.} Elaboración propia del cronograma de desarrollo según los objetivos específicos del proyecto.
