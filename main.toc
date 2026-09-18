@@ -9,23 +9,56 @@
 \contentsline {section}{\numberline {1.4}JUSTIFICACIÓN}{5}{section.1.4}%
 \contentsline {section}{\numberline {1.5}ALCANCE Y LÍMITES}{5}{section.1.5}%
 \contentsline {section}{\numberline {1.6}DISEÑO METODOLÓGICO}{7}{section.1.6}%
-\contentsline {chapter}{\numberline {2}MARCO TEORICO}{8}{chapter.2}%
-\contentsline {section}{\numberline {2.1}INTERACCIÓN HUMANO-COMPUTADORA (IHC)}{8}{section.2.1}%
-\contentsline {subsection}{\numberline {2.1.1}Diseño Centrado en el Usuario (DCU)}{9}{subsection.2.1.1}%
-\contentsline {subsection}{\numberline {2.1.2}Experiencia de Usuario (UX)}{9}{subsection.2.1.2}%
-\contentsline {subsection}{\numberline {2.1.3}Interfaz de usuario(UI)}{11}{subsection.2.1.3}%
-\contentsline {subsection}{\numberline {2.1.4}Usabilidad}{12}{subsection.2.1.4}%
-\contentsline {section}{\numberline {2.2}COMPUTACIÓN AFECTIVA E IHC AFECTIVA}{12}{section.2.2}%
-\contentsline {section}{\numberline {2.3}EMOCIONES EN ENTORNOS DIGITALES}{13}{section.2.3}%
-\contentsline {subsection}{\numberline {2.3.1}Emociones en la interacción digital}{13}{subsection.2.3.1}%
-\contentsline {subsection}{\numberline {2.3.2}Regulación emocional}{14}{subsection.2.3.2}%
-\contentsline {subsection}{\numberline {2.3.3}Conexión social y bienestar emocional}{14}{subsection.2.3.3}%
-\contentsline {subsection}{\numberline {2.3.4}Micro interacciones sociales positivas}{15}{subsection.2.3.4}%
-\contentsline {section}{\numberline {2.4}METODOLOGÍA}{16}{section.2.4}%
-\contentsline {subsection}{\numberline {2.4.1}Design Thinking}{16}{subsection.2.4.1}%
-\contentsline {chapter}{\numberline {3}DESCONEXIÓN EMOCIONAL EN LAS REDES SOCIALES}{19}{chapter.3}%
-\contentsline {section}{\numberline {3.1}Uso de redes sociales y soledad en jóvenes}{19}{section.3.1}%
-\contentsline {section}{\numberline {3.2}Tipo de interacción digital como factor determinante}{20}{section.3.2}%
-\contentsline {section}{\numberline {3.3}Conexión abundante versus vínculo significativo}{21}{section.3.3}%
-\contentsline {section}{\numberline {3.4}Resultados de la encuesta diagnóstico aplicada al grupo objetivo}{21}{section.3.4}%
-\contentsline {section}{\numberline {3.5}Factores identificados que limitan la generación de vínculos significativos}{22}{section.3.5}%
+\contentsline {subsection}{\numberline {1.6.1}Tipo de investigación}{7}{subsection.1.6.1}%
+\contentsline {subsection}{\numberline {1.6.2}Fuentes de información}{7}{subsection.1.6.2}%
+\contentsline {subsection}{\numberline {1.6.3}Técnicas de recolección de datos}{7}{subsection.1.6.3}%
+\contentsline {subsection}{\numberline {1.6.4}Procedimiento}{8}{subsection.1.6.4}%
+\contentsline {subsection}{\numberline {1.6.5}Cronograma de desarrollo}{12}{subsection.1.6.5}%
+\contentsline {chapter}{\numberline {2}MARCO TEORICO}{14}{chapter.2}%
+\contentsline {section}{\numberline {2.1}INTERACCIÓN HUMANO-COMPUTADORA (IHC)}{14}{section.2.1}%
+\contentsline {subsection}{\numberline {2.1.1}Diseño Centrado en el Usuario (DCU)}{15}{subsection.2.1.1}%
+\contentsline {subsection}{\numberline {2.1.2}Experiencia de Usuario (UX)}{15}{subsection.2.1.2}%
+\contentsline {subsection}{\numberline {2.1.3}Interfaz de usuario(UI)}{17}{subsection.2.1.3}%
+\contentsline {subsection}{\numberline {2.1.4}Usabilidad}{18}{subsection.2.1.4}%
+\contentsline {section}{\numberline {2.2}COMPUTACIÓN AFECTIVA E IHC AFECTIVA}{18}{section.2.2}%
+\contentsline {section}{\numberline {2.3}EMOCIONES EN ENTORNOS DIGITALES}{19}{section.2.3}%
+\contentsline {subsection}{\numberline {2.3.1}Emociones en la interacción digital}{19}{subsection.2.3.1}%
+\contentsline {subsection}{\numberline {2.3.2}Regulación emocional}{20}{subsection.2.3.2}%
+\contentsline {subsection}{\numberline {2.3.3}Conexión social y bienestar emocional}{20}{subsection.2.3.3}%
+\contentsline {subsection}{\numberline {2.3.4}Micro interacciones sociales positivas}{21}{subsection.2.3.4}%
+\contentsline {section}{\numberline {2.4}METODOLOGÍA}{22}{section.2.4}%
+\contentsline {subsection}{\numberline {2.4.1}Design Thinking}{22}{subsection.2.4.1}%
+\contentsline {chapter}{\numberline {3}DESCONEXIÓN EMOCIONAL EN LAS REDES SOCIALES}{25}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Uso de redes sociales y soledad en jóvenes}{25}{section.3.1}%
+\contentsline {section}{\numberline {3.2}Tipo de interacción digital como factor determinante}{26}{section.3.2}%
+\contentsline {section}{\numberline {3.3}Conexión abundante versus vínculo significativo}{27}{section.3.3}%
+\contentsline {section}{\numberline {3.4}Resultados de la encuesta diagnóstico aplicada al grupo objetivo}{27}{section.3.4}%
+\contentsline {section}{\numberline {3.5}Factores identificados que limitan la generación de vínculos significativos}{28}{section.3.5}%
+\contentsline {chapter}{\numberline {4}EMPATÍA}{30}{chapter.4}%
+\contentsline {section}{\numberline {4.1}GUÍA DE LA ENTREVISTA CUALITATIVA}{30}{section.4.1}%
+\contentsline {subsection}{\numberline {4.1.1}Introducción}{30}{subsection.4.1.1}%
+\contentsline {subsection}{\numberline {4.1.2}Preguntas personales}{31}{subsection.4.1.2}%
+\contentsline {subsection}{\numberline {4.1.3}Redes sociales}{31}{subsection.4.1.3}%
+\contentsline {subsection}{\numberline {4.1.4}Bienestar emocional}{32}{subsection.4.1.4}%
+\contentsline {subsection}{\numberline {4.1.5}Conclusión}{32}{subsection.4.1.5}%
+\contentsline {section}{\numberline {4.2}APLICACIÓN DE LAS ENTREVISTAS}{33}{section.4.2}%
+\contentsline {subsection}{\numberline {4.2.1}Usuario 1: Rolando Mercado Rojas}{33}{subsection.4.2.1}%
+\contentsline {subsection}{\numberline {4.2.2}Usuario 4: Antonia Tapia}{34}{subsection.4.2.2}%
+\contentsline {subsection}{\numberline {4.2.3}Usuarios 2, 3, 5 y 6}{35}{subsection.4.2.3}%
+\contentsline {section}{\numberline {4.3}TÉCNICA DE LOS 5 ¿POR QUÉ?}{36}{section.4.3}%
+\contentsline {subsection}{\numberline {4.3.1}Usuario 1: Rolando Mercado Rojas}{36}{subsection.4.3.1}%
+\contentsline {subsection}{\numberline {4.3.2}Usuario 5: Alejandra Pérez Ramal}{37}{subsection.4.3.2}%
+\contentsline {subsection}{\numberline {4.3.3}Usuarios 2, 3, 4 y 6}{37}{subsection.4.3.3}%
+\contentsline {section}{\numberline {4.4}SÍNTESIS DE LA FASE EMPATIZAR}{38}{section.4.4}%
+\contentsline {chapter}{\numberline {5}DEFINIR}{39}{chapter.5}%
+\contentsline {section}{\numberline {5.1}PERFIL DE USUARIO}{39}{section.5.1}%
+\contentsline {subsection}{\numberline {5.1.1}Usuario 1: Rolando Mercado Rojas}{39}{subsection.5.1.1}%
+\contentsline {subsection}{\numberline {5.1.2}Usuario 5: Alejandra Pérez Ramal}{41}{subsection.5.1.2}%
+\contentsline {subsection}{\numberline {5.1.3}Usuarios 2, 3, 4 y 6}{41}{subsection.5.1.3}%
+\contentsline {section}{\numberline {5.2}MAPA DE EMPATÍA}{41}{section.5.2}%
+\contentsline {subsection}{\numberline {5.2.1}Usuario 1: Rolando Mercado Rojas}{41}{subsection.5.2.1}%
+\contentsline {subsection}{\numberline {5.2.2}Usuario 5: Alejandra Pérez Ramal}{42}{subsection.5.2.2}%
+\contentsline {subsection}{\numberline {5.2.3}Usuarios 2, 3, 4 y 6}{42}{subsection.5.2.3}%
+\contentsline {section}{\numberline {5.3}MAPA DE MOTIVACIONES}{43}{section.5.3}%
+\contentsline {section}{\numberline {5.4}¿CÓMO PODRÍAMOS...?}{44}{section.5.4}%
+\contentsline {section}{\numberline {5.5}PLANTEAMIENTO DEL PROBLEMA (POINT OF VIEW)}{45}{section.5.5}%
