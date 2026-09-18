@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.4.6)  18 SEP 2026 18:01
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.4.6)  18 SEP 2026 18:05
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -453,8 +453,12 @@ File: t1ptm.fd 2001/06/04 font definitions for T1/ptm.
 tex.def
 File: l3backend-pdftex.def 2025-10-09 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count319
+) (main.aux
+LaTeX Info: Redefining \. on input line 11.
+LaTeX Info: Redefining \% on input line 11.
+Package babel Info: 'spanish' activates 'spanish' shorthands.
+(babel)             Reported on input line 11.
 )
-No file main.aux.
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 127.
@@ -477,8 +481,7 @@ LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 127.
 LaTeX Font Info:    ... okay on input line 127.
 LaTeX Info: Redefining \. on input line 127.
 LaTeX Info: Redefining \% on input line 127.
-Package babel Info: 'spanish' activates 'spanish' shorthands.
-(babel)             Reported on input line 127.
+
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
 *geometry* verbose mode - [ preamble ] result:
@@ -551,6 +554,7 @@ Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: hyperref package is loaded.
 Package caption Info: End \AtBeginDocument code.
 Package hyperref Info: Link coloring OFF on input line 127.
+ (main.out) (main.out)
 \@outlinefile=\write3
 \openout3 = `main.out'.
 
@@ -562,7 +566,7 @@ LaTeX Info: Redefining \BPBI on input line 138.
 LaTeX Info: Redefining \BHBI on input line 139.
 )
 (cover.tex
-<Images/fcyt-escudo.png, id=3, 614.295pt x 794.97pt>
+<Images/fcyt-escudo.png, id=255, 614.295pt x 794.97pt>
 File: Images/fcyt-escudo.png Graphic file (type png)
 <use Images/fcyt-escudo.png>
 Package pdftex.def Info: Images/fcyt-escudo.png  used on input line 7.
@@ -573,7 +577,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <8> on input line 8.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 8.
-<Images/fcyt-logo.png, id=5, 909.3975pt x 898.85812pt>
+<Images/fcyt-logo.png, id=257, 909.3975pt x 898.85812pt>
 File: Images/fcyt-logo.png Graphic file (type png)
 <use Images/fcyt-logo.png>
 Package pdftex.def Info: Images/fcyt-logo.png  used on input line 18.
@@ -600,32 +604,39 @@ een already used, duplicate ignored
 l.170 \clearpage
                  [3
 
-]
-No file main.toc.
-\tf@toc=\write4
-\openout4 = `main.toc'.
-
+] (main.toc
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
 
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.174 \clearpage
-                 [1
+l.27 ...bienestar emocional}{20}{subsection.2.3.3}
+                                                  % [1
 
-]
-No file main.lof.
+] [2])
+\tf@toc=\write4
+\openout4 = `main.toc'.
+
+ [3] (main.lof
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
+)
 \tf@lof=\write5
 \openout5 = `main.lof'.
 
-[2
 
-]
-No file main.lot.
+[4
+
+] (main.lot
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
+)
 \tf@lot=\write6
 \openout6 = `main.lot'.
 
-[3
+ [5
 
 ] (Chapters/1-Introduction.tex
 Cap\'{\i }tulo 1.
@@ -650,7 +661,20 @@ been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.23 
-      [3] [4] [5] [6] [7]
+      [3]
+pdfTeX warning (ext4): destination with the same identifier (name{page.4}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.40 \end{itemize}
+                   [4]
+pdfTeX warning (ext4): destination with the same identifier (name{page.5}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.54     \item S
+                e incluirán funcionalidades de envío y recepción de mensa...
+[5] [6] [7]
 Overfull \hbox (2.5855pt too wide) in paragraph at lines 116--117
 []|\T1/ptm/b/n/12 Tiempo|  
  []
@@ -726,7 +750,7 @@ LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 2
 File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
 )
 [16] [17] [18] [19] [20] [21]
-<Images/document/designThinking.jpg, id=151, 7708.8pt x 4411.48125pt>
+<Images/document/designThinking.jpg, id=469, 7708.8pt x 4411.48125pt>
 File: Images/document/designThinking.jpg Graphic file (type jpg)
 <use Images/document/designThinking.jpg>
 Package pdftex.def Info: Images/document/designThinking.jpg  used on input line
@@ -742,14 +766,14 @@ Cap\'{\i }tulo 4.
 [30
 
 ] [31] [32]
-<Images/methodology/empathy/usuario1EC.png, id=221, 1445.4pt x 813.0375pt>
+<Images/methodology/empathy/usuario1EC.png, id=523, 1445.4pt x 813.0375pt>
 File: Images/methodology/empathy/usuario1EC.png Graphic file (type png)
 <use Images/methodology/empathy/usuario1EC.png>
 Package pdftex.def Info: Images/methodology/empathy/usuario1EC.png  used on inp
 ut line 59.
 (pdftex.def)             Requested size: 410.99728pt x 231.18463pt.
  [33]
-<Images/methodology/empathy/usuario4EC.png, id=228, 1445.4pt x 813.0375pt>
+<Images/methodology/empathy/usuario4EC.png, id=528, 1445.4pt x 813.0375pt>
 File: Images/methodology/empathy/usuario4EC.png Graphic file (type png)
 <use Images/methodology/empathy/usuario4EC.png>
 Package pdftex.def Info: Images/methodology/empathy/usuario4EC.png  used on inp
@@ -757,14 +781,14 @@ ut line 73.
 (pdftex.def)             Requested size: 410.99728pt x 231.18463pt.
  [34 <./Images/methodology/empathy/usuario1EC.png (PNG copy)>] [35 <./Images/me
 thodology/empathy/usuario4EC.png (PNG copy)>]
-<Images/methodology/empathy/usuario1-5P.png, id=241, 1445.4pt x 813.0375pt>
+<Images/methodology/empathy/usuario1-5P.png, id=538, 1445.4pt x 813.0375pt>
 File: Images/methodology/empathy/usuario1-5P.png Graphic file (type png)
 <use Images/methodology/empathy/usuario1-5P.png>
 Package pdftex.def Info: Images/methodology/empathy/usuario1-5P.png  used on in
 put line 93.
 (pdftex.def)             Requested size: 410.99728pt x 231.18463pt.
  [36 <./Images/methodology/empathy/usuario1-5P.png (PNG copy)>]
-<Images/methodology/empathy/usuario5-5P.png, id=250, 1445.4pt x 813.0375pt>
+<Images/methodology/empathy/usuario5-5P.png, id=543, 1445.4pt x 813.0375pt>
 File: Images/methodology/empathy/usuario5-5P.png Graphic file (type png)
 <use Images/methodology/empathy/usuario5-5P.png>
 Package pdftex.def Info: Images/methodology/empathy/usuario5-5P.png  used on in
@@ -773,13 +797,13 @@ put line 105.
  [37 <./Images/methodology/empathy/usuario5-5P.png (PNG copy)>]) (Chapters/5-De
 fine.tex [38]
 Cap\'{\i }tulo 5.
-<Images/methodology/define/usuario1P.png, id=263, 1445.4pt x 813.0375pt>
+<Images/methodology/define/usuario1P.png, id=552, 1445.4pt x 813.0375pt>
 File: Images/methodology/define/usuario1P.png Graphic file (type png)
 <use Images/methodology/define/usuario1P.png>
 Package pdftex.def Info: Images/methodology/define/usuario1P.png  used on input
  line 13.
 (pdftex.def)             Requested size: 410.99728pt x 231.18463pt.
-<Images/methodology/define/usuario5P.png, id=264, 1445.4pt x 813.0375pt>
+<Images/methodology/define/usuario5P.png, id=553, 1445.4pt x 813.0375pt>
 File: Images/methodology/define/usuario5P.png Graphic file (type png)
 <use Images/methodology/define/usuario5P.png>
 Package pdftex.def Info: Images/methodology/define/usuario5P.png  used on input
@@ -789,20 +813,20 @@ Package pdftex.def Info: Images/methodology/define/usuario5P.png  used on input
 
 ] [40 <./Images/methodology/define/usuario1P.png (PNG copy)> <./Images/methodol
 ogy/define/usuario5P.png (PNG copy)>]
-<Images/methodology/define/usuario1ME.png, id=278, 1445.4pt x 813.0375pt>
+<Images/methodology/define/usuario1ME.png, id=563, 1445.4pt x 813.0375pt>
 File: Images/methodology/define/usuario1ME.png Graphic file (type png)
 <use Images/methodology/define/usuario1ME.png>
 Package pdftex.def Info: Images/methodology/define/usuario1ME.png  used on inpu
 t line 43.
 (pdftex.def)             Requested size: 410.99728pt x 231.18463pt.
-<Images/methodology/define/usuario5ME.png, id=279, 1445.4pt x 813.0375pt>
+<Images/methodology/define/usuario5ME.png, id=564, 1445.4pt x 813.0375pt>
 File: Images/methodology/define/usuario5ME.png Graphic file (type png)
 <use Images/methodology/define/usuario5ME.png>
 Package pdftex.def Info: Images/methodology/define/usuario5ME.png  used on inpu
 t line 55.
 (pdftex.def)             Requested size: 410.99728pt x 231.18463pt.
  [41] [42 <./Images/methodology/define/usuario1ME.png (PNG copy)>]
-<Images/methodology/define/mapaDeMotivaciones.png, id=296, 1445.4pt x 813.0375p
+<Images/methodology/define/mapaDeMotivaciones.png, id=573, 1445.4pt x 813.0375p
 t>
 File: Images/methodology/define/mapaDeMotivaciones.png Graphic file (type png)
 <use Images/methodology/define/mapaDeMotivaciones.png>
@@ -810,7 +834,7 @@ Package pdftex.def Info: Images/methodology/define/mapaDeMotivaciones.png  used
  on input line 72.
 (pdftex.def)             Requested size: 433.83202pt x 244.02478pt.
  [43 <./Images/methodology/define/usuario5ME.png (PNG copy)>]
-<Images/methodology/define/comoPodriamos.png, id=303, 1445.4pt x 813.0375pt>
+<Images/methodology/define/comoPodriamos.png, id=578, 1445.4pt x 813.0375pt>
 File: Images/methodology/define/comoPodriamos.png Graphic file (type png)
 <use Images/methodology/define/comoPodriamos.png>
 Package pdftex.def Info: Images/methodology/define/comoPodriamos.png  used on i
@@ -827,36 +851,26 @@ LaTeX Info: Redefining \% on input line 11.
 LaTeX2e <2025-11-01>
 L3 programming layer <2025-12-24>
  ***********
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
-
-Package rerunfilecheck Warning: File `main.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `main.out':
-(rerunfilecheck)             Before: <no file>
-(rerunfilecheck)             After:  8528B9B1349536558B33449A4BD0035E;12450.
+Package rerunfilecheck Info: File `main.out' has not changed.
+(rerunfilecheck)             Checksum: 8528B9B1349536558B33449A4BD0035E;12450.
  ) 
 Here is how much of TeX's memory you used:
- 14701 strings out of 467870
- 239980 string characters out of 5418356
- 684510 words of memory out of 5000000
- 43264 multiletter control sequences out of 15000+600000
+ 14782 strings out of 467870
+ 241612 string characters out of 5418356
+ 685685 words of memory out of 5000000
+ 43333 multiletter control sequences out of 15000+600000
  649880 words of font info for 64 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,12n,79p,1325b,629s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,12n,79p,1325b,804s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/Admin/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/
 cmmi12.pfb><C:/Users/Admin/AppData/Local/Programs/MiKTeX/fonts/type1/public/ams
 fonts/cm/cmr12.pfb><C:/Users/Admin/AppData/Local/Programs/MiKTeX/fonts/type1/ur
 w/times/utmb8a.pfb><C:/Users/Admin/AppData/Local/Programs/MiKTeX/fonts/type1/ur
 w/times/utmr8a.pfb><C:/Users/Admin/AppData/Local/Programs/MiKTeX/fonts/type1/ur
 w/times/utmri8a.pfb>
-Output written on main.pdf (53 pages, 13755829 bytes).
+Output written on main.pdf (55 pages, 13798338 bytes).
 PDF statistics:
- 373 PDF objects out of 1000 (max. 8388607)
+ 646 PDF objects out of 1000 (max. 8388607)
  129 named destinations out of 1000 (max. 500000)
- 66 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 570 words of extra memory for PDF output out of 10000 (max. 10000000)
 
