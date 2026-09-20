@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.4.6)  18 SEP 2026 18:05
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.4.6)  20 SEP 2026 12:01
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -645,8 +645,8 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.9 
-     [1
+l.10 
+      [1
 
 
 ]
@@ -654,8 +654,9 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.2}) has
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.17 
-      [2]
+l.15 C
+      omplementando este hallazgo, \citet{godard2024active} desarrollaron un...
+[2]
 pdfTeX warning (ext4): destination with the same identifier (name{page.3}) has 
 been already used, duplicate ignored
 <to be read again> 
@@ -666,46 +667,45 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.4}) has
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.40 \end{itemize}
-                   [4]
+l.38 
+      [4]
 pdfTeX warning (ext4): destination with the same identifier (name{page.5}) has 
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.54     \item S
-                e incluirán funcionalidades de envío y recepción de mensa...
-[5] [6] [7]
-Overfull \hbox (2.5855pt too wide) in paragraph at lines 116--117
+l.51 
+      [5] [6] [7]
+Overfull \hbox (2.5855pt too wide) in paragraph at lines 124--125
 []|\T1/ptm/b/n/12 Tiempo|  
  []
 
 
-Overfull \hbox (14.3305pt too wide) in alignment at lines 113--118
+Overfull \hbox (14.3305pt too wide) in alignment at lines 121--126
  [] [] [] [] [] 
  []
 
 
-Overfull \hbox (2.5855pt too wide) in paragraph at lines 122--123
+Overfull \hbox (2.5855pt too wide) in paragraph at lines 130--131
 []|\T1/ptm/b/n/12 Tiempo|  
  []
 
 
-Overfull \hbox (14.3305pt too wide) in alignment at lines 118--124
+Overfull \hbox (14.3305pt too wide) in alignment at lines 126--132
  [] [] [] [] [] 
  []
 
 
-Overfull \hbox (14.3305pt too wide) in alignment at lines 124--128
+Overfull \hbox (14.3305pt too wide) in alignment at lines 132--136
  [] [] [] [] [] 
  []
 
 
-Overfull \hbox (14.3305pt too wide) in alignment at lines 128--131
+Overfull \hbox (14.3305pt too wide) in alignment at lines 136--139
  [] [] [] [] [] 
  []
 
 
-Overfull \hbox (14.3305pt too wide) in alignment at lines 131--201
+Overfull \hbox (14.3305pt too wide) in alignment at lines 139--209
  [] [] [] [] [] 
  []
 
@@ -713,27 +713,27 @@ Overfull \hbox (14.3305pt too wide) in alignment at lines 131--201
 ignored error: Infinite glue shrinkage found in box being split [9]
 ignored error: Infinite glue shrinkage found in box being split [10]
 ignored error: Infinite glue shrinkage found in box being split [11]
-Overfull \hbox (29.18823pt too wide) in alignment at lines 210--217
+Overfull \hbox (29.18823pt too wide) in alignment at lines 218--225
  [] [] [] [] [] [] [] 
  []
 
 
-Overfull \hbox (29.18823pt too wide) in alignment at lines 217--225
+Overfull \hbox (29.18823pt too wide) in alignment at lines 225--233
  [] [] [] [] [] [] [] 
  []
 
 
-Overfull \hbox (29.18823pt too wide) in alignment at lines 225--229
+Overfull \hbox (29.18823pt too wide) in alignment at lines 233--237
  [] [] [] [] [] [] [] 
  []
 
 
-Overfull \hbox (29.18823pt too wide) in alignment at lines 229--232
+Overfull \hbox (29.18823pt too wide) in alignment at lines 237--240
  [] [] [] [] [] [] [] 
  []
 
 
-Overfull \hbox (29.18823pt too wide) in alignment at lines 232--246
+Overfull \hbox (29.18823pt too wide) in alignment at lines 240--254
  [] [] [] [] [] [] [] 
  []
 
@@ -750,7 +750,7 @@ LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 2
 File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
 )
 [16] [17] [18] [19] [20] [21]
-<Images/document/designThinking.jpg, id=469, 7708.8pt x 4411.48125pt>
+<Images/document/designThinking.jpg, id=481, 7708.8pt x 4411.48125pt>
 File: Images/document/designThinking.jpg Graphic file (type jpg)
 <use Images/document/designThinking.jpg>
 Package pdftex.def Info: Images/document/designThinking.jpg  used on input line
@@ -766,14 +766,14 @@ Cap\'{\i }tulo 4.
 [30
 
 ] [31] [32]
-<Images/methodology/empathy/usuario1EC.png, id=523, 1445.4pt x 813.0375pt>
+<Images/methodology/empathy/usuario1EC.png, id=535, 1445.4pt x 813.0375pt>
 File: Images/methodology/empathy/usuario1EC.png Graphic file (type png)
 <use Images/methodology/empathy/usuario1EC.png>
 Package pdftex.def Info: Images/methodology/empathy/usuario1EC.png  used on inp
 ut line 59.
 (pdftex.def)             Requested size: 410.99728pt x 231.18463pt.
  [33]
-<Images/methodology/empathy/usuario4EC.png, id=528, 1445.4pt x 813.0375pt>
+<Images/methodology/empathy/usuario4EC.png, id=540, 1445.4pt x 813.0375pt>
 File: Images/methodology/empathy/usuario4EC.png Graphic file (type png)
 <use Images/methodology/empathy/usuario4EC.png>
 Package pdftex.def Info: Images/methodology/empathy/usuario4EC.png  used on inp
@@ -781,14 +781,14 @@ ut line 73.
 (pdftex.def)             Requested size: 410.99728pt x 231.18463pt.
  [34 <./Images/methodology/empathy/usuario1EC.png (PNG copy)>] [35 <./Images/me
 thodology/empathy/usuario4EC.png (PNG copy)>]
-<Images/methodology/empathy/usuario1-5P.png, id=538, 1445.4pt x 813.0375pt>
+<Images/methodology/empathy/usuario1-5P.png, id=550, 1445.4pt x 813.0375pt>
 File: Images/methodology/empathy/usuario1-5P.png Graphic file (type png)
 <use Images/methodology/empathy/usuario1-5P.png>
 Package pdftex.def Info: Images/methodology/empathy/usuario1-5P.png  used on in
 put line 93.
 (pdftex.def)             Requested size: 410.99728pt x 231.18463pt.
  [36 <./Images/methodology/empathy/usuario1-5P.png (PNG copy)>]
-<Images/methodology/empathy/usuario5-5P.png, id=543, 1445.4pt x 813.0375pt>
+<Images/methodology/empathy/usuario5-5P.png, id=555, 1445.4pt x 813.0375pt>
 File: Images/methodology/empathy/usuario5-5P.png Graphic file (type png)
 <use Images/methodology/empathy/usuario5-5P.png>
 Package pdftex.def Info: Images/methodology/empathy/usuario5-5P.png  used on in
@@ -797,13 +797,13 @@ put line 105.
  [37 <./Images/methodology/empathy/usuario5-5P.png (PNG copy)>]) (Chapters/5-De
 fine.tex [38]
 Cap\'{\i }tulo 5.
-<Images/methodology/define/usuario1P.png, id=552, 1445.4pt x 813.0375pt>
+<Images/methodology/define/usuario1P.png, id=564, 1445.4pt x 813.0375pt>
 File: Images/methodology/define/usuario1P.png Graphic file (type png)
 <use Images/methodology/define/usuario1P.png>
 Package pdftex.def Info: Images/methodology/define/usuario1P.png  used on input
  line 13.
 (pdftex.def)             Requested size: 410.99728pt x 231.18463pt.
-<Images/methodology/define/usuario5P.png, id=553, 1445.4pt x 813.0375pt>
+<Images/methodology/define/usuario5P.png, id=565, 1445.4pt x 813.0375pt>
 File: Images/methodology/define/usuario5P.png Graphic file (type png)
 <use Images/methodology/define/usuario5P.png>
 Package pdftex.def Info: Images/methodology/define/usuario5P.png  used on input
@@ -813,20 +813,20 @@ Package pdftex.def Info: Images/methodology/define/usuario5P.png  used on input
 
 ] [40 <./Images/methodology/define/usuario1P.png (PNG copy)> <./Images/methodol
 ogy/define/usuario5P.png (PNG copy)>]
-<Images/methodology/define/usuario1ME.png, id=563, 1445.4pt x 813.0375pt>
+<Images/methodology/define/usuario1ME.png, id=575, 1445.4pt x 813.0375pt>
 File: Images/methodology/define/usuario1ME.png Graphic file (type png)
 <use Images/methodology/define/usuario1ME.png>
 Package pdftex.def Info: Images/methodology/define/usuario1ME.png  used on inpu
 t line 43.
 (pdftex.def)             Requested size: 410.99728pt x 231.18463pt.
-<Images/methodology/define/usuario5ME.png, id=564, 1445.4pt x 813.0375pt>
+<Images/methodology/define/usuario5ME.png, id=576, 1445.4pt x 813.0375pt>
 File: Images/methodology/define/usuario5ME.png Graphic file (type png)
 <use Images/methodology/define/usuario5ME.png>
 Package pdftex.def Info: Images/methodology/define/usuario5ME.png  used on inpu
 t line 55.
 (pdftex.def)             Requested size: 410.99728pt x 231.18463pt.
  [41] [42 <./Images/methodology/define/usuario1ME.png (PNG copy)>]
-<Images/methodology/define/mapaDeMotivaciones.png, id=573, 1445.4pt x 813.0375p
+<Images/methodology/define/mapaDeMotivaciones.png, id=585, 1445.4pt x 813.0375p
 t>
 File: Images/methodology/define/mapaDeMotivaciones.png Graphic file (type png)
 <use Images/methodology/define/mapaDeMotivaciones.png>
@@ -834,16 +834,23 @@ Package pdftex.def Info: Images/methodology/define/mapaDeMotivaciones.png  used
  on input line 72.
 (pdftex.def)             Requested size: 433.83202pt x 244.02478pt.
  [43 <./Images/methodology/define/usuario5ME.png (PNG copy)>]
-<Images/methodology/define/comoPodriamos.png, id=578, 1445.4pt x 813.0375pt>
+<Images/methodology/define/comoPodriamos.png, id=590, 1445.4pt x 813.0375pt>
 File: Images/methodology/define/comoPodriamos.png Graphic file (type png)
 <use Images/methodology/define/comoPodriamos.png>
 Package pdftex.def Info: Images/methodology/define/comoPodriamos.png  used on i
 nput line 86.
 (pdftex.def)             Requested size: 433.83202pt x 244.02478pt.
  [44 <./Images/methodology/define/mapaDeMotivaciones.png (PNG copy)>]) [45 <./I
-mages/methodology/define/comoPodriamos.png (PNG copy)>] [46]
-No file main.bbl.
-(main.aux
+mages/methodology/define/comoPodriamos.png (PNG copy)>] [46] (main.bbl
+LaTeX Font Info:    Trying to load font information for T1+pcr on input line 31
+.
+(C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\t1pcr.fd
+File: t1pcr.fd 2001/06/04 font definitions for T1/pcr.
+)
+[47
+
+
+]) [48] (main.aux
 LaTeX Info: Redefining \. on input line 11.
 LaTeX Info: Redefining \% on input line 11.
 )
@@ -855,22 +862,23 @@ Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: 8528B9B1349536558B33449A4BD0035E;12450.
  ) 
 Here is how much of TeX's memory you used:
- 14782 strings out of 467870
- 241612 string characters out of 5418356
- 685685 words of memory out of 5000000
- 43333 multiletter control sequences out of 15000+600000
- 649880 words of font info for 64 fonts, out of 8000000 for 9000
+ 14880 strings out of 467870
+ 243677 string characters out of 5418356
+ 686297 words of memory out of 5000000
+ 43410 multiletter control sequences out of 15000+600000
+ 650501 words of font info for 66 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,12n,79p,1325b,804s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,12n,112p,1339b,804s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/Admin/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/
 cmmi12.pfb><C:/Users/Admin/AppData/Local/Programs/MiKTeX/fonts/type1/public/ams
 fonts/cm/cmr12.pfb><C:/Users/Admin/AppData/Local/Programs/MiKTeX/fonts/type1/ur
-w/times/utmb8a.pfb><C:/Users/Admin/AppData/Local/Programs/MiKTeX/fonts/type1/ur
-w/times/utmr8a.pfb><C:/Users/Admin/AppData/Local/Programs/MiKTeX/fonts/type1/ur
-w/times/utmri8a.pfb>
-Output written on main.pdf (55 pages, 13798338 bytes).
+w/courier/ucrr8a.pfb><C:/Users/Admin/AppData/Local/Programs/MiKTeX/fonts/type1/
+urw/times/utmb8a.pfb><C:/Users/Admin/AppData/Local/Programs/MiKTeX/fonts/type1/
+urw/times/utmr8a.pfb><C:/Users/Admin/AppData/Local/Programs/MiKTeX/fonts/type1/
+urw/times/utmri8a.pfb>
+Output written on main.pdf (57 pages, 13823837 bytes).
 PDF statistics:
- 646 PDF objects out of 1000 (max. 8388607)
- 129 named destinations out of 1000 (max. 500000)
+ 695 PDF objects out of 1000 (max. 8388607)
+ 142 named destinations out of 1000 (max. 500000)
  570 words of extra memory for PDF output out of 10000 (max. 10000000)
 
