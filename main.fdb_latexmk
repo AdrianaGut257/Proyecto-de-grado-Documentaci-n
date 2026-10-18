@@ -1,13 +1,13 @@
 # Fdb version 4
-["bibtex main"] 1792283216.30862 "main.aux" "main.bbl" "main" 1792285009.41515 0
-  "./bibliography.bib" 1792282723.06754 11322 b771d4f0fde38d17b71e70498a7f38c4 ""
+["bibtex main"] 1792361736.24162 "main.aux" "main.bbl" "main" 1792361738.33523 0
+  "./bibliography.bib" 1792361717.96344 11346 088d5f90d70596f3344f1270c4d3df72 ""
   "C:/Users/Admin/AppData/Local/Programs/MiKTeX/bibtex/bst/apacite/apacite.bst" 1374952728 146156 ecb25f7102744fefab6424686f49047c ""
-  "main.aux" 1792285008.62712 21813 3edc5f4369844badd4c9eeae93aedea5 "pdflatex"
+  "main.aux" 1792361738.20138 226 3ebb9564fcf0d5a61634af8a7449c51d "pdflatex"
   (generated)
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["pdflatex"] 1792285006.85775 "main.tex" "main.pdf" "main" 1792285009.41594 0
+["pdflatex"] 1792361737.53256 "main.tex" "main.pdf" "main" 1792361738.33602 2
   "C:/Users/Admin/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1789651246.57482 82507 a9eef8696c92627b87e9975edea03b2a ""
   "C:/Users/Admin/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1200.pk" 1792282543.8801 14064 603efa820db800016c1fd2b4b8c10c15 ""
   "C:/Users/Admin/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1775521573.71926 13333527 9ec129b82a8f92a3bcfaf3ec26d36f7e ""
@@ -118,10 +118,10 @@
   "C:/Users/Admin/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "Chapters/1-Introduction.tex" 1792284852.71798 21002 bbf6f0d2b23ced94d772ec22c4c89675 ""
   "Chapters/2-Theoretical-framework.tex" 1787241779.01402 21605 c3f91f66333c978361d032cf0dbe67b7 ""
-  "Chapters/3-Emotional-disconnection.tex" 1789653485.66769 9211 ee9dbb54d21d4c677235f5bfa0935a1e ""
-  "Chapters/4-Empathize.tex" 1792283207.22895 13264 b75812f8fe6e713d3d64826196d85c7b ""
-  "Chapters/5-Define.tex" 1792283207.25396 8252 5d53eaaf627df286a906532efcf2d29b ""
-  "Chapters/6-Ideate.tex" 1792282723.03984 10808 369296fe61d4d89cecd20959ae91f120 ""
+  "Chapters/3-Emotional-disconnection.tex" 1792361720.1159 9617 c445b968481eed39ae3971454819a6b4 ""
+  "Chapters/4-Empathize.tex" 1792361733.27334 13416 87b8e2b0d4610460a95a2d17f86dcefe ""
+  "Chapters/5-Define.tex" 1792361723.30651 8314 e24cefdfb2aeb24b26473389c8534497 ""
+  "Chapters/6-Ideate.tex" 1792361724.38239 10815 96cb7f38f6f928590abb0dbe358b927b ""
   "Chapters/7-Prototype.tex" 1792282164.70771 18944 bee2494241cd8f60f7989888b76265d6 ""
   "Chapters/8-Test.tex" 1792282357.94592 11280 80781d22444c884b248b06a2cc56f583 ""
   "Images/document/designThinking.jpg" 1775944602.3304 4045166 02d07a01d18bf3b3178d5c06ec12df80 ""
@@ -138,19 +138,15 @@
   "Images/methodology/empathy/usuario4EC.png" 1789677415.90676 884634 7f8c8c482a97f48860a2778d2bca4d4d ""
   "Images/methodology/empathy/usuario5-5P.png" 1789677642.92005 683542 c9295a6f10e3f36580f461a3b276364e ""
   "cover.tex" 1789769040.06348 1132 1725885ed470f618fe552b2bac99297d ""
-  "main.aux" 1792285008.62712 21813 3edc5f4369844badd4c9eeae93aedea5 "pdflatex"
-  "main.bbl" 1792283216.57207 24128 44ee163caceeedce4dc327618dbc1d65 "bibtex main"
-  "main.lof" 1792285008.64473 1424 73a2af7a69c92f0135d4016e95c8f21b "pdflatex"
-  "main.lot" 1792285008.6454 797 9ad8909082490513ca2b5445246f1b52 "pdflatex"
-  "main.out" 1792285008.6375 17318 99212b65ec11a8d143a7aa19241dda93 "pdflatex"
+  "main.aux" 1792361738.20138 226 3ebb9564fcf0d5a61634af8a7449c51d "pdflatex"
+  "main.bbl" 1792361736.57138 24198 b36e42fb0c770eb93999dfe03db74da2 "bibtex main"
+  "main.lof" 1792285008.64473 1424 73a2af7a69c92f0135d4016e95c8f21b ""
+  "main.lot" 1792285008.6454 797 9ad8909082490513ca2b5445246f1b52 ""
+  "main.out" 1792285008.6375 17318 99212b65ec11a8d143a7aa19241dda93 ""
   "main.tex" 1792284763.26226 7089 f2ff8c5fe32e8f2ae39a1ac4121ec73c ""
-  "main.toc" 1792285008.64473 8477 b3cc8d1fd540300f3544c9dcc34fb8dd "pdflatex"
+  "main.toc" 1792285008.64473 8477 b3cc8d1fd540300f3544c9dcc34fb8dd ""
   (generated)
   "main.aux"
-  "main.lof"
   "main.log"
-  "main.lot"
-  "main.out"
   "main.pdf"
-  "main.toc"
   (rewritten before read)

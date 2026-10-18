@@ -93,6 +93,39 @@ Brooke, J.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
+Burke%
+\ \BBA {} Kraut%
+}{%
+Burke%
+\ \BBA {} Kraut%
+}{%
+{\protect \APACyear {2016}}%
+}]{%
+burke2016relationship}
+\APACinsertmetastar {%
+burke2016relationship}%
+\begin{APACrefauthors}%
+Burke, M.%
+\BCBT {}\ \BBA {} Kraut, R\BPBI E.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2016}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {The relationship between {Facebook} use and well-being
+  depends on communication type and tie strength} {The relationship between
+  {Facebook} use and well-being depends on communication type and tie
+  strength}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Journal of Computer-Mediated
+  Communication}{21}{4}{265--281}.
+\newblock
+\begin{APACrefURL} \url{https://doi.org/10.1111/jcc4.12162} \end{APACrefURL}
+\newblock
+\begin{APACrefDOI} \doi{10.1111/jcc4.12162} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
 Clark%
 , Algoe%
 \BCBL {}\ \BBA {} Green%
@@ -666,35 +699,6 @@ Smith, D.%
   \end{APACrefURL}
 \newblock
 \begin{APACrefDOI} \doi{10.1080/00049530.2021.1898914} \end{APACrefDOI}
-\PrintBackRefs{\CurrentBib}
-
-\bibitem [\protect \citeauthoryear {%
-Takano%
-}{%
-Takano%
-}{%
-{\protect \APACyear {2018}}%
-}]{%
-takano2018two}
-\APACinsertmetastar {%
-takano2018two}%
-\begin{APACrefauthors}%
-Takano, M.%
-\end{APACrefauthors}%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2018}{}{}.
-\newblock
-{\BBOQ}\APACrefatitle {Two types of social grooming methods depending on the
-  trade-off between the number and strength of social relationships} {Two types
-  of social grooming methods depending on the trade-off between the number and
-  strength of social relationships}.{\BBCQ}
-\newblock
-\APACjournalVolNumPages{Royal Society Open Science}{5}{8}{180148}.
-\newblock
-\begin{APACrefURL} \url{https://doi.org/10.1098/rsos.180148} \end{APACrefURL}
-\newblock
-\begin{APACrefDOI} \doi{10.1098/rsos.180148} \end{APACrefDOI}
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
