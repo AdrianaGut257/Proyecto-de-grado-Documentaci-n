@@ -1,17 +1,17 @@
 \babel@toc {spanish}{}\relax 
 \contentsline {chapter}{\numberline {1}INTRODUCCIÓN}{1}{chapter.1}%
-\contentsline {section}{\numberline {1.1}ANTECEDENTES}{1}{section.1.1}%
+\contentsline {section}{\numberline {1.1}ANTECEDENTES}{2}{section.1.1}%
 \contentsline {section}{\numberline {1.2}DESCRIPCIÓN DEL PROBLEMA}{3}{section.1.2}%
 \contentsline {subsection}{\numberline {1.2.1}Definición del problema}{4}{subsection.1.2.1}%
 \contentsline {section}{\numberline {1.3}OBJETIVOS DEL PROYECTO}{4}{section.1.3}%
-\contentsline {subsection}{\numberline {1.3.1}Objetivo General}{4}{subsection.1.3.1}%
-\contentsline {subsection}{\numberline {1.3.2}Objetivo Específicos}{4}{subsection.1.3.2}%
+\contentsline {subsection}{\numberline {1.3.1}Objetivo General}{5}{subsection.1.3.1}%
+\contentsline {subsection}{\numberline {1.3.2}Objetivo Específicos}{5}{subsection.1.3.2}%
 \contentsline {section}{\numberline {1.4}JUSTIFICACIÓN}{5}{section.1.4}%
-\contentsline {section}{\numberline {1.5}ALCANCE Y LÍMITES}{5}{section.1.5}%
+\contentsline {section}{\numberline {1.5}ALCANCE Y LÍMITES}{6}{section.1.5}%
 \contentsline {section}{\numberline {1.6}DISEÑO METODOLÓGICO}{7}{section.1.6}%
 \contentsline {subsection}{\numberline {1.6.1}Tipo de investigación}{7}{subsection.1.6.1}%
 \contentsline {subsection}{\numberline {1.6.2}Fuentes de información}{7}{subsection.1.6.2}%
-\contentsline {subsection}{\numberline {1.6.3}Técnicas de recolección de datos}{7}{subsection.1.6.3}%
+\contentsline {subsection}{\numberline {1.6.3}Técnicas de recolección de datos}{8}{subsection.1.6.3}%
 \contentsline {subsection}{\numberline {1.6.4}Procedimiento}{8}{subsection.1.6.4}%
 \contentsline {subsection}{\numberline {1.6.5}Cronograma de desarrollo}{12}{subsection.1.6.5}%
 \contentsline {chapter}{\numberline {2}MARCO TEORICO}{14}{chapter.2}%
@@ -42,23 +42,55 @@
 \contentsline {subsection}{\numberline {4.1.4}Bienestar emocional}{32}{subsection.4.1.4}%
 \contentsline {subsection}{\numberline {4.1.5}Conclusión}{32}{subsection.4.1.5}%
 \contentsline {section}{\numberline {4.2}APLICACIÓN DE LAS ENTREVISTAS}{33}{section.4.2}%
-\contentsline {subsection}{\numberline {4.2.1}Usuario 1: Rolando Mercado Rojas}{33}{subsection.4.2.1}%
-\contentsline {subsection}{\numberline {4.2.2}Usuario 4: Antonia Tapia}{34}{subsection.4.2.2}%
+\contentsline {subsection}{\numberline {4.2.1}Usuario 1}{33}{subsection.4.2.1}%
+\contentsline {subsection}{\numberline {4.2.2}Usuario 4}{34}{subsection.4.2.2}%
 \contentsline {subsection}{\numberline {4.2.3}Usuarios 2, 3, 5 y 6}{35}{subsection.4.2.3}%
 \contentsline {section}{\numberline {4.3}TÉCNICA DE LOS 5 ¿POR QUÉ?}{36}{section.4.3}%
-\contentsline {subsection}{\numberline {4.3.1}Usuario 1: Rolando Mercado Rojas}{36}{subsection.4.3.1}%
-\contentsline {subsection}{\numberline {4.3.2}Usuario 5: Alejandra Pérez Ramal}{37}{subsection.4.3.2}%
+\contentsline {subsection}{\numberline {4.3.1}Usuario 1}{36}{subsection.4.3.1}%
+\contentsline {subsection}{\numberline {4.3.2}Usuario 5}{37}{subsection.4.3.2}%
 \contentsline {subsection}{\numberline {4.3.3}Usuarios 2, 3, 4 y 6}{37}{subsection.4.3.3}%
 \contentsline {section}{\numberline {4.4}SÍNTESIS DE LA FASE EMPATIZAR}{38}{section.4.4}%
 \contentsline {chapter}{\numberline {5}DEFINIR}{39}{chapter.5}%
 \contentsline {section}{\numberline {5.1}PERFIL DE USUARIO}{39}{section.5.1}%
-\contentsline {subsection}{\numberline {5.1.1}Usuario 1: Rolando Mercado Rojas}{39}{subsection.5.1.1}%
-\contentsline {subsection}{\numberline {5.1.2}Usuario 5: Alejandra Pérez Ramal}{41}{subsection.5.1.2}%
+\contentsline {subsection}{\numberline {5.1.1}Usuario 1}{39}{subsection.5.1.1}%
+\contentsline {subsection}{\numberline {5.1.2}Usuario 5}{41}{subsection.5.1.2}%
 \contentsline {subsection}{\numberline {5.1.3}Usuarios 2, 3, 4 y 6}{41}{subsection.5.1.3}%
 \contentsline {section}{\numberline {5.2}MAPA DE EMPATÍA}{41}{section.5.2}%
-\contentsline {subsection}{\numberline {5.2.1}Usuario 1: Rolando Mercado Rojas}{41}{subsection.5.2.1}%
-\contentsline {subsection}{\numberline {5.2.2}Usuario 5: Alejandra Pérez Ramal}{42}{subsection.5.2.2}%
-\contentsline {subsection}{\numberline {5.2.3}Usuarios 2, 3, 4 y 6}{42}{subsection.5.2.3}%
+\contentsline {subsection}{\numberline {5.2.1}Usuario 1}{41}{subsection.5.2.1}%
+\contentsline {subsection}{\numberline {5.2.2}Usuario 5}{43}{subsection.5.2.2}%
+\contentsline {subsection}{\numberline {5.2.3}Usuarios 2, 3, 4 y 6}{43}{subsection.5.2.3}%
 \contentsline {section}{\numberline {5.3}MAPA DE MOTIVACIONES}{43}{section.5.3}%
 \contentsline {section}{\numberline {5.4}¿CÓMO PODRÍAMOS...?}{44}{section.5.4}%
 \contentsline {section}{\numberline {5.5}PLANTEAMIENTO DEL PROBLEMA (POINT OF VIEW)}{45}{section.5.5}%
+\contentsline {chapter}{\numberline {6}IDEAR}{47}{chapter.6}%
+\contentsline {section}{\numberline {6.1}TÉCNICA Y CRITERIO DE SELECCIÓN}{47}{section.6.1}%
+\contentsline {section}{\numberline {6.2}IDEAS SELECCIONADAS}{48}{section.6.2}%
+\contentsline {section}{\numberline {6.3}IDEAS DESCARTADAS O POSPUESTAS}{54}{section.6.3}%
+\contentsline {section}{\numberline {6.4}SÍNTESIS DE LA FASE IDEAR}{55}{section.6.4}%
+\contentsline {chapter}{\numberline {7}PROTOTIPAR}{56}{chapter.7}%
+\contentsline {section}{\numberline {7.1}ARQUITECTURA}{56}{section.7.1}%
+\contentsline {section}{\numberline {7.2}REGLAS DE LA INTERACCIÓN}{57}{section.7.2}%
+\contentsline {section}{\numberline {7.3}ALGORITMO DE EMPAREJAMIENTO}{59}{section.7.3}%
+\contentsline {section}{\numberline {7.4}JERARQUÍA DE INTERESES Y AUTOCOMPLETADO}{59}{section.7.4}%
+\contentsline {section}{\numberline {7.5}SEGURIDAD Y PRIVACIDAD}{60}{section.7.5}%
+\contentsline {section}{\numberline {7.6}SISTEMA DE DISEÑO: IHC AFECTIVA Y UX/UI EMOCIONAL}{61}{section.7.6}%
+\contentsline {subsection}{\numberline {7.6.1}Paleta de colores y accesibilidad}{61}{subsection.7.6.1}%
+\contentsline {subsection}{\numberline {7.6.2}Tipografía}{62}{subsection.7.6.2}%
+\contentsline {subsection}{\numberline {7.6.3}Ilustraciones propias y mascota}{62}{subsection.7.6.3}%
+\contentsline {subsection}{\numberline {7.6.4}Micro-interacciones}{63}{subsection.7.6.4}%
+\contentsline {subsection}{\numberline {7.6.5}Lenguaje del sistema}{64}{subsection.7.6.5}%
+\contentsline {subsection}{\numberline {7.6.6}Diseño adaptable}{64}{subsection.7.6.6}%
+\contentsline {section}{\numberline {7.7}ITERACIONES DURANTE EL DESARROLLO}{64}{section.7.7}%
+\contentsline {section}{\numberline {7.8}HACIA LA FASE TESTEAR}{65}{section.7.8}%
+\contentsline {chapter}{\numberline {8}TESTEAR}{66}{chapter.8}%
+\contentsline {section}{\numberline {8.1}OBJETIVO DE LA PRUEBA PILOTO}{66}{section.8.1}%
+\contentsline {section}{\numberline {8.2}HIPÓTESIS DE DISEÑO A VALIDAR}{66}{section.8.2}%
+\contentsline {section}{\numberline {8.3}DISEÑO METODOLÓGICO DE LA PRUEBA}{67}{section.8.3}%
+\contentsline {subsection}{\numberline {8.3.1}Tipo de evaluación}{67}{subsection.8.3.1}%
+\contentsline {subsection}{\numberline {8.3.2}Participantes}{68}{subsection.8.3.2}%
+\contentsline {subsection}{\numberline {8.3.3}Procedimiento}{68}{subsection.8.3.3}%
+\contentsline {subsection}{\numberline {8.3.4}Instrumentos}{69}{subsection.8.3.4}%
+\contentsline {section}{\numberline {8.4}DATOS QUE EL PROTOTIPO REGISTRA AUTOMÁTICAMENTE}{69}{section.8.4}%
+\contentsline {section}{\numberline {8.5}CRITERIOS DE ANÁLISIS}{70}{section.8.5}%
+\contentsline {section}{\numberline {8.6}LIMITACIONES PREVISTAS}{71}{section.8.6}%
+\contentsline {section}{\numberline {8.7}CIERRE DEL CICLO DE DESIGN THINKING}{71}{section.8.7}%
