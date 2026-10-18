@@ -1,13 +1,13 @@
 # Fdb version 4
-["bibtex main"] 1792282812.53392 "main.aux" "main.bbl" "main" 1792282815.68077 0
+["bibtex main"] 1792283216.30862 "main.aux" "main.bbl" "main" 1792283219.16229 0
   "./bibliography.bib" 1792282723.06754 11322 b771d4f0fde38d17b71e70498a7f38c4 ""
   "C:/Users/Admin/AppData/Local/Programs/MiKTeX/bibtex/bst/apacite/apacite.bst" 1374952728 146156 ecb25f7102744fefab6424686f49047c ""
-  "main.aux" 1792282814.8831 22366 cd9f01f513bb9ec1f70960e6ebfb3231 "pdflatex"
+  "main.aux" 1792283218.45941 21813 3edc5f4369844badd4c9eeae93aedea5 "pdflatex"
   (generated)
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["pdflatex"] 1792282812.9061 "main.tex" "main.pdf" "main" 1792282815.68153 0
+["pdflatex"] 1792283216.64902 "main.tex" "main.pdf" "main" 1792283219.16333 0
   "C:/Users/Admin/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1789651246.57482 82507 a9eef8696c92627b87e9975edea03b2a ""
   "C:/Users/Admin/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1200.pk" 1792282543.8801 14064 603efa820db800016c1fd2b4b8c10c15 ""
   "C:/Users/Admin/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1775521573.71926 13333527 9ec129b82a8f92a3bcfaf3ec26d36f7e ""
@@ -119,8 +119,8 @@
   "Chapters/1-Introduction.tex" 1792282723.01306 20987 84df2525eeb9eacced4ab8457504e47a ""
   "Chapters/2-Theoretical-framework.tex" 1787241779.01402 21605 c3f91f66333c978361d032cf0dbe67b7 ""
   "Chapters/3-Emotional-disconnection.tex" 1789653485.66769 9211 ee9dbb54d21d4c677235f5bfa0935a1e ""
-  "Chapters/4-Empathize.tex" 1789680114.32236 13619 8aa9b0a1381ad331063b9589358051e7 ""
-  "Chapters/5-Define.tex" 1789680093.68562 8631 9a074e5359234a31ce3241a832354d24 ""
+  "Chapters/4-Empathize.tex" 1792283207.22895 13264 b75812f8fe6e713d3d64826196d85c7b ""
+  "Chapters/5-Define.tex" 1792283207.25396 8252 5d53eaaf627df286a906532efcf2d29b ""
   "Chapters/6-Ideate.tex" 1792282723.03984 10808 369296fe61d4d89cecd20959ae91f120 ""
   "Chapters/7-Prototype.tex" 1792282164.70771 18944 bee2494241cd8f60f7989888b76265d6 ""
   "Chapters/8-Test.tex" 1792282357.94592 11280 80781d22444c884b248b06a2cc56f583 ""
@@ -138,13 +138,13 @@
   "Images/methodology/empathy/usuario4EC.png" 1789677415.90676 884634 7f8c8c482a97f48860a2778d2bca4d4d ""
   "Images/methodology/empathy/usuario5-5P.png" 1789677642.92005 683542 c9295a6f10e3f36580f461a3b276364e ""
   "cover.tex" 1789769040.06348 1132 1725885ed470f618fe552b2bac99297d ""
-  "main.aux" 1792282814.8831 22366 cd9f01f513bb9ec1f70960e6ebfb3231 "pdflatex"
-  "main.bbl" 1792282812.83188 24128 44ee163caceeedce4dc327618dbc1d65 "bibtex main"
-  "main.lof" 1792282814.90604 1611 470bb331b3574de3d6df8278fb5d0a09 "pdflatex"
-  "main.lot" 1792282814.90604 797 9ad8909082490513ca2b5445246f1b52 "pdflatex"
-  "main.out" 1792282814.89751 18276 7f48eaae973dd3e911bf0331d4df5389 "pdflatex"
+  "main.aux" 1792283218.45941 21813 3edc5f4369844badd4c9eeae93aedea5 "pdflatex"
+  "main.bbl" 1792283216.57207 24128 44ee163caceeedce4dc327618dbc1d65 "bibtex main"
+  "main.lof" 1792283218.47945 1424 73a2af7a69c92f0135d4016e95c8f21b "pdflatex"
+  "main.lot" 1792283218.47945 797 9ad8909082490513ca2b5445246f1b52 "pdflatex"
+  "main.out" 1792283218.46935 17318 99212b65ec11a8d143a7aa19241dda93 "pdflatex"
   "main.tex" 1792282731.3038 7089 f2ff8c5fe32e8f2ae39a1ac4121ec73c ""
-  "main.toc" 1792282814.90604 8656 dcf76c7db2cf03de464747caf9361cb5 "pdflatex"
+  "main.toc" 1792283218.47945 8477 b3cc8d1fd540300f3544c9dcc34fb8dd "pdflatex"
   (generated)
   "main.aux"
   "main.lof"
