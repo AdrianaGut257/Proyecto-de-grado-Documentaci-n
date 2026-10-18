@@ -133,6 +133,9 @@
   Julio\or Agosto\or Septiembre\or Octubre\or Noviembre\or Diciembre
   \fi\ - \the\year
 }
+% Sin anclas de página en carátula, preliminares e índices: su numeración
+% se repite con la del cuerpo y generaría destinos duplicados en hyperref.
+\hypersetup{pageanchor=false}
 \input{cover}
 
 % ===================== PÁGINAS PRELIMINARES =====================
@@ -181,13 +184,18 @@ Finalmente, agradezco a todas aquellas personas que, de una u otra manera, contr
 
 % ===================== CUERPO DEL DOCUMENTO =====================
 \pagenumbering{arabic}
+\hypersetup{pageanchor=true}
 
 % ----------------------------------------------------------------
 \input{Chapters/1-Introduction}
 \input{Chapters/2-Theoretical-framework}
 \input{Chapters/3-Emotional-disconnection}
-\input{Chapters/4-Empathy}
+\input{Chapters/4-Empathize}
 \input{Chapters/5-Define}
+\input{Chapters/6-Ideate}
+\input{Chapters/7-Prototype}
+\input{Chapters/8-Test}
+
 % ----------------------------------------------------------------
 
 

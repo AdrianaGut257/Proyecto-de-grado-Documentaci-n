@@ -62,3 +62,35 @@
 \contentsline {section}{\numberline {5.3}MAPA DE MOTIVACIONES}{43}{section.5.3}%
 \contentsline {section}{\numberline {5.4}¿CÓMO PODRÍAMOS...?}{44}{section.5.4}%
 \contentsline {section}{\numberline {5.5}PLANTEAMIENTO DEL PROBLEMA (POINT OF VIEW)}{45}{section.5.5}%
+\contentsline {chapter}{\numberline {6}IDEAR}{47}{chapter.6}%
+\contentsline {section}{\numberline {6.1}TÉCNICA Y CRITERIO DE SELECCIÓN}{47}{section.6.1}%
+\contentsline {section}{\numberline {6.2}IDEAS SELECCIONADAS}{48}{section.6.2}%
+\contentsline {section}{\numberline {6.3}IDEAS DESCARTADAS O POSPUESTAS}{54}{section.6.3}%
+\contentsline {section}{\numberline {6.4}SÍNTESIS DE LA FASE IDEAR}{55}{section.6.4}%
+\contentsline {chapter}{\numberline {7}PROTOTIPAR}{56}{chapter.7}%
+\contentsline {section}{\numberline {7.1}ARQUITECTURA}{56}{section.7.1}%
+\contentsline {section}{\numberline {7.2}REGLAS DE LA INTERACCIÓN}{57}{section.7.2}%
+\contentsline {section}{\numberline {7.3}ALGORITMO DE EMPAREJAMIENTO}{59}{section.7.3}%
+\contentsline {section}{\numberline {7.4}JERARQUÍA DE INTERESES Y AUTOCOMPLETADO}{59}{section.7.4}%
+\contentsline {section}{\numberline {7.5}SEGURIDAD Y PRIVACIDAD}{60}{section.7.5}%
+\contentsline {section}{\numberline {7.6}SISTEMA DE DISEÑO: IHC AFECTIVA Y UX/UI EMOCIONAL}{61}{section.7.6}%
+\contentsline {subsection}{\numberline {7.6.1}Paleta de colores y accesibilidad}{61}{subsection.7.6.1}%
+\contentsline {subsection}{\numberline {7.6.2}Tipografía}{62}{subsection.7.6.2}%
+\contentsline {subsection}{\numberline {7.6.3}Ilustraciones propias y mascota}{62}{subsection.7.6.3}%
+\contentsline {subsection}{\numberline {7.6.4}Micro-interacciones}{63}{subsection.7.6.4}%
+\contentsline {subsection}{\numberline {7.6.5}Lenguaje del sistema}{64}{subsection.7.6.5}%
+\contentsline {subsection}{\numberline {7.6.6}Diseño adaptable}{64}{subsection.7.6.6}%
+\contentsline {section}{\numberline {7.7}ITERACIONES DURANTE EL DESARROLLO}{64}{section.7.7}%
+\contentsline {section}{\numberline {7.8}HACIA LA FASE TESTEAR}{65}{section.7.8}%
+\contentsline {chapter}{\numberline {8}TESTEAR}{66}{chapter.8}%
+\contentsline {section}{\numberline {8.1}OBJETIVO DE LA PRUEBA PILOTO}{66}{section.8.1}%
+\contentsline {section}{\numberline {8.2}HIPÓTESIS DE DISEÑO A VALIDAR}{66}{section.8.2}%
+\contentsline {section}{\numberline {8.3}DISEÑO METODOLÓGICO DE LA PRUEBA}{67}{section.8.3}%
+\contentsline {subsection}{\numberline {8.3.1}Tipo de evaluación}{67}{subsection.8.3.1}%
+\contentsline {subsection}{\numberline {8.3.2}Participantes}{68}{subsection.8.3.2}%
+\contentsline {subsection}{\numberline {8.3.3}Procedimiento}{68}{subsection.8.3.3}%
+\contentsline {subsection}{\numberline {8.3.4}Instrumentos}{69}{subsection.8.3.4}%
+\contentsline {section}{\numberline {8.4}DATOS QUE EL PROTOTIPO REGISTRA AUTOMÁTICAMENTE}{69}{section.8.4}%
+\contentsline {section}{\numberline {8.5}CRITERIOS DE ANÁLISIS}{70}{section.8.5}%
+\contentsline {section}{\numberline {8.6}LIMITACIONES PREVISTAS}{71}{section.8.6}%
+\contentsline {section}{\numberline {8.7}CIERRE DEL CICLO DE DESIGN THINKING}{71}{section.8.7}%

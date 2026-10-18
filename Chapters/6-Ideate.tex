@@ -1,0 +1,209 @@
+\chapter{IDEAR}
+El presente capítulo desarrolla la tercera etapa del Design Thinking: Idear. Su propósito es generar múltiples soluciones posibles a partir del planteamiento del problema (POV) formulado en el Capítulo 5, sin restricciones prematuras, para después seleccionar aquellas que mejor respondan a las necesidades identificadas durante las fases de Empatizar y Definir (Vargas Márquez et al., 2021).
+
+\section{TÉCNICA Y CRITERIO DE SELECCIÓN}
+A partir de las preguntas ¿Cómo podríamos...? (Figura 5.6), se generaron múltiples ideas para cada uno de los cinco conocimientos centrales derivados de la fase de Empatizar. Siguiendo a Vargas Márquez et al. (2021), quienes señalan que la multiplicidad de ideas incrementa las posibilidades de innovación y reduce el riesgo de soluciones obvias, no todas las ideas generadas se llevaron al prototipo. La selección se realizó aplicando tres criterios:
+
+\begin{enumerate}
+    \item \textbf{Respuesta a un hallazgo consistente} de las fases de Empatizar y Definir, ya sea un patrón del Mapa de Motivaciones (necesidad de tema en común, 13/15 cruces; uso de avatar, 12/15 cruces; entorno sin hostilidad, 6/15 cruces) o un factor identificado en el Capítulo 3.
+    \item \textbf{Respaldo en la literatura} revisada en el marco teórico y en el Capítulo 3.
+    \item \textbf{Ausencia de carga cognitiva innecesaria}, conforme a la Ley de Hick y la Ley de Tesler (Yablonski, 2020). Las ideas que sumaban opciones a la interfaz sin resolver un dolor central identificado en el Mapa de Empatía se pospusieron para una fase posterior al prototipo actual.
+\end{enumerate}
+
+\section{IDEAS SELECCIONADAS}
+La Tabla \ref{tab:ideas_seleccionadas} presenta las ideas seleccionadas para el prototipo, organizadas según el conocimiento del cual se derivaron, junto con la pregunta orientadora que las originó y su sustento teórico o empírico.
+
+\begin{longtable}{
+  >{\raggedright\arraybackslash}p{0.16\textwidth}
+  >{\raggedright\arraybackslash}p{0.25\textwidth}
+  >{\raggedright\arraybackslash}p{0.29\textwidth}
+  >{\raggedright\arraybackslash}p{0.19\textwidth}
+}
+\caption{Ideas seleccionadas para el prototipo}\label{tab:ideas_seleccionadas}\\
+\toprule
+\textbf{Conocimiento} & \textbf{Pregunta ¿Cómo podríamos...?} & \textbf{Idea seleccionada} & \textbf{Sustento} \\
+\midrule
+\endfirsthead
+
+\multicolumn{4}{l}{\textit{Tabla \thetable{} (continuación)}} \\[4pt]
+\toprule
+\textbf{Conocimiento} & \textbf{Pregunta ¿Cómo podríamos...?} & \textbf{Idea seleccionada} & \textbf{Sustento} \\
+\midrule
+\endhead
+
+\midrule
+\multicolumn{4}{r}{\textit{Continúa en la siguiente página}} \\
+\endfoot
+
+\bottomrule
+\endlastfoot
+
+Compartir gustos para iniciar y sostener la conversación
+&
+¿Cómo podríamos identificar los intereses antes de emparejar?
+&
+Elección de intereses en el \textit{onboarding}; antes de cada búsqueda se eligen hasta 3 temas, solo entre los propios intereses del usuario.
+&
+Mapa de Motivaciones (13/15 cruces); Liu et al. (2026); Usuarios 1 y 5 \\[6pt]
+
+ídem
+&
+¿Cómo podríamos emparejar por gustos específicos?
+&
+Jerarquía de intereses: categoría → interés → subtema (género, estilo, liga) → ejemplo concreto (una película, una banda). El emparejamiento otorga mayor peso a lo más específico.
+&
+Usuario 4, que solicitó gustos ``específicos y particulares''; Usuario 1, cuyo único recuerdo de conexión positiva surgió de compartir un mismo videojuego \\[6pt]
+
+ídem
+&
+¿Cómo podríamos mostrar qué tienen en común antes de chatear?
+&
+Pantalla de presentación que muestra el tema, los intereses y los gustos concretos compartidos entre ambos usuarios.
+&
+Causa raíz de los 5 ¿Por qué? del Usuario 1: ``no sé de qué hablar'' \\[6pt]
+
+ídem
+&
+¿Cómo podríamos sugerir temas basados en gustos compartidos?
+&
+Ideas para romper el hielo: tres sugerencias diarias basadas en lo que ambos comparten; al seleccionarlas se escriben en el campo de texto para su edición, no se envían automáticamente.
+&
+Usuario 1; personalización como principal factor de \textit{engagement} (27\,\%) (Baudon \& Jachens, 2021); Ley de Hick (máximo tres opciones) \\[6pt]
+
+Avatar en vez de foto real
+&
+¿Cómo podríamos permitir que el avatar refleje la identidad real?
+&
+Avatar personalizable con seis tonos de piel, cinco peinados, seis colores de cabello, y accesorios opcionales (lentes, pecas, lunar, arete), además de ropa y fondo.
+&
+Usuario 4 (``lentes, pelo largo, lunares, piercings''); Mapa de Motivaciones (12/15 cruces) \\[6pt]
+
+ídem
+&
+¿Cómo podríamos hacer el avatar entretenido?
+&
+Botón ``Sorpréndeme'' que genera una combinación aleatoria de rasgos, con una breve animación de respuesta.
+&
+Faceta de lo deseable (Morville, 2005); Efecto de Usabilidad Estética (Yablonski, 2020) \\[6pt]
+
+ídem, y comunicación digital ``plana''
+&
+¿Cómo podríamos compensar la falta de expresiones faciales?
+&
+El avatar refleja el estado de ánimo del día (ojos, cejas y boca), visible para la otra persona salvo que se desactive.
+&
+Causa raíz del Usuario 1: ``no puedo ver expresiones, es muy plano''; Picard (1997) \\[6pt]
+
+Temor a la hostilidad con desconocidos
+&
+¿Cómo podríamos dar reporte y bloqueo sin interrumpir la experiencia?
+&
+Ícono de escudo dentro de la conversación que lleva a ``Tu bienestar es primero'': opción de salir o reportar con motivo. El motivo no se revela a la otra persona y ambos usuarios no vuelven a ser emparejados.
+&
+Mapa de Motivaciones (6/15 cruces); Usuarios 4 y 5; manejo amable de errores (Shneiderman, 1992, citado en Hernández Bieliukas, 2014) \\[6pt]
+
+ídem
+&
+¿Cómo podríamos transmitir confianza antes de la primera conversación?
+&
+Pantalla ``Un lugar seguro'' con acuerdos breves de convivencia y el recordatorio de que se puede salir en cualquier momento.
+&
+Síntesis de la fase Empatizar (4.4), necesidad (d) \\[6pt]
+
+Pocos vínculos pero significativos
+&
+¿Cómo podríamos priorizar la calidad sobre la cantidad?
+&
+Una sola conversación activa a la vez, con duración de siete días y hasta cinco mensajes por persona al día (máximo 500 caracteres cada uno).
+&
+Takano (2018); ``número razonable de mensajes'' (15\,\%) (Baudon \& Jachens, 2021); Saffer (2013). El límite de 500 caracteres atiende la reserva del Usuario 4 \\[6pt]
+
+ídem
+&
+¿Cómo podríamos hacer que cada mensaje se sienta significativo?
+&
+Planta que crece solo los días en que ambos usuarios se escriben, con una micro-interacción al avanzar de etapa. Nunca se marchita.
+&
+Godard y Holtzman (2024): el uso activo y recíproco se asocia con mayor bienestar (r = 0,15) y apoyo social percibido (r = 0,34) \\[6pt]
+
+ídem
+&
+¿Cómo podríamos sostener un vínculo esporádico?
+&
+Decisión privada al finalizar los siete días; si ambos deciden continuar, la planta florece y la conversación permanece abierta.
+&
+Planteamiento del problema (POV); Regla del Pico-Final (Yablonski, 2020) \\[6pt]
+
+ídem
+&
+¿Cómo podríamos medir el éxito en bienestar y no en uso?
+&
+Registro diario del estado de ánimo y una vista privada semanal (``Tu semana''), sin rachas ni notificaciones de enganche.
+&
+Feng et al. (2026); Gross (1998) \\[6pt]
+
+Mensajes positivos sin métricas
+&
+¿Cómo podríamos sugerir mensajes positivos cuando no se sabe qué decir?
+&
+Frases de validación integradas en las ideas sugeridas (ej. ``Gracias por quedarte en la conversación'').
+&
+Pedido explícito del Usuario 1; Clark, Algoe y Green (2018) \\[6pt]
+
+ídem
+&
+¿Cómo podríamos evitar métricas de comparación?
+&
+Ausencia total de contadores públicos: el Jardín muestra plantas, no cifras ni rankings.
+&
+Factor 4 del Capítulo 3; límites del alcance del proyecto \\[6pt]
+
+ídem
+&
+¿Cómo podríamos hacer que la app acompañe en un mal día?
+&
+Respuestas empáticas según el ánimo registrado y un ejercicio de respiración guiada de 25 segundos cuando el ánimo es bajo.
+&
+Baudon y Jachens (2021): técnicas de regulación emocional instantánea \\
+
+\end{longtable}
+
+\section{IDEAS DESCARTADAS O POSPUESTAS}
+No todas las ideas generadas durante la fase de Idear se incorporaron al prototipo. La Tabla \ref{tab:ideas_descartadas} sintetiza las ideas descartadas o pospuestas, junto con la razón de su exclusión, lo que evidencia el carácter crítico y no acumulativo del proceso de selección (Vargas Márquez et al., 2021).
+
+\begin{longtable}{
+  >{\raggedright\arraybackslash}p{0.28\textwidth}
+  >{\raggedright\arraybackslash}p{0.17\textwidth}
+  >{\raggedright\arraybackslash}p{0.47\textwidth}
+}
+\caption{Ideas descartadas o pospuestas}\label{tab:ideas_descartadas}\\
+\toprule
+\textbf{Idea} & \textbf{Decisión} & \textbf{Razón} \\
+\midrule
+\endfirsthead
+
+\multicolumn{3}{l}{\textit{Tabla \thetable{} (continuación)}} \\[4pt]
+\toprule
+\textbf{Idea} & \textbf{Decisión} & \textbf{Razón} \\
+\midrule
+\endhead
+
+\midrule
+\multicolumn{3}{r}{\textit{Continúa en la siguiente página}} \\
+\endfoot
+
+\bottomrule
+\endlastfoot
+
+``Mundo de conexiones'' con estadísticas globales de usuarios & Descartada & Introducía métricas públicas y comparación social, contrario al factor 4 identificado en el Capítulo 3 \\[6pt]
+Notificaciones \textit{push} y rachas diarias (\textit{streaks}) & Descartada & Pueden fomentar un patrón de uso compulsivo, asociado a mayor soledad (Feng et al., 2026) \\[6pt]
+Reacciones variadas a los mensajes (solicitado por el Usuario 1) & Pospuesta & Suma opciones de interacción en cada mensaje (Ley de Hick, Yablonski, 2020); candidata a incorporarse tras la prueba piloto \\[6pt]
+Mensajes largos tipo \textit{story time} (solicitado por el Usuario 4) & Atendida parcialmente & Se amplió el límite a 500 caracteres por mensaje, sin introducir un formato especial que rompa la lógica de micro-interacción \\[6pt]
+Debates de opinión grupales (solicitado por el Usuario 4) & Descartada & Excede el alcance definido en 1.5, que excluye la comunicación grupal \\[6pt]
+Avatar en modelado 3D & Reemplazada & Sustituida por un avatar 2D vectorial (SVG), más liviano y adecuado para personalización en tiempo real en dispositivos móviles \\[6pt]
+Lista fija de seis temas para la búsqueda de pareja & Reemplazada & Mostraba temas no elegidos por el usuario; se sustituyó por una búsqueda basada en sus propios intereses \\
+
+\end{longtable}
+
+\section{SÍNTESIS DE LA FASE IDEAR}
+Las ideas seleccionadas y presentadas en la Tabla \ref{tab:ideas_seleccionadas} constituyen el conjunto de decisiones de diseño que se materializan en el prototipo funcional descrito en el Capítulo 7. Cada una de ellas responde directamente a un hallazgo de las fases de Empatizar y Definir, y cuenta con respaldo en la literatura revisada en los Capítulos 2 y 3, en coherencia con el enfoque iterativo y centrado en el usuario del Design Thinking (Vargas Márquez et al., 2021).
