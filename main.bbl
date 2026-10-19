@@ -218,6 +218,260 @@ Collazos, C\BPBI A.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
+{Design Thinking en Español}%
+}{%
+{Design Thinking en Español}%
+}{%
+{\protect \APACyear {{\protect \bibnodate {}}}}%
+{\protect \APACexlab {{\protect \BCntND {1}}}}}]{%
+dt_analisisdimensional}
+\APACinsertmetastar {%
+dt_analisisdimensional}%
+\begin{APACrefauthors}%
+{Design Thinking en Español}.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{{\protect \bibnodate {}}{\protect \BCntND {1}}}{}{}.
+\newblock
+\APACrefbtitle {{Análisis dimensional}.} {{Análisis dimensional}.}
+\newblock
+\APAChowpublished {Dinngo}.
+\newblock
+\begin{APACrefURL} \url{https://designthinking.es/analisis-dimensional/}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+{Design Thinking en Español}%
+}{%
+{Design Thinking en Español}%
+}{%
+{\protect \APACyear {{\protect \bibnodate {}}}}%
+{\protect \APACexlab {{\protect \BCntND {2}}}}}]{%
+dt_entrevistas}
+\APACinsertmetastar {%
+dt_entrevistas}%
+\begin{APACrefauthors}%
+{Design Thinking en Español}.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{{\protect \bibnodate {}}{\protect \BCntND {2}}}{}{}.
+\newblock
+\APACrefbtitle {{Entrevistas cualitativas}.} {{Entrevistas cualitativas}.}
+\newblock
+\APAChowpublished {Dinngo}.
+\newblock
+\begin{APACrefURL} \url{https://designthinking.es/entrevistas-cualitativas/}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+{Design Thinking en Español}%
+}{%
+{Design Thinking en Español}%
+}{%
+{\protect \APACyear {{\protect \bibnodate {}}}}%
+{\protect \APACexlab {{\protect \BCntND {3}}}}}]{%
+dt_guion}
+\APACinsertmetastar {%
+dt_guion}%
+\begin{APACrefauthors}%
+{Design Thinking en Español}.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{{\protect \bibnodate {}}{\protect \BCntND {3}}}{}{}.
+\newblock
+\APACrefbtitle {{Guion de entrevista cualitativa}.} {{Guion de entrevista
+  cualitativa}.}
+\newblock
+\APAChowpublished {Dinngo}.
+\newblock
+\begin{APACrefURL}
+  \url{https://designthinking.es/guion-de-entrevista-cualitativa/}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+{Design Thinking en Español}%
+}{%
+{Design Thinking en Español}%
+}{%
+{\protect \APACyear {{\protect \bibnodate {}}}}%
+{\protect \APACexlab {{\protect \BCntND {4}}}}}]{%
+dt_lluvia}
+\APACinsertmetastar {%
+dt_lluvia}%
+\begin{APACrefauthors}%
+{Design Thinking en Español}.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{{\protect \bibnodate {}}{\protect \BCntND {4}}}{}{}.
+\newblock
+\APACrefbtitle {{Lluvia de ideas o brainstorming}.} {{Lluvia de ideas o
+  brainstorming}.}
+\newblock
+\APAChowpublished {Dinngo}.
+\newblock
+\begin{APACrefURL}
+  \url{https://designthinking.es/lluvia-de-ideas-brainstorming/}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+{Design Thinking en Español}%
+}{%
+{Design Thinking en Español}%
+}{%
+{\protect \APACyear {{\protect \bibnodate {}}}}%
+{\protect \APACexlab {{\protect \BCntND {5}}}}}]{%
+dt_mapaempatia}
+\APACinsertmetastar {%
+dt_mapaempatia}%
+\begin{APACrefauthors}%
+{Design Thinking en Español}.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{{\protect \bibnodate {}}{\protect \BCntND {5}}}{}{}.
+\newblock
+\APACrefbtitle {{Mapa de empatía}.} {{Mapa de empatía}.}
+\newblock
+\APAChowpublished {Dinngo}.
+\newblock
+\begin{APACrefURL} \url{https://designthinking.es/mapa-de-empatia/}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+{Design Thinking en Español}%
+}{%
+{Design Thinking en Español}%
+}{%
+{\protect \APACyear {{\protect \bibnodate {}}}}%
+{\protect \APACexlab {{\protect \BCntND {6}}}}}]{%
+dt_matrizmotivaciones}
+\APACinsertmetastar {%
+dt_matrizmotivaciones}%
+\begin{APACrefauthors}%
+{Design Thinking en Español}.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{{\protect \bibnodate {}}{\protect \BCntND {6}}}{}{}.
+\newblock
+\APACrefbtitle {{Matriz de motivaciones}.} {{Matriz de motivaciones}.}
+\newblock
+\APAChowpublished {Dinngo}.
+\newblock
+\begin{APACrefURL} \url{https://designthinking.es/matriz-de-motivaciones/}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+{Design Thinking en Español}%
+}{%
+{Design Thinking en Español}%
+}{%
+{\protect \APACyear {{\protect \bibnodate {}}}}%
+{\protect \APACexlab {{\protect \BCntND {7}}}}}]{%
+dt_perfil}
+\APACinsertmetastar {%
+dt_perfil}%
+\begin{APACrefauthors}%
+{Design Thinking en Español}.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{{\protect \bibnodate {}}{\protect \BCntND {7}}}{}{}.
+\newblock
+\APACrefbtitle {{Perfil de usuario}.} {{Perfil de usuario}.}
+\newblock
+\APAChowpublished {Dinngo}.
+\newblock
+\begin{APACrefURL} \url{https://designthinking.es/perfil-de-usuario/}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+{Design Thinking en Español}%
+}{%
+{Design Thinking en Español}%
+}{%
+{\protect \APACyear {{\protect \bibnodate {}}}}%
+{\protect \APACexlab {{\protect \BCntND {8}}}}}]{%
+dt_5porque}
+\APACinsertmetastar {%
+dt_5porque}%
+\begin{APACrefauthors}%
+{Design Thinking en Español}.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{{\protect \bibnodate {}}{\protect \BCntND {8}}}{}{}.
+\newblock
+\APACrefbtitle {{Técnica de los 5 ¿Por qué?}} {{Técnica de los 5 ¿Por
+  qué?}}
+\newblock
+\APAChowpublished {Dinngo}.
+\newblock
+\begin{APACrefURL} \url{https://designthinking.es/tecnica-de-los-5-por-que/}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+{Design Thinking en Español}%
+}{%
+{Design Thinking en Español}%
+}{%
+{\protect \APACyear {{\protect \bibnodate {}}}}%
+{\protect \APACexlab {{\protect \BCntND {9}}}}}]{%
+dt_comopodriamos}
+\APACinsertmetastar {%
+dt_comopodriamos}%
+\begin{APACrefauthors}%
+{Design Thinking en Español}.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{{\protect \bibnodate {}}{\protect \BCntND {9}}}{}{}.
+\newblock
+\APACrefbtitle {{¿Cómo podríamos...?}} {{¿Cómo podríamos...?}}
+\newblock
+\APAChowpublished {Dinngo}.
+\newblock
+\begin{APACrefURL} \url{https://designthinking.es/como-podriamos/}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+{Design Thinking en Español}%
+}{%
+{Design Thinking en Español}%
+}{%
+{\protect \APACyear {{\protect \bibnodate {}}}}%
+{\protect \APACexlab {{\protect \BCntND {10}}}}}]{%
+dt_ysi}
+\APACinsertmetastar {%
+dt_ysi}%
+\begin{APACrefauthors}%
+{Design Thinking en Español}.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{{\protect \bibnodate {}}{\protect \BCntND {10}}}{}{}.
+\newblock
+\APACrefbtitle {{¿Y si...?}} {{¿Y si...?}}
+\newblock
+\APAChowpublished {Dinngo}.
+\newblock
+\begin{APACrefURL} \url{https://designthinking.es/y-si/} \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
 Eisenstadt%
 , Liverpool%
 , Infanti%
