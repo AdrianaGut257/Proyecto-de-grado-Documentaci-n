@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.4.6)  19 OCT 2026 02:21
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.4.6)  19 OCT 2026 10:07
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -751,48 +751,29 @@ nput line 86.
 Cap\'{\i }tulo 6.
 [51
 
-] [52]
-LaTeX Info: Symbol \textrightarrow not provided by
-            font family ptm in TS1 encoding.
-            Default family used instead on input line 72.
-LaTeX Info: Symbol \textrightarrow not provided by
-            font family ptm in TS1 encoding.
-            Default family used instead on input line 72.
-LaTeX Info: Symbol \textrightarrow not provided by
-            font family ptm in TS1 encoding.
-            Default family used instead on input line 72.
- [53]
+] [52] [53]
 ignored error: Infinite glue shrinkage found in box being split [54]
 ignored error: Infinite glue shrinkage found in box being split [55]
 ignored error: Infinite glue shrinkage found in box being split [56]
 ignored error: Infinite glue shrinkage found in box being split [57]
 ignored error: Infinite glue shrinkage found in box being split [58]
-ignored error: Infinite glue shrinkage found in box being split [59]
-ignored error: Infinite glue shrinkage found in box being split [60] [61])
-(Chapters/7-Prototype.tex [62] [63]
+ignored error: Infinite glue shrinkage found in box being split [59])
+(Chapters/7-Prototype.tex [60]
 Cap\'{\i }tulo 7.
-[64
+[61
 
 ]
-ignored error: Infinite glue shrinkage found in box being split [65] [66]
-LaTeX Info: Symbol \textrightarrow not provided by
-            font family ptm in TS1 encoding.
-            Default family used instead on input line 73.
-LaTeX Info: Symbol \textrightarrow not provided by
-            font family ptm in TS1 encoding.
-            Default family used instead on input line 73.
-LaTeX Info: Symbol \textrightarrow not provided by
-            font family ptm in TS1 encoding.
-            Default family used instead on input line 73.
-
-[67] [68] [69] [70] [71] [72]) [73] [74] (main.bbl
+ignored error: Infinite glue shrinkage found in box being split [62] [63]
+[64] [65]
+ignored error: Infinite glue shrinkage found in box being split [66] [67]
+[68] [69]) [70] (main.bbl
 LaTeX Font Info:    Trying to load font information for T1+pcr on input line 21
 7.
 
 (C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\t1pcr.fd
 File: t1pcr.fd 2001/06/04 font definitions for T1/pcr.
 )
-[75
+[71
 
 
 ]
@@ -813,7 +794,7 @@ Underfull \hbox (badness 1028) in paragraph at lines 436--449
 Có-mo po-dría-mos...?  \T1/ptm/m/n/12 Dinn-go.  []$\T1/pcr/m/n/12 https ://
  []
 
-[76] [77] [78]) [79] (main.aux
+[72] [73] [74]) [75] (main.aux
 LaTeX Info: Redefining \. on input line 11.
 LaTeX Info: Redefining \% on input line 11.
 )
@@ -825,25 +806,24 @@ Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: 7A2AE7E44E16DE39F1CCDDA499A94862;14723.
  ) 
 Here is how much of TeX's memory you used:
- 15149 strings out of 467870
- 249166 string characters out of 5418356
- 699955 words of memory out of 5000000
- 43575 multiletter control sequences out of 15000+600000
- 651149 words of font info for 68 fonts, out of 8000000 for 9000
+ 15146 strings out of 467870
+ 249183 string characters out of 5418356
+ 694973 words of memory out of 5000000
+ 43577 multiletter control sequences out of 15000+600000
+ 650812 words of font info for 67 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  75i,12n,112p,1541b,804s stack positions out of 10000i,1000n,20000p,200000b,200000s
- <C:\Users\Admin\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm
-1200.pk><C:/Users/Admin/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfon
-ts/cm/cmmi12.pfb><C:/Users/Admin/AppData/Local/Programs/MiKTeX/fonts/type1/publ
-ic/amsfonts/cm/cmr12.pfb><C:/Users/Admin/AppData/Local/Programs/MiKTeX/fonts/ty
-pe1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Admin/AppData/Local/Programs/MiKTeX
-/fonts/type1/urw/courier/ucrr8a.pfb><C:/Users/Admin/AppData/Local/Programs/MiKT
-eX/fonts/type1/urw/times/utmb8a.pfb><C:/Users/Admin/AppData/Local/Programs/MiKT
-eX/fonts/type1/urw/times/utmr8a.pfb><C:/Users/Admin/AppData/Local/Programs/MiKT
-eX/fonts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (89 pages, 14975123 bytes).
+<C:/Users/Admin/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/
+cmmi12.pfb><C:/Users/Admin/AppData/Local/Programs/MiKTeX/fonts/type1/public/ams
+fonts/cm/cmr12.pfb><C:/Users/Admin/AppData/Local/Programs/MiKTeX/fonts/type1/pu
+blic/amsfonts/cm/cmsy10.pfb><C:/Users/Admin/AppData/Local/Programs/MiKTeX/fonts
+/type1/urw/courier/ucrr8a.pfb><C:/Users/Admin/AppData/Local/Programs/MiKTeX/fon
+ts/type1/urw/times/utmb8a.pfb><C:/Users/Admin/AppData/Local/Programs/MiKTeX/fon
+ts/type1/urw/times/utmr8a.pfb><C:/Users/Admin/AppData/Local/Programs/MiKTeX/fon
+ts/type1/urw/times/utmri8a.pfb>
+Output written on main.pdf (85 pages, 14971044 bytes).
 PDF statistics:
- 1019 PDF objects out of 1200 (max. 8388607)
- 238 named destinations out of 1000 (max. 500000)
+ 997 PDF objects out of 1000 (max. 8388607)
+ 234 named destinations out of 1000 (max. 500000)
  719 words of extra memory for PDF output out of 10000 (max. 10000000)
 
