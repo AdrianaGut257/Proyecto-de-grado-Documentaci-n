@@ -1,7 +1,7 @@
 \chapter{PROTOTIPAR}
 El presente capítulo desarrolla la cuarta etapa del Design Thinking: Prototipar. Su propósito es construir una representación tangible de las ideas seleccionadas en el Capítulo 6, que permita visualizar las decisiones de diseño, iniciar conversaciones productivas con los usuarios y detectar errores de forma temprana (Vargas Márquez et al., 2021). Se describe la arquitectura del sistema, las reglas de interacción implementadas, el algoritmo de emparejamiento, el sistema de diseño bajo principios de IHC Afectiva, y las iteraciones realizadas durante el desarrollo.
 
-[Imagen: mockup general de la aplicación ECCO, mostrando las pantallas principales en secuencia]
+%[Imagen: mockup general de la aplicación ECCO, mostrando las pantallas principales en secuencia]
 
 \section{ARQUITECTURA}
 El prototipo se desarrolló bajo una arquitectura cliente-servidor, compuesta por los siguientes elementos:
@@ -13,7 +13,7 @@ El prototipo se desarrolló bajo una arquitectura cliente-servidor, compuesta po
     \item \textbf{Servicio externo:} Google Knowledge Graph Search API, consultada únicamente desde el servidor para proteger la clave de acceso, utilizada para el autocompletado de gustos específicos (Google, s.f.; sección 7.4).
 \end{itemize}
 
-[Imagen: diagrama de arquitectura cliente-servidor de ECCO]
+%[Imagen: diagrama de arquitectura cliente-servidor de ECCO]
 
 La aplicación consulta periódicamente al servidor para recibir mensajes nuevos y para verificar si ya se formó una pareja (cada 4 segundos dentro de una conversación activa, y cada 3 a 5 segundos durante la búsqueda), y únicamente mientras la pantalla correspondiente está visible, con el fin de equilibrar la capacidad de respuesta percibida con el consumo de recursos del dispositivo.
 
@@ -67,16 +67,16 @@ Esta fórmula otorga mayor peso a los niveles más específicos de afinidad: com
 
 La comparación de textos ignora mayúsculas, espacios y tildes (por ejemplo, ``Iron Man 2'' equivale a ``iron man 2''). El sistema garantiza que nunca se repita una pareja ya formada previamente, y un bloqueo a nivel de base de datos evita que dos búsquedas simultáneas generen parejas duplicadas.
 
-[Imagen: diagrama de flujo del algoritmo de emparejamiento]
+%[Imagen: diagrama de flujo del algoritmo de emparejamiento]
 
 \section{JERARQUÍA DE INTERESES Y AUTOCOMPLETADO}
-El catálogo de intereses del prototipo está organizado en 11 categorías y 77 intereses: Entretenimiento, Música, Cultura, Cocina y gastronomía, Bebidas, Deportes, Actividades al aire libre, Estilo de vida, Bienestar, Creatividad, y Social y comunidad. Cada interés cuenta con sus propios subtemas (por ejemplo, Películas tiene géneros, Rock tiene estilos musicales, y Fútbol tiene ligas), y dentro de cada subtema el usuario puede agregar ejemplos concretos de forma opcional (Películas → Acción → \textit{Iron Man 2}) o de manera general (Películas → \textit{Coco}).
+El catálogo de intereses del prototipo está organizado en 11 categorías y 77 intereses: Entretenimiento, Música, Cultura, Cocina y gastronomía, Bebidas, Deportes, Actividades al aire libre, Estilo de vida, Bienestar, Creatividad, y Social y comunidad. Cada interés cuenta con sus propios subtemas (por ejemplo, Películas tiene géneros, Rock tiene estilos musicales, y Fútbol tiene ligas), y dentro de cada subtema el usuario puede agregar ejemplos concretos de forma opcional (Películas $\rightarrow$ Acción $\rightarrow$ \textit{Iron Man 2}) o de manera general (Películas $\rightarrow$ \textit{Coco}).
 
 Para facilitar el ingreso de ejemplos concretos, la aplicación ofrece autocompletado mediante la Google Knowledge Graph Search API, que sugiere nombres reales filtrados según el tipo de interés (en Películas sugiere únicamente películas; en Rock, bandas y artistas; en Fútbol, equipos y jugadores). El usuario conserva siempre la posibilidad de escribir texto libre si no encuentra el ejemplo que busca.
 
 Dado que la API externa responde en aproximadamente un segundo, lo cual excede el Umbral de Doherty de 400 ms que optimiza la productividad percibida (Yablonski, 2020), la interfaz muestra de inmediato las sugerencias ya recibidas que coinciden parcialmente con lo que el usuario va escribiendo, mientras el servidor almacena en caché las respuestas por 24 horas y reutiliza la conexión con el servicio externo, reduciendo así la latencia percibida en búsquedas posteriores.
 
-[Imagen: pantalla de selección de intereses con autocompletado en acción]
+%[Imagen: pantalla de selección de intereses con autocompletado en acción]
 
 \section{SEGURIDAD Y PRIVACIDAD}
 Dado que la aplicación empareja a jóvenes desconocidos entre sí para conversar, se implementaron los siguientes mecanismos de seguridad y protección de la privacidad, en respuesta directa a la necesidad de confianza identificada en la Síntesis de la Fase Empatizar (4.5):
@@ -90,7 +90,7 @@ Dado que la aplicación empareja a jóvenes desconocidos entre sí para conversa
     \item Los acuerdos de convivencia, presentados en la pantalla ``Un lugar seguro'' del \textit{onboarding}, aclaran explícitamente que ECCO no reemplaza la ayuda profesional, en línea con los límites definidos en la sección 1.5 del presente documento.
 \end{itemize}
 
-[Imagen: pantalla ``Un lugar seguro'' con los acuerdos de convivencia]
+%[Imagen: pantalla ``Un lugar seguro'' con los acuerdos de convivencia]
 
 \section{SISTEMA DE DISEÑO: IHC AFECTIVA Y UX/UI EMOCIONAL}
 El sistema de diseño del prototipo se construyó deliberadamente para traducir en elementos visuales e interactivos concretos los principios de IHC Afectiva revisados en el Capítulo 2, evitando los códigos visuales que la literatura del Capítulo 3 asocia a la ansiedad social y la comparación: colores de alerta, contadores públicos y notificaciones de enganche.
@@ -98,7 +98,7 @@ El sistema de diseño del prototipo se construyó deliberadamente para traducir 
 \subsection{Paleta de colores y accesibilidad}
 La paleta es cálida y natural, compuesta por un color durazno como color principal, verde para representar el crecimiento y las acciones positivas, y celeste para transmitir calma y acceso a la ayuda, complementada con cinco colores adicionales utilizados en la representación de los estados de ánimo.
 
-[Imagen: paleta de colores de ECCO, con los tonos principales y secundarios]
+%[Imagen: paleta de colores de ECCO, con los tonos principales y secundarios]
 
 Dado que la calidez cromática por sí sola no garantiza la legibilidad, se midió el contraste de todos los elementos de texto e interactivos conforme a las Pautas de Accesibilidad para el Contenido Web (WCAG) 2.2 (W3C, 2023), y se corrigieron los valores que no alcanzaban el mínimo recomendado, sin abandonar la paleta original. La Tabla \ref{tab:contraste} resume los ajustes realizados.
 
@@ -135,14 +135,14 @@ Adicionalmente, todos los objetivos táctiles de la interfaz miden al menos entr
 \subsection{Tipografía}
 Se utiliza Poppins para los títulos y Quicksand para el cuerpo de texto, con un tamaño mínimo de 12 px en toda la interfaz. Esta combinación tipográfica, de formas redondeadas, refuerza la calidez emocional de la aplicación en coherencia con la faceta de lo deseable propuesta por Morville (2005, como se citó en Méndez et al., 2014), evitando las fuentes geométricas y frías asociadas a interfaces de carácter corporativo.
 
-[Imagen: muestra tipográfica de Poppins y Quicksand aplicadas en una pantalla de la app]
+%[Imagen: muestra tipográfica de Poppins y Quicksand aplicadas en una pantalla de la app]
 
 \subsection{Ilustraciones propias y mascota}
 Con el fin de construir una identidad visual propia y coherente, se diseñaron ilustraciones originales en formato vectorial (SVG): una semilla de bienvenida, cinco caras que representan los estados de ánimo (fatal, mal, normal, bien, feliz), y un fondo de colinas y arbustos para la pantalla de Inicio, que se adapta a cualquier ancho de pantalla sin deformarse.
 
-[Imagen: ilustración de la semilla de bienvenida]
-[Imagen: las cinco caras de ánimo]
-[Imagen: fondo de colinas de la pantalla de Inicio]
+%[Imagen: ilustración de la semilla de bienvenida]
+%[Imagen: las cinco caras de ánimo]
+%[Imagen: fondo de colinas de la pantalla de Inicio]
 
 \subsection{Micro-interacciones}
 Las micro-interacciones del prototipo se diseñaron siguiendo la definición de Saffer (2013), quien sostiene que su poder reside en la brevedad: no requieren un compromiso prolongado del usuario para generar un efecto significativo. Entre las implementadas en ECCO se encuentran:
@@ -155,9 +155,9 @@ Las micro-interacciones del prototipo se diseñaron siguiendo la definición de 
     \item La pantalla de cierre de cada semana fue diseñada con especial cuidado visual y de contenido, dado que, conforme a la Regla del Pico-Final, las personas juzgan una experiencia principalmente por su momento más intenso y por su cierre (Yablonski, 2020).
 \end{itemize}
 
-[Imagen: secuencia de la animación de crecimiento de la planta]
-[Imagen: pantalla de respiración guiada]
-[Imagen: pantalla de cierre de semana]
+%[Imagen: secuencia de la animación de crecimiento de la planta]
+%[Imagen: pantalla de respiración guiada]
+%[Imagen: pantalla de cierre de semana]
 
 \subsection{Lenguaje del sistema}
 Todos los mensajes generados por el sistema (avisos, confirmaciones, estados de espera) se redactaron en segunda persona, con un tono cálido y libre de culpa. Por ejemplo, al agotarse los mensajes diarios el sistema indica ``Ya compartiste tus mensajes de hoy. Mañana podrás escribir de nuevo'', en lugar de un aviso de error genérico; y la opción de abandonar una conversación se etiqueta como ``Cerrar aquí'' en lugar de ``Mejor no''. Esta decisión responde al enfoque afectivo de la IHC, que no solo busca que la interacción resulte placentera, sino también influir en las emociones y actitudes del usuario respecto al uso del sistema (Gupta, 2012, como se citó en Méndez et al., 2014), y a la recomendación de ofrecer instrucciones sencillas y constructivas cuando el usuario no puede completar una acción (Shneiderman et al., 2016).
@@ -177,7 +177,7 @@ Durante la construcción del prototipo se identificaron problemas de usabilidad 
     \item \textbf{Retroalimentación del autocompletado:} cuando el servicio externo no encuentra sugerencias, el sistema informa ``Sin sugerencias. Toca + para agregarlo tal como lo escribiste'', atendiendo el principio de retroalimentación, que consiste en comunicar de inmediato al usuario el resultado de sus acciones (Norman, 2013). También se redujo el tiempo de espera percibido mediante el almacenamiento en caché descrito en la sección 7.4.
 \end{enumerate}
 
-[Imagen: comparación antes/después de la pantalla de selección de temas]
+%[Imagen: comparación antes/después de la pantalla de selección de temas]
 
 \section{HACIA LA FASE TESTEAR}
 Las decisiones de diseño descritas en este capítulo constituyen un conjunto de hipótesis que deberán validarse con usuarios reales durante la prueba piloto, desarrollada en el Capítulo 8. En particular, interesa conocer si la duración de siete días y el límite de cinco mensajes diarios resultan adecuados, si las ideas para romper el hielo cumplen su función, y si la representación del vínculo mediante una planta motiva la interacción sin generar presión, en coherencia con el principio de poner los prototipos en manos de los usuarios para recopilar retroalimentación cualitativa y cuantitativa (Vargas Márquez et al., 2021).
