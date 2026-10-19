@@ -1,68 +1,97 @@
 \begin{thebibliography}{}
 
 \bibitem [\protect \citeauthoryear {%
-Baudon%
-\ \BBA {} Jachens%
+Algoe%
 }{%
-Baudon%
-\ \BBA {} Jachens%
+Algoe%
 }{%
+{\protect \APACyear {2012}}%
+}]{%
+algoe2012find}
+\APACinsertmetastar {%
+algoe2012find}%
+\begin{APACrefauthors}%
+Algoe, S\BPBI B.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2012}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Find, remind, and bind: The functions of gratitude in
+  everyday relationships} {Find, remind, and bind: The functions of gratitude
+  in everyday relationships}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Social and Personality Psychology
+  Compass}{6}{6}{455--469}.
+\newblock
+\begin{APACrefDOI} \doi{10.1111/j.1751-9004.2012.00439.x} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Birrell%
+, Werner-Seidler%
+, Davidson%
+, Andrews%
+\BCBL {}\ \BBA {} Slade%
+}{%
+Birrell%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2025}}%
+}]{%
+birrell2025social}
+\APACinsertmetastar {%
+birrell2025social}%
+\begin{APACrefauthors}%
+Birrell, L.%
+, Werner-Seidler, A.%
+, Davidson, L.%
+, Andrews, J\BPBI L.%
+\BCBL {}\ \BBA {} Slade, T.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2025}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Social connection as a key target for youth mental
+  health} {Social connection as a key target for youth mental health}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Mental Health \& Prevention}{37}{}{Artículo 200395}.
+\newblock
+\begin{APACrefDOI} \doi{10.1016/j.mhp.2025.200395} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Borghouts%
+\ \protect \BOthers {.}}{%
+Borghouts%
+\ \protect \BOthers {.}}{%
 {\protect \APACyear {2021}}%
 }]{%
-baudonjachens2021}
+borghouts2021barriers}
 \APACinsertmetastar {%
-baudonjachens2021}%
+borghouts2021barriers}%
 \begin{APACrefauthors}%
-Baudon, P.%
-\BCBT {}\ \BBA {} Jachens, L.%
+Borghouts, J.%
+, Eikey, E.%
+, Mark, G.%
+, De~Leon, C.%
+, Schueller, S\BPBI M.%
+, Schneider, M.%
+\BDBL {}Sorkin, D\BPBI H.%
 \end{APACrefauthors}%
 \unskip\
 \newblock
 \APACrefYearMonthDay{2021}{}{}.
 \newblock
-{\BBOQ}\APACrefatitle {Mobile apps that promote emotion regulation, positive
-  mental health, and well-being in the general population: Systematic review
-  and meta-analysis} {Mobile apps that promote emotion regulation, positive
-  mental health, and well-being in the general population: Systematic review
-  and meta-analysis}.{\BBCQ}
+{\BBOQ}\APACrefatitle {Barriers to and facilitators of user engagement with
+  digital mental health interventions: Systematic review} {Barriers to and
+  facilitators of user engagement with digital mental health interventions:
+  Systematic review}.{\BBCQ}
 \newblock
-\APACjournalVolNumPages{JMIR Mental Health}{8}{11}{e31170}.
+\APACjournalVolNumPages{Journal of Medical Internet Research}{23}{3}{Artículo
+  e24387}.
 \newblock
-\begin{APACrefURL} \url{https://doi.org/10.2196/31170} \end{APACrefURL}
-\newblock
-\begin{APACrefDOI} \doi{10.2196/31170} \end{APACrefDOI}
-\PrintBackRefs{\CurrentBib}
-
-\bibitem [\protect \citeauthoryear {%
-Brave%
-\ \BBA {} Nass%
-}{%
-Brave%
-\ \BBA {} Nass%
-}{%
-{\protect \APACyear {2003}}%
-}]{%
-bravenass2003emotion}
-\APACinsertmetastar {%
-bravenass2003emotion}%
-\begin{APACrefauthors}%
-Brave, S.%
-\BCBT {}\ \BBA {} Nass, C.%
-\end{APACrefauthors}%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2003}{}{}.
-\newblock
-{\BBOQ}\APACrefatitle {Emotion in human--computer interaction} {Emotion in
-  human--computer interaction}.{\BBCQ}
-\newblock
-\BIn{} J\BPBI A.~Jacko\ \BBA {} A.~Sears\ (\BEDS), \APACrefbtitle {The
-  Human--Computer Interaction Handbook: Fundamentals, Evolving Technologies and
-  Emerging Applications} {The human--computer interaction handbook:
-  Fundamentals, evolving technologies and emerging applications}\ (\BPGS\
-  81--96).
-\newblock
-\APACaddressPublisher{}{Lawrence Erlbaum Associates}.
+\begin{APACrefDOI} \doi{10.2196/24387} \end{APACrefDOI}
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
@@ -86,10 +115,41 @@ Brooke, J.%
   quick and dirty usability scale}.{\BBCQ}
 \newblock
 \BIn{} P\BPBI W.~Jordan, B.~Thomas, B\BPBI A.~Weerdmeester\BCBL {}\ \BBA {}
-  I\BPBI L.~McClelland\ (\BEDS), \APACrefbtitle {Usability Evaluation in
-  Industry} {Usability evaluation in industry}\ (\BPGS\ 189--194).
+  I\BPBI L.~McClelland\ (\BEDS), \APACrefbtitle {Usability evaluation in
+  industry} {Usability evaluation in industry}\ (\BPGS\ 189--194).
 \newblock
 \APACaddressPublisher{}{Taylor \& Francis}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Burke%
+\ \BBA {} Kraut%
+}{%
+Burke%
+\ \BBA {} Kraut%
+}{%
+{\protect \APACyear {2016}}%
+}]{%
+burke2016relationship}
+\APACinsertmetastar {%
+burke2016relationship}%
+\begin{APACrefauthors}%
+Burke, M.%
+\BCBT {}\ \BBA {} Kraut, R\BPBI E.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2016}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {The relationship between {Facebook} use and well-being
+  depends on communication type and tie strength} {The relationship between
+  {Facebook} use and well-being depends on communication type and tie
+  strength}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Journal of Computer-Mediated
+  Communication}{21}{4}{265--281}.
+\newblock
+\begin{APACrefDOI} \doi{10.1111/jcc4.12162} \end{APACrefDOI}
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
@@ -124,26 +184,73 @@ Clark, J\BPBI L.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
-Diaper%
+Collazos%
+, M{\'e}ndez%
+\BCBL {}\ \BBA {} Solano%
 }{%
-Diaper%
-}{%
-{\protect \APACyear {1989}}%
+Collazos%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2014}}%
 }]{%
-diaper1989}
+collazos2014evaluacion}
 \APACinsertmetastar {%
-diaper1989}%
+collazos2014evaluacion}%
 \begin{APACrefauthors}%
-Diaper, D.%
+Collazos, C\BPBI A.%
+, M{\'e}ndez, Y\BPBI A.%
+\BCBL {}\ \BBA {} Solano, A\BPBI F.%
 \end{APACrefauthors}%
 \unskip\
 \newblock
-\APACrefYear{1989}.
+\APACrefYearMonthDay{2014}{}{}.
 \newblock
-\APACrefbtitle {Task Analysis for Human-Computer Interaction} {Task analysis
-  for human-computer interaction}.
+{\BBOQ}\APACrefatitle {Evaluaci{\'o}n en interacci{\'o}n humano computador}
+  {Evaluaci{\'o}n en interacci{\'o}n humano computador}.{\BBCQ}
 \newblock
-\APACaddressPublisher{}{Ellis Horwood}.
+\BIn{} \APACrefbtitle {Temas de dise{\~n}o en interacci{\'o}n
+  humano-computadora} {Temas de dise{\~n}o en interacci{\'o}n
+  humano-computadora}\ (\BPGS\ 91--150).
+\newblock
+\APACaddressPublisher{}{Iniciativa Latinoamericana de Libros de Texto Abiertos
+  (LATIn)}.
+\newblock
+\begin{APACrefURL} \url{http://www.proyectolatin.org/} \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Eisenstadt%
+, Liverpool%
+, Infanti%
+, Ciuvat%
+\BCBL {}\ \BBA {} Carlsson%
+}{%
+Eisenstadt%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2021}}%
+}]{%
+eisenstadt2021mobile}
+\APACinsertmetastar {%
+eisenstadt2021mobile}%
+\begin{APACrefauthors}%
+Eisenstadt, M.%
+, Liverpool, S.%
+, Infanti, E.%
+, Ciuvat, R\BPBI M.%
+\BCBL {}\ \BBA {} Carlsson, C.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2021}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Mobile apps that promote emotion regulation, positive
+  mental health, and well-being in the general population: Systematic review
+  and meta-analysis} {Mobile apps that promote emotion regulation, positive
+  mental health, and well-being in the general population: Systematic review
+  and meta-analysis}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{JMIR Mental Health}{8}{11}{Artículo e31170}.
+\newblock
+\begin{APACrefDOI} \doi{10.2196/31170} \end{APACrefDOI}
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
@@ -178,9 +285,6 @@ Feng, H\BHBI P.%
 \APACjournalVolNumPages{Social Psychiatry and Psychiatric
   Epidemiology}{61}{8}{1345--1359}.
 \newblock
-\begin{APACrefURL} \url{https://doi.org/10.1007/s00127-026-03175-4}
-  \end{APACrefURL}
-\newblock
 \begin{APACrefDOI} \doi{10.1007/s00127-026-03175-4} \end{APACrefDOI}
 \PrintBackRefs{\CurrentBib}
 
@@ -205,15 +309,13 @@ Godard, R.%
 \APACrefYearMonthDay{2024}{}{}.
 \newblock
 {\BBOQ}\APACrefatitle {Are active and passive social media use related to
-  mental health, wellbeing, and social support outcomes? A meta-analysis of 141
-  studies} {Are active and passive social media use related to mental health,
-  wellbeing, and social support outcomes? a meta-analysis of 141
+  mental health, wellbeing, and social support outcomes? {A} meta-analysis of
+  141 studies} {Are active and passive social media use related to mental
+  health, wellbeing, and social support outcomes? {A} meta-analysis of 141
   studies}.{\BBCQ}
 \newblock
 \APACjournalVolNumPages{Journal of Computer-Mediated
-  Communication}{29}{1}{zmad055}.
-\newblock
-\begin{APACrefURL} \url{https://doi.org/10.1093/jcmc/zmad055} \end{APACrefURL}
+  Communication}{29}{1}{Artículo zmad055}.
 \newblock
 \begin{APACrefDOI} \doi{10.1093/jcmc/zmad055} \end{APACrefDOI}
 \PrintBackRefs{\CurrentBib}
@@ -235,14 +337,12 @@ googleknowledgegraph}%
 \newblock
 \APACrefYearMonthDay{{\protect \bibnodate {}}}{}{}.
 \newblock
-\APACrefbtitle {Knowledge Graph Search {API}.} {Knowledge graph search {API}.}
+\APACrefbtitle {{Knowledge Graph Search API}.} {{Knowledge Graph Search API}.}
 \newblock
 \APAChowpublished {Google for Developers}.
 \newblock
 \begin{APACrefURL} \url{https://developers.google.com/knowledge-graph}
   \end{APACrefURL}
-\newblock
-\APACrefnote{s.\,f.}
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
@@ -251,16 +351,44 @@ Gross%
 Gross%
 }{%
 {\protect \APACyear {1998}}%
-}]{%
-gross1998process}
+{\protect \APACexlab {{\protect \BCnt {1}}}}}]{%
+gross1998antecedent}
 \APACinsertmetastar {%
-gross1998process}%
+gross1998antecedent}%
 \begin{APACrefauthors}%
 Gross, J\BPBI J.%
 \end{APACrefauthors}%
 \unskip\
 \newblock
-\APACrefYearMonthDay{1998}{}{}.
+\APACrefYearMonthDay{1998{\protect \BCnt {1}}}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Antecedent- and response-focused emotion regulation:
+  Divergent consequences for experience, expression, and physiology}
+  {Antecedent- and response-focused emotion regulation: Divergent consequences
+  for experience, expression, and physiology}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Journal of Personality and Social
+  Psychology}{74}{1}{224--237}.
+\newblock
+\begin{APACrefDOI} \doi{10.1037/0022-3514.74.1.224} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Gross%
+}{%
+Gross%
+}{%
+{\protect \APACyear {1998}}%
+{\protect \APACexlab {{\protect \BCnt {2}}}}}]{%
+gross1998emerging}
+\APACinsertmetastar {%
+gross1998emerging}%
+\begin{APACrefauthors}%
+Gross, J\BPBI J.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1998{\protect \BCnt {2}}}{}{}.
 \newblock
 {\BBOQ}\APACrefatitle {The emerging field of emotion regulation: An integrative
   review} {The emerging field of emotion regulation: An integrative
@@ -317,88 +445,17 @@ Hern{\'a}ndez~Bieliukas, Y\BPBI C.%
 \newblock
 \APACrefYearMonthDay{2014}{}{}.
 \newblock
-{\BBOQ}\APACrefatitle {Fundamentos de Interacci{\'o}n Humano Computadora}
-  {Fundamentos de interacci{\'o}n humano computadora}.{\BBCQ}
+{\BBOQ}\APACrefatitle {Fundamentos de interacci{\'o}n humano computadora
+  ({IHC})} {Fundamentos de interacci{\'o}n humano computadora ({IHC})}.{\BBCQ}
 \newblock
-\BIn{} J.~Mu{\~n}oz~Arteaga\ \BOthers {.}\ (\BEDS), \APACrefbtitle {Temas de
-  dise{\~n}o en Interacci{\'o}n Humano-Computadora} {Temas de dise{\~n}o en
-  interacci{\'o}n humano-computadora}\ (\BPGS\ 13--26).
+\BIn{} \APACrefbtitle {Temas de dise{\~n}o en interacci{\'o}n
+  humano-computadora} {Temas de dise{\~n}o en interacci{\'o}n
+  humano-computadora}\ (\BPGS\ 13--27).
 \newblock
 \APACaddressPublisher{}{Iniciativa Latinoamericana de Libros de Texto Abiertos
   (LATIn)}.
-\PrintBackRefs{\CurrentBib}
-
-\bibitem [\protect \citeauthoryear {%
-{International Organization for Standardization}%
-}{%
-{International Organization for Standardization}%
-}{%
-{\protect \APACyear {1998}}%
-}]{%
-iso9241_1998}
-\APACinsertmetastar {%
-iso9241_1998}%
-\begin{APACrefauthors}%
-{International Organization for Standardization}.%
-\end{APACrefauthors}%
-\unskip\
 \newblock
-\APACrefYearMonthDay{1998}{}{}.
-\newblock
-\APACrefbtitle {{ISO 9241} Ergonomic requirements for office work with visual
-  display terminals.} {{ISO 9241} ergonomic requirements for office work with
-  visual display terminals.}
-\PrintBackRefs{\CurrentBib}
-
-\bibitem [\protect \citeauthoryear {%
-{International Organization for Standardization}%
-}{%
-{International Organization for Standardization}%
-}{%
-{\protect \APACyear {2010}}%
-}]{%
-iso9241210_2010}
-\APACinsertmetastar {%
-iso9241210_2010}%
-\begin{APACrefauthors}%
-{International Organization for Standardization}.%
-\end{APACrefauthors}%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2010}{}{}.
-\newblock
-\APACrefbtitle {{ISO 9241-210:2010} Ergonomics of human-system interaction --
-  Part 210: Human-centred design for interactive systems.} {{ISO 9241-210:2010}
-  ergonomics of human-system interaction -- part 210: Human-centred design for
-  interactive systems.}
-\PrintBackRefs{\CurrentBib}
-
-\bibitem [\protect \citeauthoryear {%
-Jacko%
-\ \BBA {} Sears%
-}{%
-Jacko%
-\ \BBA {} Sears%
-}{%
-{\protect \APACyear {2008}}%
-}]{%
-jacko2008}
-\APACinsertmetastar {%
-jacko2008}%
-\begin{APACrefauthors}%
-Jacko, J\BPBI A.%
-\BCBT {}\ \BBA {} Sears, A.%
-\end{APACrefauthors}%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2008}{}{}.
-\newblock
-{\BBOQ}\APACrefatitle {The Human-Computer Interaction Handbook: Fundamentals,
-  Evolving Technologies and Emerging Applications} {The human-computer
-  interaction handbook: Fundamentals, evolving technologies and emerging
-  applications}.{\BBCQ}
-\newblock
-\APACaddressPublisher{}{Lawrence Erlbaum Associates}.
+\begin{APACrefURL} \url{http://www.proyectolatin.org/} \end{APACrefURL}
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
@@ -429,54 +486,110 @@ Liu, Y.%
 \newblock
 \APACjournalVolNumPages{Information, Communication \& Society}{}{}{}.
 \newblock
-\begin{APACrefURL} \url{https://doi.org/10.1080/1369118X.2026.2674934}
-  \end{APACrefURL}
-\newblock
 \begin{APACrefDOI} \doi{10.1080/1369118X.2026.2674934} \end{APACrefDOI}
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
-Morville%
+M{\'e}ndez%
+, Collazos%
+, Granollers%
+\BCBL {}\ \BBA {} Gil%
 }{%
-Morville%
-}{%
-{\protect \APACyear {2005}}%
+M{\'e}ndez%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2014}}%
 }]{%
-morville2005facets}
+mendez2014emociones}
 \APACinsertmetastar {%
-morville2005facets}%
+mendez2014emociones}%
 \begin{APACrefauthors}%
-Morville, P.%
+M{\'e}ndez, Y\BPBI A.%
+, Collazos, C\BPBI A.%
+, Granollers, T.%
+\BCBL {}\ \BBA {} Gil, R.%
 \end{APACrefauthors}%
 \unskip\
 \newblock
-\APACrefYearMonthDay{2005}{}{}.
+\APACrefYearMonthDay{2014}{}{}.
 \newblock
-\APACrefbtitle {User Experience Design.} {User experience design.}
+{\BBOQ}\APACrefatitle {Emociones en la interacci{\'o}n humano computadora}
+  {Emociones en la interacci{\'o}n humano computadora}.{\BBCQ}
 \newblock
-\APACrefnote{Semantic Studios}
+\BIn{} \APACrefbtitle {Temas de dise{\~n}o en interacci{\'o}n
+  humano-computadora} {Temas de dise{\~n}o en interacci{\'o}n
+  humano-computadora}\ (\BPGS\ 205--226).
+\newblock
+\APACaddressPublisher{}{Iniciativa Latinoamericana de Libros de Texto Abiertos
+  (LATIn)}.
+\newblock
+\begin{APACrefURL} \url{http://www.proyectolatin.org/} \end{APACrefURL}
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
-Nielsen%
+Montag%
+, Lachmann%
+, Herrlich%
+\BCBL {}\ \BBA {} Zweig%
 }{%
-Nielsen%
-}{%
-{\protect \APACyear {1993}}%
+Montag%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2019}}%
 }]{%
-nielsen1993usability}
+montag2019addictive}
 \APACinsertmetastar {%
-nielsen1993usability}%
+montag2019addictive}%
 \begin{APACrefauthors}%
-Nielsen, J.%
+Montag, C.%
+, Lachmann, B.%
+, Herrlich, M.%
+\BCBL {}\ \BBA {} Zweig, K.%
 \end{APACrefauthors}%
 \unskip\
 \newblock
-\APACrefYear{1993}.
+\APACrefYearMonthDay{2019}{}{}.
 \newblock
-\APACrefbtitle {Usability Engineering} {Usability engineering}.
+{\BBOQ}\APACrefatitle {Addictive features of social media/messenger platforms
+  and freemium games against the background of psychological and economic
+  theories} {Addictive features of social media/messenger platforms and
+  freemium games against the background of psychological and economic
+  theories}.{\BBCQ}
 \newblock
-\APACaddressPublisher{}{Academic Press}.
+\APACjournalVolNumPages{International Journal of Environmental Research and
+  Public Health}{16}{14}{Artículo 2612}.
+\newblock
+\begin{APACrefDOI} \doi{10.3390/ijerph16142612} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Montoya%
+, Horton%
+\BCBL {}\ \BBA {} Kirchner%
+}{%
+Montoya%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2008}}%
+}]{%
+montoya2008similarity}
+\APACinsertmetastar {%
+montoya2008similarity}%
+\begin{APACrefauthors}%
+Montoya, R\BPBI M.%
+, Horton, R\BPBI S.%
+\BCBL {}\ \BBA {} Kirchner, J.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2008}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Is actual similarity necessary for attraction? {A}
+  meta-analysis of actual and perceived similarity} {Is actual similarity
+  necessary for attraction? {A} meta-analysis of actual and perceived
+  similarity}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Journal of Social and Personal
+  Relationships}{25}{6}{889--922}.
+\newblock
+\begin{APACrefDOI} \doi{10.1177/0265407508096700} \end{APACrefDOI}
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
@@ -496,7 +609,7 @@ Norman, D\BPBI A.%
 \newblock
 \APACrefYear{2013}.
 \newblock
-\APACrefbtitle {The Design of Everyday Things} {The design of everyday things}\
+\APACrefbtitle {The design of everyday things} {The design of everyday things}\
   (\PrintOrdinal{Revised and expanded}\ \BEd).
 \newblock
 \APACaddressPublisher{}{Basic Books}.
@@ -532,9 +645,6 @@ Parry, D\BPBI A.%
 \newblock
 \APACjournalVolNumPages{New Media \& Society}{28}{8}{4303--4323}.
 \newblock
-\begin{APACrefURL} \url{https://doi.org/10.1177/14614448251362436}
-  \end{APACrefURL}
-\newblock
 \begin{APACrefDOI} \doi{10.1177/14614448251362436} \end{APACrefDOI}
 \PrintBackRefs{\CurrentBib}
 
@@ -555,37 +665,9 @@ Picard, R\BPBI W.%
 \newblock
 \APACrefYear{1997}.
 \newblock
-\APACrefbtitle {Affective Computing} {Affective computing}.
+\APACrefbtitle {Affective computing} {Affective computing}.
 \newblock
 \APACaddressPublisher{}{MIT Press}.
-\PrintBackRefs{\CurrentBib}
-
-\bibitem [\protect \citeauthoryear {%
-Preece%
-\ \protect \BOthers {.}}{%
-Preece%
-\ \protect \BOthers {.}}{%
-{\protect \APACyear {1994}}%
-}]{%
-preece1994}
-\APACinsertmetastar {%
-preece1994}%
-\begin{APACrefauthors}%
-Preece, J.%
-, Rogers, Y.%
-, Sharp, H.%
-, Benyon, D.%
-, Holland, S.%
-\BCBL {}\ \BBA {} Carey, T.%
-\end{APACrefauthors}%
-\unskip\
-\newblock
-\APACrefYearMonthDay{1994}{}{}.
-\newblock
-{\BBOQ}\APACrefatitle {Human-Computer Interaction} {Human-computer
-  interaction}.{\BBCQ}
-\newblock
-\APACaddressPublisher{}{Addison-Wesley}.
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
@@ -605,34 +687,69 @@ Saffer, D.%
 \newblock
 \APACrefYear{2013}.
 \newblock
-\APACrefbtitle {Microinteractions: Designing with Details} {Microinteractions:
+\APACrefbtitle {Microinteractions: Designing with details} {Microinteractions:
   Designing with details}.
 \newblock
 \APACaddressPublisher{}{O'Reilly Media}.
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
-Shneiderman%
+Sandstrom%
+\ \BBA {} Dunn%
 }{%
-Shneiderman%
+Sandstrom%
+\ \BBA {} Dunn%
 }{%
-{\protect \APACyear {1992}}%
+{\protect \APACyear {2014}}%
 }]{%
-shneiderman1992designing}
+sandstrom2014efficiency}
 \APACinsertmetastar {%
-shneiderman1992designing}%
+sandstrom2014efficiency}%
 \begin{APACrefauthors}%
-Shneiderman, B.%
+Sandstrom, G\BPBI M.%
+\BCBT {}\ \BBA {} Dunn, E\BPBI W.%
 \end{APACrefauthors}%
 \unskip\
 \newblock
-\APACrefYear{1992}.
+\APACrefYearMonthDay{2014}{}{}.
 \newblock
-\APACrefbtitle {Designing the User Interface: Strategies for Effective
-  Human-Computer Interaction} {Designing the user interface: Strategies for
-  effective human-computer interaction}\ (\PrintOrdinal{2nd}\ \BEd).
+{\BBOQ}\APACrefatitle {Is efficiency overrated? {M}inimal social interactions
+  lead to belonging and positive affect} {Is efficiency overrated? {M}inimal
+  social interactions lead to belonging and positive affect}.{\BBCQ}
 \newblock
-\APACaddressPublisher{}{Addison-Wesley}.
+\APACjournalVolNumPages{Social Psychological and Personality
+  Science}{5}{4}{437--442}.
+\newblock
+\begin{APACrefDOI} \doi{10.1177/1948550613502990} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Shneiderman%
+\ \protect \BOthers {.}}{%
+Shneiderman%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2016}}%
+}]{%
+shneiderman2016designing}
+\APACinsertmetastar {%
+shneiderman2016designing}%
+\begin{APACrefauthors}%
+Shneiderman, B.%
+, Plaisant, C.%
+, Cohen, M.%
+, Jacobs, S.%
+, Elmqvist, N.%
+\BCBL {}\ \BBA {} Diakopoulos, N.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{2016}.
+\newblock
+\APACrefbtitle {Designing the user interface: Strategies for effective
+  human-computer interaction} {Designing the user interface: Strategies for
+  effective human-computer interaction}\ (\PrintOrdinal{6}\ \BEd).
+\newblock
+\APACaddressPublisher{}{Pearson}.
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
@@ -662,95 +779,32 @@ Smith, D.%
 \newblock
 \APACjournalVolNumPages{Australian Journal of Psychology}{73}{1}{12--23}.
 \newblock
-\begin{APACrefURL} \url{https://doi.org/10.1080/00049530.2021.1898914}
-  \end{APACrefURL}
-\newblock
 \begin{APACrefDOI} \doi{10.1080/00049530.2021.1898914} \end{APACrefDOI}
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
-Takano%
+Tian%
 }{%
-Takano%
-}{%
-{\protect \APACyear {2018}}%
-}]{%
-takano2018two}
-\APACinsertmetastar {%
-takano2018two}%
-\begin{APACrefauthors}%
-Takano, M.%
-\end{APACrefauthors}%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2018}{}{}.
-\newblock
-{\BBOQ}\APACrefatitle {Two types of social grooming methods depending on the
-  trade-off between the number and strength of social relationships} {Two types
-  of social grooming methods depending on the trade-off between the number and
-  strength of social relationships}.{\BBCQ}
-\newblock
-\APACjournalVolNumPages{Royal Society Open Science}{5}{8}{180148}.
-\newblock
-\begin{APACrefURL} \url{https://doi.org/10.1098/rsos.180148} \end{APACrefURL}
-\newblock
-\begin{APACrefDOI} \doi{10.1098/rsos.180148} \end{APACrefDOI}
-\PrintBackRefs{\CurrentBib}
-
-\bibitem [\protect \citeauthoryear {%
-{The Lancet Child \& Adolescent Health}%
-}{%
-{The Lancet Child \& Adolescent Health}%
+Tian%
 }{%
 {\protect \APACyear {2025}}%
 }]{%
-socialconnection2025}
+tian2025role}
 \APACinsertmetastar {%
-socialconnection2025}%
-\begin{APACrefauthors}%
-{The Lancet Child \& Adolescent Health}.%
-\end{APACrefauthors}%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2025}{}{}.
-\newblock
-{\BBOQ}\APACrefatitle {Social connection as a key target for youth mental
-  health} {Social connection as a key target for youth mental health}.{\BBCQ}
-\newblock
-\APACjournalVolNumPages{The Lancet Child \& Adolescent Health}{9}{2}{73--76}.
-\newblock
-\begin{APACrefURL} \url{https://doi.org/10.1016/S2352-4642(25)00005-4}
-  \end{APACrefURL}
-\newblock
-\begin{APACrefDOI} \doi{10.1016/S2352-4642(25)00005-4} \end{APACrefDOI}
-\PrintBackRefs{\CurrentBib}
-
-\bibitem [\protect \citeauthoryear {%
-Tian%
-}{%
-Tian%
-}{%
-{\protect \APACyear {2026}}%
-}]{%
-tian2026active}
-\APACinsertmetastar {%
-tian2026active}%
+tian2025role}%
 \begin{APACrefauthors}%
 Tian, W.%
 \end{APACrefauthors}%
 \unskip\
 \newblock
-\APACrefYearMonthDay{2026}{}{}.
+\APACrefYearMonthDay{2025}{}{}.
 \newblock
-{\BBOQ}\APACrefatitle {The Role of Active vs. Passive Social Media Use on
-  Mental Health} {The role of active vs. passive social media use on mental
+{\BBOQ}\APACrefatitle {The role of active vs. passive social media use on
+  mental health} {The role of active vs. passive social media use on mental
   health}.{\BBCQ}
 \newblock
 \APACjournalVolNumPages{Lecture Notes in Education Psychology and Public
   Media}{122}{1}{30--36}.
-\newblock
-\begin{APACrefURL} \url{https://doi.org/10.54254/2753-7048/2026.HT29949}
-  \end{APACrefURL}
 \newblock
 \begin{APACrefDOI} \doi{10.54254/2753-7048/2026.HT29949} \end{APACrefDOI}
 \PrintBackRefs{\CurrentBib}
@@ -787,9 +841,6 @@ Tufail, M.%
 \newblock
 \APACjournalVolNumPages{Social Sciences Spectrum}{4}{2}{478--486}.
 \newblock
-\begin{APACrefURL} \url{https://doi.org/10.71085/sss.04.02.285}
-  \end{APACrefURL}
-\newblock
 \begin{APACrefDOI} \doi{10.71085/sss.04.02.285} \end{APACrefDOI}
 \PrintBackRefs{\CurrentBib}
 
@@ -818,7 +869,7 @@ Twenge, J\BPBI M.%
 {\BBOQ}\APACrefatitle {Worldwide increases in adolescent loneliness} {Worldwide
   increases in adolescent loneliness}.{\BBCQ}
 \newblock
-\APACjournalVolNumPages{Journal of Adolescence}{93}{}{257--269}.
+\APACjournalVolNumPages{Journal of Adolescence}{93}{1}{257--269}.
 \newblock
 \begin{APACrefDOI} \doi{10.1016/j.adolescence.2021.06.006} \end{APACrefDOI}
 \PrintBackRefs{\CurrentBib}
@@ -844,15 +895,47 @@ Vargas~M{\'a}rquez, B\BPBI L.%
 \newblock
 \APACrefYearMonthDay{2021}{}{}.
 \newblock
-{\BBOQ}\APACrefatitle {Design Thinking aplicado al dise{\~n}o de experiencia de
-  usuario} {Design thinking aplicado al dise{\~n}o de experiencia de
+{\BBOQ}\APACrefatitle {{Design Thinking} aplicado al dise{\~n}o de experiencia
+  de usuario} {{Design Thinking} aplicado al dise{\~n}o de experiencia de
   usuario}.{\BBCQ}
 \newblock
-\APACjournalVolNumPages{Revista Innovaci{\'o}n y Software}{2}{1}{6--19}.
+\APACjournalVolNumPages{Innovaci{\'o}n y Software}{2}{1}{6--19}.
 \newblock
-\begin{APACrefURL}
-  \url{https://revistas.ulasalle.edu.pe/innosoft/article/view/35}
-  \end{APACrefURL}
+\begin{APACrefDOI} \doi{10.48168/innosoft.s5.a35} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Verduyn%
+, Ybarra%
+, R{\'e}sibois%
+, Jonides%
+\BCBL {}\ \BBA {} Kross%
+}{%
+Verduyn%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2017}}%
+}]{%
+verduyn2017social}
+\APACinsertmetastar {%
+verduyn2017social}%
+\begin{APACrefauthors}%
+Verduyn, P.%
+, Ybarra, O.%
+, R{\'e}sibois, M.%
+, Jonides, J.%
+\BCBL {}\ \BBA {} Kross, E.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2017}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Do social network sites enhance or undermine subjective
+  well-being? {A} critical review} {Do social network sites enhance or
+  undermine subjective well-being? {A} critical review}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Social Issues and Policy Review}{11}{1}{274--302}.
+\newblock
+\begin{APACrefDOI} \doi{10.1111/sipr.12033} \end{APACrefDOI}
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
@@ -872,8 +955,8 @@ wcag22_2023}%
 \newblock
 \APACrefYearMonthDay{2023}{}{}.
 \newblock
-\APACrefbtitle {Web Content Accessibility Guidelines ({WCAG}) 2.2.} {Web
-  content accessibility guidelines ({WCAG}) 2.2.}
+\APACrefbtitle {{Web Content Accessibility Guidelines (WCAG) 2.2}.} {{Web
+  Content Accessibility Guidelines (WCAG) 2.2}.}
 \newblock
 \begin{APACrefURL} \url{https://www.w3.org/TR/WCAG22/} \end{APACrefURL}
 \PrintBackRefs{\CurrentBib}
@@ -895,8 +978,8 @@ Yablonski, J.%
 \newblock
 \APACrefYear{2020}.
 \newblock
-\APACrefbtitle {Laws of {UX}: Using Psychology to Design Better Products and
-  Services} {Laws of {UX}: Using psychology to design better products and
+\APACrefbtitle {Laws of {UX}: Using psychology to design better products and
+  services} {Laws of {UX}: Using psychology to design better products and
   services}.
 \newblock
 \APACaddressPublisher{}{O'Reilly Media}.
