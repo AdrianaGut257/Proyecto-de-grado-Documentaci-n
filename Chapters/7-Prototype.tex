@@ -10,7 +10,7 @@ El prototipo se desarrolló bajo una arquitectura cliente-servidor, compuesta po
     \item \textbf{Cliente:} aplicación desarrollada en React Native con Expo (TypeScript), organizada por funcionalidades: autenticación, \textit{onboarding}, inicio, conversación, jardín, perfil y ajustes. El uso de Expo permite probar la aplicación directamente en el teléfono mediante Expo Go, sin necesidad de compilación previa, lo cual facilita la ejecución de las pruebas piloto descritas en el Capítulo 8.
     \item \textbf{Servidor:} API REST desarrollada en FastAPI (Python), organizada en los módulos de autenticación, usuarios, ánimo, emparejamiento, chat, jardín y sugerencias.
     \item \textbf{Base de datos:} PostgreSQL, con migraciones versionadas mediante Alembic. Se optó por un modelo relacional en lugar de uno documental, dado que los datos del sistema (usuarios, conversaciones, mensajes y decisiones) presentan relaciones estructuradas entre sí, y porque PostgreSQL permite bloquear el proceso de emparejamiento para evitar que dos búsquedas simultáneas generen parejas duplicadas.
-    \item \textbf{Servicio externo:} Google Knowledge Graph Search API, consultada únicamente desde el servidor para proteger la clave de acceso, utilizada para el autocompletado de gustos específicos (sección 7.4).
+    \item \textbf{Servicio externo:} Google Knowledge Graph Search API, consultada únicamente desde el servidor para proteger la clave de acceso, utilizada para el autocompletado de gustos específicos (Google, s.f.; sección 7.4).
 \end{itemize}
 
 [Imagen: diagrama de arquitectura cliente-servidor de ECCO]
@@ -54,7 +54,7 @@ Intereses mínimos requeridos & 3 \\
 
 \end{longtable}
 
-El límite de cinco mensajes diarios materializa directamente el hallazgo de Baudon y Jachens (2021), según el cual un número razonable de mensajes constituye uno de los principales factores de \textit{engagement} en aplicaciones de mensajería dirigidas a jóvenes, evitando a la vez el consumo pasivo y prolongado que la literatura asocia a mayores niveles de soledad (Feng et al., 2026).
+El límite de cinco mensajes diarios busca que cada mensaje sea redactado y dirigido personalmente a la otra persona, el tipo de comunicación que Burke y Kraut (2016) asociaron con mejoras en el bienestar, y evita a la vez incorporar elementos orientados a prolongar el tiempo de uso (Montag et al., 2019), en coherencia con la asociación entre el uso problemático de las redes sociales y una mayor soledad (Feng et al., 2026). Este valor constituye una hipótesis de diseño que se validará en la prueba piloto (Capítulo 8).
 
 \section{ALGORITMO DE EMPAREJAMIENTO}
 Cuando un usuario inicia una búsqueda, el sistema lo compara con todas las personas que se encuentran buscando pareja en ese mismo momento, y selecciona a aquella con el puntaje de afinidad más alto, calculado mediante la siguiente fórmula:
@@ -63,7 +63,7 @@ Cuando un usuario inicia una búsqueda, el sistema lo compara con todas las pers
 \textbf{Puntaje = 3 × temas en común + 1 × intereses en común + 2 × subtemas en común + 4 × ejemplos en común}
 \end{quote}
 
-Esta fórmula otorga mayor peso a los niveles más específicos de afinidad: compartir un ejemplo concreto (por ejemplo, la misma película) pesa más que compartir únicamente la categoría general (por ejemplo, ``Películas''). Este diseño responde directamente al hallazgo del Capítulo 6, según el cual los usuarios valoran la posibilidad de conectar a partir de gustos específicos y particulares, y es coherente con los resultados de Liu et al. (2026), quienes identificaron que el contenido y el canal de la comunicación —no solo su existencia— determinan su efecto sobre el bienestar emocional.
+Esta fórmula otorga mayor peso a los niveles más específicos de afinidad: compartir un ejemplo concreto (por ejemplo, la misma película) pesa más que compartir únicamente la categoría general (por ejemplo, ``Películas''). Este diseño responde directamente a los hallazgos de los Capítulos 4 y 5, según los cuales los usuarios valoran la posibilidad de conectar a partir de gustos específicos y particulares, y es coherente con el meta-análisis de Montoya et al. (2008), según el cual la similitud real entre las personas se asocia con la atracción interpersonal, especialmente en interacciones breves o iniciales.
 
 La comparación de textos ignora mayúsculas, espacios y tildes (por ejemplo, ``Iron Man 2'' equivale a ``iron man 2''). El sistema garantiza que nunca se repita una pareja ya formada previamente, y un bloqueo a nivel de base de datos evita que dos búsquedas simultáneas generen parejas duplicadas.
 
@@ -133,7 +133,7 @@ Logo y saludo sobre el fondo verde de Inicio & 2,98:1 & 6,1:1 \\
 Adicionalmente, todos los objetivos táctiles de la interfaz miden al menos entre 40 y 48 px, conforme a la Ley de Fitts, que establece que el tiempo requerido para alcanzar un objetivo es función de su tamaño y distancia (Yablonski, 2020).
 
 \subsection{Tipografía}
-Se utiliza Poppins para los títulos y Quicksand para el cuerpo de texto, con un tamaño mínimo de 12 px en toda la interfaz. Esta combinación tipográfica, de formas redondeadas, refuerza la calidez emocional de la aplicación en coherencia con la faceta de lo deseable propuesta por Morville (2005, citado en Hernández Bieliukas, 2014), evitando las fuentes geométricas y frías asociadas a interfaces de carácter corporativo.
+Se utiliza Poppins para los títulos y Quicksand para el cuerpo de texto, con un tamaño mínimo de 12 px en toda la interfaz. Esta combinación tipográfica, de formas redondeadas, refuerza la calidez emocional de la aplicación en coherencia con la faceta de lo deseable propuesta por Morville (2005, como se citó en Méndez et al., 2014), evitando las fuentes geométricas y frías asociadas a interfaces de carácter corporativo.
 
 [Imagen: muestra tipográfica de Poppins y Quicksand aplicadas en una pantalla de la app]
 
@@ -150,8 +150,8 @@ Las micro-interacciones del prototipo se diseñaron siguiendo la definición de 
 \begin{itemize}
     \item La planta crece con una breve animación acompañada del aviso ``¡Su planta creció!'', ofreciendo retroalimentación inmediata ante un comportamiento recíproco entre ambos usuarios, en línea con los hallazgos de Godard y Holtzman (2024) sobre el valor del uso activo y recíproco.
     \item Una animación de búsqueda con mensajes que cambian progresivamente, reduciendo la percepción de espera mientras el sistema localiza una posible pareja (Umbral de Doherty; Yablonski, 2020).
-    \item El avatar realiza un pequeño ``salto'' al ser personalizado, y la cara de ánimo elegida se agranda al momento de registrarse, ofreciendo retroalimentación informativa inmediata ante cada acción del usuario (Shneiderman, 1992, citado en Hernández Bieliukas, 2014).
-    \item Un ejercicio de respiración guiada, representado mediante un círculo que se expande y se contrae, se activa cuando el usuario registra un estado de ánimo bajo, como técnica de regulación emocional instantánea (Baudon \& Jachens, 2021).
+    \item El avatar realiza un pequeño ``salto'' al ser personalizado, y la cara de ánimo elegida se agranda al momento de registrarse, ofreciendo retroalimentación informativa inmediata ante cada acción del usuario (Shneiderman et al., 2016).
+    \item Un ejercicio de respiración guiada, representado mediante un círculo que se expande y se contrae, se activa cuando el usuario registra un estado de ánimo bajo, en línea con el respaldo empírico a los ejercicios guiados en aplicaciones de bienestar (Eisenstadt et al., 2021).
     \item La pantalla de cierre de cada semana fue diseñada con especial cuidado visual y de contenido, dado que, conforme a la Regla del Pico-Final, las personas juzgan una experiencia principalmente por su momento más intenso y por su cierre (Yablonski, 2020).
 \end{itemize}
 
@@ -160,7 +160,7 @@ Las micro-interacciones del prototipo se diseñaron siguiendo la definición de 
 [Imagen: pantalla de cierre de semana]
 
 \subsection{Lenguaje del sistema}
-Todos los mensajes generados por el sistema (avisos, confirmaciones, estados de espera) se redactaron en segunda persona, con un tono cálido y libre de culpa. Por ejemplo, al agotarse los mensajes diarios el sistema indica ``Ya compartiste tus mensajes de hoy. Mañana podrás escribir de nuevo'', en lugar de un aviso de error genérico; y la opción de abandonar una conversación se etiqueta como ``Cerrar aquí'' en lugar de ``Mejor no''. Esta decisión responde a los planteamientos de Brave y Nass (2003, citados en Hernández Bieliukas, 2014), según los cuales los sistemas que exhiben comportamientos afectivos —como adaptar su tono al estado del usuario— son percibidos como más agradables, confiables y efectivos.
+Todos los mensajes generados por el sistema (avisos, confirmaciones, estados de espera) se redactaron en segunda persona, con un tono cálido y libre de culpa. Por ejemplo, al agotarse los mensajes diarios el sistema indica ``Ya compartiste tus mensajes de hoy. Mañana podrás escribir de nuevo'', en lugar de un aviso de error genérico; y la opción de abandonar una conversación se etiqueta como ``Cerrar aquí'' en lugar de ``Mejor no''. Esta decisión responde al enfoque afectivo de la IHC, que no solo busca que la interacción resulte placentera, sino también influir en las emociones y actitudes del usuario respecto al uso del sistema (Gupta, 2012, como se citó en Méndez et al., 2014), y a la recomendación de ofrecer instrucciones sencillas y constructivas cuando el usuario no puede completar una acción (Shneiderman et al., 2016).
 
 \subsection{Diseño adaptable}
 La interfaz se adapta a teléfonos pequeños, grandes y tablets. En la pantalla de Inicio, el contenido ocupa todo el ancho disponible y conserva el mismo orden que en la versión para teléfono, evitando el uso de columnas múltiples que fragmenten la atención del usuario, en coherencia con la Ley de Miller sobre la capacidad limitada de la memoria de trabajo (Yablonski, 2020).
@@ -174,7 +174,7 @@ Durante la construcción del prototipo se identificaron problemas de usabilidad 
     \item \textbf{Animación de bienvenida:} se probó inicialmente una animación desarrollada en Rive, la cual no es compatible con Expo Go, herramienta utilizada en las pruebas piloto. Se reemplazó por una ilustración SVG propia.
     \item \textbf{Ancho en pantallas grandes:} se evaluaron un ancho máximo fijo y un diseño de dos columnas; finalmente se optó por una sola columna que ocupa todo el ancho disponible, por su mayor coherencia con la Ley de Miller.
     \item \textbf{Gustos específicos:} se incorporó la jerarquía de subtemas y ejemplos con autocompletado (sección 7.4), con el fin de que el algoritmo de emparejamiento (sección 7.3) pudiera operar con mayor precisión.
-    \item \textbf{Retroalimentación del autocompletado:} cuando el servicio externo no encuentra sugerencias, el sistema informa ``Sin sugerencias. Toca + para agregarlo tal como lo escribiste'', atendiendo el principio de visibilidad del estado del sistema (Norman, 2013). También se redujo el tiempo de espera percibido mediante el almacenamiento en caché descrito en la sección 7.4.
+    \item \textbf{Retroalimentación del autocompletado:} cuando el servicio externo no encuentra sugerencias, el sistema informa ``Sin sugerencias. Toca + para agregarlo tal como lo escribiste'', atendiendo el principio de retroalimentación, que consiste en comunicar de inmediato al usuario el resultado de sus acciones (Norman, 2013). También se redujo el tiempo de espera percibido mediante el almacenamiento en caché descrito en la sección 7.4.
 \end{enumerate}
 
 [Imagen: comparación antes/después de la pantalla de selección de temas]

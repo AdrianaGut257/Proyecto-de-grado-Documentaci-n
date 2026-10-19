@@ -118,7 +118,11 @@
 }
 
 % Bibliografía en formato APA 7
+% apacite sigue APA 6 por defecto; estos ajustes adaptan el formato a APA 7:
+% el DOI se muestra como enlace https://doi.org/... y se omite "Descargado de".
+\newcommand{\doiprefix}{https://doi.org/\ignorespaces}
 \usepackage[natbibapa]{apacite}
+\AtBeginDocument{\renewcommand{\BRetrievedFrom}{}}
 
 
 
