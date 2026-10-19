@@ -1,11 +1,30 @@
 \chapter{IDEAR}
 El presente capítulo desarrolla la tercera etapa del Design Thinking: Idear. Su propósito es generar múltiples soluciones posibles a partir del planteamiento del problema (POV) formulado en el Capítulo 5, sin restricciones prematuras, para después seleccionar aquellas que mejor respondan a las necesidades identificadas durante las fases de Empatizar y Definir (Vargas Márquez et al., 2021).
 
-\section{TÉCNICA Y CRITERIO DE SELECCIÓN}
-A partir de las preguntas ¿Cómo podríamos...? (Figura 5.6), se generaron múltiples ideas para cada uno de los cinco conocimientos centrales derivados de la fase de Empatizar. Siguiendo a Vargas Márquez et al. (2021), quienes señalan que la creación de múltiples ideas aumenta el potencial de innovación y que es necesario separar la generación de ideas de su evaluación (p. 13), no todas las ideas generadas se llevaron al prototipo. La selección se realizó aplicando tres criterios:
+\section{GENERACIÓN DE IDEAS}
+A partir de las preguntas ¿Cómo podríamos...? (Figura 5.6), la generación de ideas se desarrolló mediante dos técnicas complementarias: ¿Y si...? y Lluvia de ideas.
+
+\subsection{¿Y si...?}
+La técnica ¿Y si...? tiene como objetivo generar ideas mediante el fomento del pensamiento lateral, explorando escenarios hipotéticos y desafiando suposiciones establecidas (Design Thinking en Español, s.f.-j). Se aplicó en dos rondas, formulando cuatro preguntas por cada uno de los cinco conocimientos (hechos) derivados de la fase de Empatizar, lo que dio lugar a 40 ideas. Entre ellas se encuentran, por ejemplo:
+
+\begin{itemize}
+    \item \textbf{Intereses en común:} ¿Y si el emparejamiento fuera como un juego donde el usuario elige ``¿De qué quiero hablar hoy?'' y se conecta con alguien que eligió el mismo tema? ¿Y si los intereses se revelaran progresivamente después de una cantidad de mensajes?
+    \item \textbf{Avatar:} ¿Y si el avatar cambiara de expresión según el estado de ánimo que el usuario elige al entrar? ¿Y si el avatar solo se revelara completo después de cierto número de mensajes?
+    \item \textbf{Temor a la hostilidad:} ¿Y si, antes de habilitar el chat, ambos usuarios debieran aceptar un breve acuerdo de respeto? ¿Y si existiera un botón de pausa, distinto a bloquear o reportar?
+    \item \textbf{Pocos vínculos, pero significativos:} ¿Y si el sistema solo permitiera una conexión activa a la vez? ¿Y si el vínculo se representara como una planta? ¿Y si al finalizar los usuarios pudieran votar de forma anónima si desean volver a hablar, mostrando primero una pantalla de resultados igual para todos para evitar deducir el voto de la otra persona?
+    \item \textbf{Mensajes positivos sin métricas:} ¿Y si existiera un banco de frases positivas para cuando el usuario no sabe qué decir? ¿Y si hubiera pequeños gestos no textuales, como un ícono de abrazo o apoyo?
+\end{itemize}
+
+\subsection{Lluvia de ideas}
+La Lluvia de ideas o \textit{brainstorming} es una técnica que sirve para generar el mayor número posible de ideas, buscando primero la cantidad para aplicar luego técnicas de selección que permitan quedarse con las mejores (Design Thinking en Español, s.f.-d). En el presente proyecto, las ideas más prometedoras de la técnica anterior se desarrollaron como bocetos de concepto (\textit{wireframes}) para cada conocimiento: el emparejamiento por palabra clave de interés y la rotación de temas con aviso; el avatar con expresiones según el estado de ánimo; el acuerdo de respeto previo al chat y el reporte o bloqueo accesible sin interrumpir la experiencia; la opción de reencuentro tras la conversación y el vínculo representado como una planta; y el banco de frases positivas y los mensajes positivos predefinidos para completar.
+
+Varias de las ideas seleccionadas para el prototipo (Tabla \ref{tab:ideas_seleccionadas}) provienen directamente de estas técnicas: la elección de ``¿De qué quiero hablar hoy?'' se transformó en la selección de hasta tres temas antes de cada búsqueda; el avatar que cambia de expresión según el estado de ánimo se incorporó tal como fue planteado; la conexión activa única y la planta dieron forma al ciclo semanal; la votación anónima y la protección del voto de la otra persona se materializaron en la decisión privada al finalizar los siete días; el acuerdo de respeto dio origen a la pantalla ``Un lugar seguro''; y el banco de frases positivas se integró en las ideas para romper el hielo. Algunas ideas se adaptaron al seleccionarse; por ejemplo, la planta que se marchita si no se cuida se transformó en una planta que nunca se marchita.
+
+\section{CRITERIOS DE SELECCIÓN}
+Siguiendo a Vargas Márquez et al. (2021), quienes señalan que la creación de múltiples ideas aumenta el potencial de innovación y que es necesario separar la generación de ideas de su evaluación (p. 13), no todas las ideas generadas se llevaron al prototipo. La selección se realizó aplicando tres criterios:
 
 \begin{enumerate}
-    \item \textbf{Respuesta a un hallazgo consistente} de las fases de Empatizar y Definir, ya sea un patrón del Mapa de Motivaciones (necesidad de tema en común, 13/15 cruces; uso de avatar, 12/15 cruces; entorno sin hostilidad, 6/15 cruces) o un factor identificado en el Capítulo 3.
+    \item \textbf{Respuesta a un hallazgo consistente} de las fases de Empatizar y Definir, ya sea un patrón del Mapa de Motivaciones (necesidad de tema en común, 9 de 15 pares; uso de avatar, 9 de 15 pares; entorno seguro o libre de hostilidad, 8 de 15 pares) o un factor identificado en el Capítulo 3.
     \item \textbf{Respaldo en la literatura} revisada en el marco teórico y en el Capítulo 3.
     \item \textbf{Ausencia de carga cognitiva innecesaria}, conforme a la Ley de Hick y la Ley de Tesler (Yablonski, 2020). Las ideas que sumaban opciones a la interfaz sin resolver un dolor central identificado en el Mapa de Empatía se pospusieron para una fase posterior al prototipo actual.
 \end{enumerate}
@@ -44,7 +63,7 @@ Compartir gustos para iniciar y sostener la conversación
 &
 Elección de intereses en el \textit{onboarding}; antes de cada búsqueda se eligen hasta 3 temas, solo entre los propios intereses del usuario.
 &
-Mapa de Motivaciones (13/15 cruces); Montoya et al. (2008); Usuarios 1 y 5 \\[6pt]
+Mapa de Motivaciones (9 de 15 pares); Montoya et al. (2008); Usuarios 1 y 5 \\[6pt]
 
 ídem
 &
@@ -76,7 +95,7 @@ Avatar en vez de foto real
 &
 Avatar personalizable con seis tonos de piel, cinco peinados, seis colores de cabello, y accesorios opcionales (lentes, pecas, lunar, arete), además de ropa y fondo.
 &
-Usuario 4 (``lentes, pelo largo, lunares, piercings''); Mapa de Motivaciones (12/15 cruces) \\[6pt]
+Usuario 4 (``lentes, pelo largo, lunares, piercings''); Mapa de Motivaciones (9 de 15 pares) \\[6pt]
 
 ídem
 &
@@ -100,7 +119,7 @@ Temor a la hostilidad con desconocidos
 &
 Ícono de escudo dentro de la conversación que lleva a ``Tu bienestar es primero'': opción de salir o reportar con motivo. El motivo no se revela a la otra persona y ambos usuarios no vuelven a ser emparejados.
 &
-Mapa de Motivaciones (6/15 cruces); Usuarios 4 y 5; prevención de errores e instrucciones constructivas para recuperarse (Shneiderman et al., 2016) \\[6pt]
+Mapa de Motivaciones (8 de 15 pares); Usuarios 4 y 5; prevención de errores e instrucciones constructivas para recuperarse (Shneiderman et al., 2016) \\[6pt]
 
 ídem
 &
@@ -108,7 +127,7 @@ Mapa de Motivaciones (6/15 cruces); Usuarios 4 y 5; prevención de errores e ins
 &
 Pantalla ``Un lugar seguro'' con acuerdos breves de convivencia y el recordatorio de que se puede salir en cualquier momento.
 &
-Síntesis de la fase Empatizar (4.4), necesidad (d) \\[6pt]
+Síntesis de la fase Empatizar (4.5), necesidad (d) \\[6pt]
 
 Pocos vínculos pero significativos
 &
