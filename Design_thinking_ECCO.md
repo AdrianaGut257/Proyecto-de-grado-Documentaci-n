@@ -96,7 +96,7 @@ Muchísimas gracias por tu tiempo y por compartir tu experiencia conmigo, de ver
 
 ---
 
-### Entrevistas cualitativas — Usuario 1: Rolando Mercado Rojas
+### Entrevistas cualitativas — Usuario 1
 
 | | |
 |---|---|
@@ -141,7 +141,7 @@ Muchísimas gracias por tu tiempo y por compartir tu experiencia conmigo, de ver
 
 **Perfil de usuario**
 
-*Biografía:* Rolando es un joven estudiante universitario con uso moderado de redes sociales (1-2 horas al día). Se define como reservado e introspectivo, con dificultad para iniciar y mantener conversaciones, tanto digitales como presenciales, y prefiere el contacto en persona porque la interacción digital le resulta "plana" al faltar expresiones faciales. Tiende a resolver sus problemas de forma independiente. Menciona convivir con TDA/TDH, lo que asocia a su preferencia por contenido nuevo y variado antes que la rutina.
+*Biografía:* Usuario 1 es un joven estudiante universitario con uso moderado de redes sociales (1-2 horas al día). Se define como reservado e introspectivo, con dificultad para iniciar y mantener conversaciones, tanto digitales como presenciales, y prefiere el contacto en persona porque la interacción digital le resulta "plana" al faltar expresiones faciales. Tiende a resolver sus problemas de forma independiente. Menciona convivir con TDA/TDH, lo que asocia a su preferencia por contenido nuevo y variado antes que la rutina.
 
 *Frase:* "Prefiero hablar en persona, y también me cuesta porque no suelen ser personas de mis mismas cosas en común."
 
@@ -176,7 +176,7 @@ Muchísimas gracias por tu tiempo y por compartir tu experiencia conmigo, de ver
 
 ---
 
-### Entrevistas cualitativas — Usuario 2: Ruben Hernandez Torrez
+### Entrevistas cualitativas — Usuario 2
 
 | | |
 |---|---|
@@ -245,7 +245,7 @@ Muchísimas gracias por tu tiempo y por compartir tu experiencia conmigo, de ver
 
 ---
 
-### Entrevistas cualitativas — Usuario 3: Fernando Jose Perez Armando
+### Entrevistas cualitativas — Usuario 3
 
 | | |
 |---|---|
@@ -313,7 +313,7 @@ Muchísimas gracias por tu tiempo y por compartir tu experiencia conmigo, de ver
 
 ---
 
-### Entrevistas cualitativas — Usuario 4: Antonia Tapia
+### Entrevistas cualitativas — Usuario 4
 
 | | |
 |---|---|
@@ -346,7 +346,7 @@ Muchísimas gracias por tu tiempo y por compartir tu experiencia conmigo, de ver
 - Diferencia importante: no busca anonimato total en el avatar, sino que este refleje su identidad real (lentes, pelo), matiza la idea de "avatar = anonimato".
 - En los 5 ¿Por qué?, su causa raíz repetida es la preferencia consciente por la soledad/individualidad, no por incapacidad social, perfil distinto a los usuarios 1-3.
 
-*Biografía:* Antonia es una estudiante de 20 años con un uso considerable de redes sociales (3 horas diarias), principalmente en Instagram y TikTok, para consumir contenido. A diferencia de los entrevistados anteriores, cuenta con una red de apoyo sólida y vínculos significativos ya establecidos en su vida diaria. Se define como poco sociable por elección propia, valorando su espacio e individualidad, aunque sí busca conectar con personas de gustos muy específicos que no siempre encuentra en su entorno cercano.
+*Biografía:* Usuario 4 es una estudiante de 20 años con un uso considerable de redes sociales (3 horas diarias), principalmente en Instagram y TikTok, para consumir contenido. A diferencia de los entrevistados anteriores, cuenta con una red de apoyo sólida y vínculos significativos ya establecidos en su vida diaria. Se define como poco sociable por elección propia, valorando su espacio e individualidad, aunque sí busca conectar con personas de gustos muy específicos que no siempre encuentra en su entorno cercano.
 
 *Frase:* "Prefiero pocas conversaciones, pero que sean significativas."
 
@@ -381,7 +381,7 @@ Muchísimas gracias por tu tiempo y por compartir tu experiencia conmigo, de ver
 
 ---
 
-### Entrevistas cualitativas — Usuario 5: Alejandra Pérez Ramal
+### Entrevistas cualitativas — Usuario 5
 
 | | |
 |---|---|
@@ -415,7 +415,7 @@ Muchísimas gracias por tu tiempo y por compartir tu experiencia conmigo, de ver
 - Es de las pocas que no le preocupa la frecuencia de uso de la app.
 - Buena candidata para validar el emparejamiento por intereses (su único vínculo significativo mencionado nació de compartir una afición: juegos).
 
-*Biografía:* Alejandra es estudiante, con un uso moderado de redes sociales (2 horas al día), principalmente para consumir contenido en Instagram y TikTok. Señala tener varias personas de apoyo y algunas amistades significativas surgidas de comunidades de videojuegos, aunque no logra identificar una interacción puntual en redes sociales que la haya hecho sentir realmente conectada. Reporta sentirse sola en ciertos momentos, a pesar de contar con esa red. Valora los espacios libres de toxicidad y el respeto a su privacidad.
+*Biografía:* Usuario 5 es estudiante, con un uso moderado de redes sociales (2 horas al día), principalmente para consumir contenido en Instagram y TikTok. Señala tener varias personas de apoyo y algunas amistades significativas surgidas de comunidades de videojuegos, aunque no logra identificar una interacción puntual en redes sociales que la haya hecho sentir realmente conectada. Reporta sentirse sola en ciertos momentos, a pesar de contar con esa red. Valora los espacios libres de toxicidad y el respeto a su privacidad.
 
 *Frase:* "Preferiría compartir gustos, así podríamos charlar más tiempo y esa persona se lo pasaría bien."
 
@@ -450,7 +450,7 @@ Muchísimas gracias por tu tiempo y por compartir tu experiencia conmigo, de ver
 
 ---
 
-### Entrevistas cualitativas — Usuario 6: Renata Martinez Mitte
+### Entrevistas cualitativas — Usuario 6
 
 | | |
 |---|---|
@@ -484,7 +484,7 @@ Muchísimas gracias por tu tiempo y por compartir tu experiencia conmigo, de ver
 - Menciona explícitamente el miedo a la seguridad/edad del interlocutor.
 - Es consistente con el patrón de casi todos los entrevistados: valida fuertemente el emparejamiento por intereses/gustos comunes.
 
-*Biografía:* Renata es una estudiante de 21 años con un uso considerable de redes sociales (3 horas diarias), principalmente en TikTok, para consumo de contenido. Actualmente cuenta con solo un vínculo digital que considera significativo, tras haber perdido otro sin entender bien la causa. Se siente motivada por contenido positivo (videos de ayuda entre personas), pero también experimenta comparación social al ver el éxito de otros.
+*Biografía:* Usuario 6 es una estudiante de 21 años con un uso considerable de redes sociales (3 horas diarias), principalmente en TikTok, para consumo de contenido. Actualmente cuenta con solo un vínculo digital que considera significativo, tras haber perdido otro sin entender bien la causa. Se siente motivada por contenido positivo (videos de ayuda entre personas), pero también experimenta comparación social al ver el éxito de otros.
 
 *Frase:* "Me gustaría que fuera con los mismos gustos, siento que sería más fácil entablar una conversación."
 
@@ -523,14 +523,14 @@ Muchísimas gracias por tu tiempo y por compartir tu experiencia conmigo, de ver
 
 **Objetivo:** Tener en cuenta todas las variables positivas con respecto a las necesidades.
 
-| | Rolando Mercado | Ruben Hernandez | Fernando Perez | Antonia Tapia | Alejandra Pérez | Renata Martinez |
+| | Usuario 1 | Usuario 2 | Usuario 3 | Usuario 4 | Usuario 5 | Usuario 6 |
 |---|---|---|---|---|---|---|
-| **Rolando Mercado** | x | Necesidad de un tema en común para iniciar la conversación | Prefieren usar avatar para resguardar su identidad | Buscan un entorno respetuoso, libre de juicios | Prefieren vínculos significativos por sobre la cantidad | Valoran mensajes de validación positiva |
-| **Ruben Hernandez** | Beneficio de un tema compartido para sostener la conversación en el tiempo | x | Valoran espacios libres de conflicto y hostilidad | Valoran un espacio libre de hostilidad | Valoran la interacción frecuente | Valoran un entorno seguro, libre de hostilidad |
-| **Fernando Perez** | Coinciden en que compartir intereses facilita iniciar una conversación | Prefieren una interacción frecuente y constante | x | Valoran el emparejamiento por intereses en común | Coinciden en el emparejamiento por intereses y uso de avatar | Coinciden en emparejamiento por gustos o valores en común |
-| **Antonia Tapia** | Valoran el avatar como forma de expresión personal | Prefieren personas con intereses o personalidad afines | Prefieren el uso de avatar como medio de expresión | x | Valoran el avatar como forma auténtica de expresión personal | Valoran la seguridad al interactuar con desconocidos |
-| **Alejandra Pérez** | Usan el avatar para resguardar su privacidad | Prefieren el emparejamiento por gustos afines | Prefieren mensajes positivos, en espacios sin conflicto | Priorizan el resguardo de su privacidad | x | Coinciden en el resguardo de privacidad y seguridad |
-| **Renata Martinez** | Prefieren el uso de avatar frente a la exposición pública | Prefieren una interacción frecuente | Prefieren el uso de avatar y mensajes positivos | Prefieren el emparejamiento por intereses o valores compartidos | Prefieren el uso de avatar y emparejamiento por gustos | x |
+| **Usuario 1** | x | Necesidad de un tema en común para iniciar la conversación | Prefieren usar avatar para resguardar su identidad | Buscan un entorno respetuoso, libre de juicios | Prefieren vínculos significativos por sobre la cantidad | Valoran mensajes de validación positiva |
+| **Usuario 2** | Beneficio de un tema compartido para sostener la conversación en el tiempo | x | Valoran espacios libres de conflicto y hostilidad | Valoran un espacio libre de hostilidad | Valoran la interacción frecuente | Valoran un entorno seguro, libre de hostilidad |
+| **Usuario 3** | Coinciden en que compartir intereses facilita iniciar una conversación | Prefieren una interacción frecuente y constante | x | Valoran el emparejamiento por intereses en común | Coinciden en el emparejamiento por intereses y uso de avatar | Coinciden en emparejamiento por gustos o valores en común |
+| **Usuario 4** | Valoran el avatar como forma de expresión personal | Prefieren personas con intereses o personalidad afines | Prefieren el uso de avatar como medio de expresión | x | Valoran el avatar como forma auténtica de expresión personal | Valoran la seguridad al interactuar con desconocidos |
+| **Usuario 5** | Usan el avatar para resguardar su privacidad | Prefieren el emparejamiento por gustos afines | Prefieren mensajes positivos, en espacios sin conflicto | Priorizan el resguardo de su privacidad | x | Coinciden en el resguardo de privacidad y seguridad |
+| **Usuario 6** | Prefieren el uso de avatar frente a la exposición pública | Prefieren una interacción frecuente | Prefieren el uso de avatar y mensajes positivos | Prefieren el emparejamiento por intereses o valores compartidos | Prefieren el uso de avatar y emparejamiento por gustos | x |
 
 ---
 
