@@ -5,7 +5,7 @@ El presente capítulo desarrolla la tercera etapa del Design Thinking: Idear. Su
 A partir de las preguntas ¿Cómo podríamos...? (Figura 6.6), la generación de ideas se desarrolló mediante dos técnicas complementarias: ¿Y si...? y Lluvia de ideas.
 
 \subsection{¿Y si...?}
-La técnica ¿Y si...? tiene como objetivo generar ideas mediante el fomento del pensamiento lateral, explorando escenarios hipotéticos y desafiando suposiciones establecidas (Design Thinking en Español, s.f.-j). Se aplicó en dos rondas, formulando cuatro preguntas por cada uno de los cinco conocimientos (hechos) derivados de la fase de Empatizar, lo que dio lugar a 40 ideas. Entre ellas se encuentran, por ejemplo:
+La técnica ¿Y si...? tiene como objetivo generar ideas mediante el fomento del pensamiento lateral, explorando escenarios hipotéticos y desafiando suposiciones establecidas (Design Thinking en Español, s.f.-j). Se aplicó en dos rondas, formulando cuatro preguntas por cada uno de los cinco conocimientos (hechos) derivados de la fase de Empatizar, lo que dio lugar a 40 ideas (Figuras \ref{fig:ysi_1} y \ref{fig:ysi_2}). Entre ellas se encuentran, por ejemplo:
 
 \begin{itemize}
     \item \textbf{Intereses en común:} ¿Y si el emparejamiento fuera como un juego donde el usuario elige ``¿De qué quiero hablar hoy?'' y se conecta con alguien que eligió el mismo tema? ¿Y si los intereses se revelaran progresivamente después de una cantidad de mensajes?
@@ -14,6 +14,24 @@ La técnica ¿Y si...? tiene como objetivo generar ideas mediante el fomento del
     \item \textbf{Pocos vínculos, pero significativos:} ¿Y si el sistema solo permitiera una conexión activa a la vez? ¿Y si el vínculo se representara como una planta? ¿Y si al finalizar los usuarios pudieran votar de forma anónima si desean volver a hablar, mostrando primero una pantalla de resultados igual para todos para evitar deducir el voto de la otra persona?
     \item \textbf{Mensajes positivos sin métricas:} ¿Y si existiera un banco de frases positivas para cuando el usuario no sabe qué decir? ¿Y si hubiera pequeños gestos no textuales, como un ícono de abrazo o apoyo?
 \end{itemize}
+
+\begin{figure}[htbp]
+  \centering
+  \caption{Técnica ¿Y si...? - Ronda 1}
+  \label{fig:ysi_1}
+  \vspace{4pt}
+  \includegraphics[width=0.95\textwidth]{Images/methodology/ideate/ySi1.png}
+  \vspace{4pt}
+\end{figure}
+
+\begin{figure}[htbp]
+  \centering
+  \caption{Técnica ¿Y si...? - Ronda 2}
+  \label{fig:ysi_2}
+  \vspace{4pt}
+  \includegraphics[width=0.95\textwidth]{Images/methodology/ideate/ySi2.png}
+  \vspace{4pt}
+\end{figure}
 
 \subsection{Lluvia de ideas}
 La Lluvia de ideas o \textit{brainstorming} es una técnica que sirve para generar el mayor número posible de ideas, buscando primero la cantidad para aplicar luego técnicas de selección que permitan quedarse con las mejores (Design Thinking en Español, s.f.-d). En el presente proyecto, las ideas más prometedoras de la técnica anterior se desarrollaron como bocetos de concepto (\textit{wireframes}) para cada conocimiento: el emparejamiento por palabra clave de interés y la rotación de temas con aviso; el avatar con expresiones según el estado de ánimo; el acuerdo de respeto previo al chat y el reporte o bloqueo accesible sin interrumpir la experiencia; la opción de reencuentro tras la conversación y el vínculo representado como una planta; y el banco de frases positivas y los mensajes positivos predefinidos para completar.
@@ -57,109 +75,109 @@ La Tabla \ref{tab:ideas_seleccionadas} presenta las ideas seleccionadas para el 
 \endlastfoot
 
 \multicolumn{3}{l}{\textbf{Conocimiento: Compartir gustos o intereses para iniciar y sostener la conversación}} \\[4pt]
-¿Cómo podríamos identificar los intereses antes de emparejar?
+¿Cómo podríamos identificar los intereses de un usuario antes de emparejarlo con otro?
 &
-Elección de intereses en el \textit{onboarding}; antes de cada búsqueda se eligen hasta 3 temas, solo entre los propios intereses del usuario.
+El usuario elige sus intereses al registrarse y, antes de cada búsqueda, hasta tres temas entre ellos.
 &
-Mapa de Motivaciones (9 de 15 pares); Montoya et al. (2008); Usuarios 1 y 5 \\[6pt]
+La mayoría necesita un tema en común para iniciar la conversación (Mapa de Motivaciones); la similitud percibida favorece la atracción (Montoya et al., 2008). \\[6pt]
 
 ¿Cómo podríamos emparejar por gustos específicos?
 &
-Jerarquía de intereses: categoría $\rightarrow$ interés $\rightarrow$ subtema (género, estilo, liga) $\rightarrow$ ejemplo concreto. El emparejamiento otorga mayor peso a lo más específico.
+Los intereses se organizan de lo general a lo específico, y el emparejamiento da más peso a los gustos más específicos.
 &
-Usuario 4, que solicitó gustos ``específicos y particulares''; Usuario 1, cuyo único recuerdo de conexión positiva surgió de compartir un mismo videojuego \\[6pt]
+Los Usuarios 1 y 4 asociaron la conexión con compartir gustos concretos, no categorías generales. \\[6pt]
 
-¿Cómo podríamos mostrar qué tienen en común antes de chatear?
+¿Cómo podríamos mostrar visualmente qué tienen en común dos usuarios antes de chatear?
 &
-Pantalla de presentación que muestra el tema, los intereses y los gustos concretos compartidos entre ambos usuarios.
+Pantalla de presentación con los temas e intereses que ambos comparten.
 &
-Causa raíz de los 5 ¿Por qué? del Usuario 1: ``no sé de qué hablar'' \\[6pt]
+El Usuario 1 señaló que, sin algo en común, no sabría de qué hablar (5 ¿Por qué?). \\[6pt]
 
 ¿Cómo podríamos sugerir temas basados en gustos compartidos?
 &
-Ideas para romper el hielo: tres sugerencias diarias basadas en lo que ambos comparten; al seleccionarlas se escriben en el campo de texto para su edición, no se envían automáticamente.
+Tres sugerencias diarias para romper el hielo, basadas en lo que ambos comparten, que se pueden editar antes de enviarlas.
 &
-Usuario 1; la falta de personalización es una barrera común para la participación en intervenciones digitales de bienestar (Borghouts et al., 2021); Ley de Hick (máximo tres opciones) \\[6pt]
+Facilita iniciar la conversación (Usuario 1); la falta de personalización es una barrera para la participación (Borghouts et al., 2021); pocas opciones agilizan la decisión (Ley de Hick; Yablonski, 2020). \\[6pt]
 
 \addlinespace[4pt]
 \multicolumn{3}{l}{\textbf{Conocimiento: Preferencia por un avatar en vez de una foto real}} \\[4pt]
-¿Cómo podríamos permitir que el avatar refleje la identidad real?
+¿Cómo podríamos permitir que el avatar refleje la personalidad o identidad real del usuario?
 &
-Avatar personalizable con seis tonos de piel, cinco peinados, seis colores de cabello, y accesorios opcionales (lentes, pecas, lunar, arete), además de ropa y fondo.
+Avatar personalizable en rasgos físicos, accesorios, ropa y fondo.
 &
-Usuario 4 (``lentes, pelo largo, lunares, piercings''); Mapa de Motivaciones (9 de 15 pares) \\[6pt]
+La mayoría prefiere un avatar a una foto real (Mapa de Motivaciones), y el Usuario 4 pidió que refleje sus rasgos reales. \\[6pt]
 
-¿Cómo podríamos hacer el avatar entretenido?
+¿Cómo podríamos hacer para que un avatar sea una experiencia entretenida y no solo funcional?
 &
-Botón ``Sorpréndeme'' que genera una combinación aleatoria de rasgos, con una breve animación de respuesta.
+Botón ``Sorpréndeme'' que crea un avatar aleatorio con una breve animación.
 &
-Faceta de lo deseable (Morville, 2005, como se citó en Méndez et al., 2014); Efecto de Usabilidad Estética (Yablonski, 2020) \\[6pt]
+Lo deseable es una faceta de la experiencia de usuario (Morville, 2005, como se citó en Méndez et al., 2014); los diseños agradables se perciben como más fáciles de usar (Yablonski, 2020). \\[6pt]
 
 ¿Cómo podríamos compensar la falta de expresiones faciales?
 &
-El avatar refleja el estado de ánimo del día (ojos, cejas y boca), visible para la otra persona salvo que se desactive.
+El avatar muestra el estado de ánimo del día, salvo que el usuario lo desactive.
 &
-Causa raíz del Usuario 1: ``no puedo ver expresiones, es muy plano''; Picard (1997); Tufail et al. (2025) \\[6pt]
+El Usuario 1 percibe la comunicación digital como plana por la falta de expresiones; el texto carece de señales como la expresión facial (Picard, 1997; Tufail et al., 2025). \\[6pt]
 
 \addlinespace[4pt]
 \multicolumn{3}{l}{\textbf{Conocimiento: Temor a la hostilidad o a desconocidos con malas intenciones}} \\[4pt]
-¿Cómo podríamos dar reporte y bloqueo sin interrumpir la experiencia?
+¿Cómo podríamos dar mecanismos de reporte o bloqueo sin que interrumpan la experiencia?
 &
-Ícono de escudo dentro de la conversación que lleva a ``Tu bienestar es primero'': opción de salir o reportar con motivo. El motivo no se revela a la otra persona y ambos usuarios no vuelven a ser emparejados.
+Ícono de escudo en la conversación para salir o reportar; el motivo no se revela y ambos no vuelven a ser emparejados.
 &
-Mapa de Motivaciones (8 de 15 pares); Usuarios 4 y 5; prevención de errores e instrucciones constructivas para recuperarse (Shneiderman et al., 2016) \\[6pt]
+La mayoría valora un entorno seguro (Mapa de Motivaciones); el usuario debe mantener el control de la interfaz (Shneiderman et al., 2016). \\[6pt]
 
-¿Cómo podríamos transmitir confianza antes de la primera conversación?
+¿Cómo podríamos transmitir confianza antes de que el usuario inicie su primera conversación?
 &
-Pantalla ``Un lugar seguro'' con acuerdos breves de convivencia y el recordatorio de que se puede salir en cualquier momento.
+Pantalla ``Un lugar seguro'' con acuerdos de convivencia y la opción de salir en cualquier momento.
 &
-Síntesis de la fase Empatizar (4.5), necesidad (d) \\[6pt]
+Los entrevistados expresaron la necesidad de sentirse seguros frente a desconocidos (sección 5.5). \\[6pt]
 
 \addlinespace[4pt]
 \multicolumn{3}{l}{\textbf{Conocimiento: Pocos vínculos, pero significativos}} \\[4pt]
-¿Cómo podríamos priorizar la calidad sobre la cantidad?
+¿Cómo podríamos priorizar la calidad de la interacción sobre la cantidad de contactos?
 &
-Una sola conversación activa a la vez, con duración de siete días y hasta cinco mensajes por persona al día (máximo 500 caracteres cada uno).
+Una sola conversación activa, de siete días, con hasta cinco mensajes diarios por persona de máximo 500 caracteres.
 &
-Burke y Kraut (2016): la comunicación redactada y dirigida personalmente, y no la retroalimentación de un clic, se asocia con mejoras en el bienestar; Saffer (2013). El límite de 500 caracteres atiende la reserva del Usuario 4 \\[6pt]
+Los mensajes escritos y dirigidos a una persona se asocian con mayor bienestar, a diferencia de las reacciones de un clic (Burke \& Kraut, 2016); el límite de caracteres responde al Usuario 4. \\[6pt]
 
-¿Cómo podríamos hacer que cada mensaje se sienta significativo?
+¿Cómo podríamos hacer que cada mensaje breve se sienta significativo y no trivial?
 &
-Planta que crece solo los días en que ambos usuarios se escriben, con una micro-interacción al avanzar de etapa. Nunca se marchita.
+Una planta que crece los días en que ambos se escriben y que nunca se marchita.
 &
-Godard y Holtzman (2024): el uso activo se asocia con mayor bienestar ($r = .15$) y apoyo social en línea ($r = .34$) \\[6pt]
+El uso activo de las redes sociales se asocia con mayor bienestar y apoyo social en línea (Godard \& Holtzman, 2024). \\[6pt]
 
-¿Cómo podríamos sostener un vínculo esporádico?
+¿Cómo podríamos ayudar a que un vínculo esporádico se sostenga en el tiempo?
 &
-Decisión privada al finalizar los siete días; si ambos deciden continuar, la planta florece y la conversación permanece abierta.
+Al terminar los siete días, cada uno decide en privado si continuar; si ambos aceptan, la planta florece y la conversación sigue abierta.
 &
-Planteamiento del problema (POV); Regla del Pico-Final (Yablonski, 2020) \\[6pt]
+Responde al planteamiento del problema (POV); el cierre de una experiencia influye en cómo se recuerda (Regla del Pico-Final; Yablonski, 2020). \\[6pt]
 
-¿Cómo podríamos medir el éxito en bienestar y no en uso?
+¿Cómo podríamos medir el éxito de la app en bienestar emocional y no en métricas de uso?
 &
-Registro diario del estado de ánimo y una vista privada semanal (``Tu semana''), sin rachas ni notificaciones de enganche.
+Registro diario del ánimo y un resumen semanal privado, sin rachas ni notificaciones para retener al usuario.
 &
-El monitoreo del estado de ánimo cuenta con respaldo empírico y se asocia con mayor autoconciencia emocional (Eisenstadt et al., 2021); elementos que prolongan el uso (Montag et al., 2019) \\[6pt]
+El registro del ánimo se asocia con mayor autoconciencia emocional (Eisenstadt et al., 2021); se evitan elementos que prolongan el uso (Montag et al., 2019). \\[6pt]
 
 \addlinespace[4pt]
-\multicolumn{3}{l}{\textbf{Conocimiento: Mensajes positivos, sin 	extit{likes} ni métricas públicas}} \\[4pt]
-¿Cómo podríamos sugerir mensajes positivos cuando no se sabe qué decir?
+\multicolumn{3}{l}{\textbf{Conocimiento: Mensajes positivos, sin \textit{likes} ni métricas públicas}} \\[4pt]
+¿Cómo podríamos sugerir tipos de mensajes positivos cuando el usuario no sabe qué decir?
 &
-Frases de validación integradas en las ideas sugeridas (ej. ``Gracias por quedarte en la conversación'').
+Frases de validación incluidas en las sugerencias para romper el hielo.
 &
-Pedido explícito del Usuario 1; la gratitud fortalece los vínculos (Algoe, 2012); Clark et al. (2018) \\[6pt]
+Lo pidió el Usuario 1; la gratitud fortalece los vínculos (Algoe, 2012). \\[6pt]
 
-¿Cómo podríamos evitar métricas de comparación?
+¿Cómo podríamos evitar cualquier métrica pública que genere comparación?
 &
-Ausencia total de contadores públicos: el Jardín muestra plantas, no cifras ni rankings.
+Sin contadores públicos: el Jardín muestra plantas, no cifras ni rankings.
 &
-Factor 4 del Capítulo 4 (Montag et al., 2019; Verduyn et al., 2017); límites del alcance del proyecto \\[6pt]
+Los \textit{likes} prolongan el uso (Montag et al., 2019) y el uso pasivo favorece la comparación social (Verduyn et al., 2017). \\[6pt]
 
 ¿Cómo podríamos hacer que la app acompañe en un mal día?
 &
-Respuestas empáticas según el ánimo registrado y un ejercicio de respiración guiada de 25 segundos cuando el ánimo es bajo.
+Respuestas empáticas según el ánimo registrado y una respiración guiada de 25 segundos cuando el ánimo es bajo.
 &
-Eisenstadt et al. (2021): respaldo a los ejercicios guiados y al monitoreo del estado de ánimo en aplicaciones de bienestar \\
+Los ejercicios guiados y el monitoreo del ánimo cuentan con respaldo en aplicaciones de bienestar (Eisenstadt et al., 2021). \\
 
 \end{longtable}
 

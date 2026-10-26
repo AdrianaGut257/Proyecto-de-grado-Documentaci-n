@@ -66,22 +66,22 @@
 \contentsline {section}{\numberline {7.1}GENERACIÓN DE IDEAS}{56}{section.7.1}%
 \contentsline {subsection}{\numberline {7.1.1}¿Y si...?}{56}{subsection.7.1.1}%
 \contentsline {subsection}{\numberline {7.1.2}Lluvia de ideas}{57}{subsection.7.1.2}%
-\contentsline {section}{\numberline {7.2}CRITERIOS DE SELECCIÓN}{58}{section.7.2}%
-\contentsline {section}{\numberline {7.3}IDEAS SELECCIONADAS}{58}{section.7.3}%
-\contentsline {section}{\numberline {7.4}IDEAS DESCARTADAS O POSPUESTAS}{64}{section.7.4}%
-\contentsline {section}{\numberline {7.5}SÍNTESIS DE LA FASE IDEAR}{65}{section.7.5}%
-\contentsline {chapter}{\numberline {8}PROTOTIPAR}{66}{chapter.8}%
-\contentsline {section}{\numberline {8.1}ARQUITECTURA}{66}{section.8.1}%
-\contentsline {section}{\numberline {8.2}REGLAS DE LA INTERACCIÓN}{67}{section.8.2}%
-\contentsline {section}{\numberline {8.3}ALGORITMO DE EMPAREJAMIENTO}{68}{section.8.3}%
-\contentsline {section}{\numberline {8.4}JERARQUÍA DE INTERESES Y AUTOCOMPLETADO}{69}{section.8.4}%
-\contentsline {section}{\numberline {8.5}SEGURIDAD Y PRIVACIDAD}{70}{section.8.5}%
-\contentsline {section}{\numberline {8.6}SISTEMA DE DISEÑO: IHC AFECTIVA Y UX/UI EMOCIONAL}{71}{section.8.6}%
-\contentsline {subsection}{\numberline {8.6.1}Paleta de colores y accesibilidad}{71}{subsection.8.6.1}%
-\contentsline {subsection}{\numberline {8.6.2}Tipografía}{72}{subsection.8.6.2}%
-\contentsline {subsection}{\numberline {8.6.3}Ilustraciones propias y mascota}{72}{subsection.8.6.3}%
-\contentsline {subsection}{\numberline {8.6.4}Micro-interacciones}{72}{subsection.8.6.4}%
-\contentsline {subsection}{\numberline {8.6.5}Lenguaje del sistema}{73}{subsection.8.6.5}%
-\contentsline {subsection}{\numberline {8.6.6}Diseño adaptable}{74}{subsection.8.6.6}%
-\contentsline {section}{\numberline {8.7}ITERACIONES DURANTE EL DESARROLLO}{74}{section.8.7}%
-\contentsline {section}{\numberline {8.8}HACIA LA FASE TESTEAR}{75}{section.8.8}%
+\contentsline {section}{\numberline {7.2}CRITERIOS DE SELECCIÓN}{59}{section.7.2}%
+\contentsline {section}{\numberline {7.3}IDEAS SELECCIONADAS}{59}{section.7.3}%
+\contentsline {section}{\numberline {7.4}IDEAS DESCARTADAS O POSPUESTAS}{65}{section.7.4}%
+\contentsline {section}{\numberline {7.5}SÍNTESIS DE LA FASE IDEAR}{66}{section.7.5}%
+\contentsline {chapter}{\numberline {8}PROTOTIPAR}{67}{chapter.8}%
+\contentsline {section}{\numberline {8.1}ARQUITECTURA}{67}{section.8.1}%
+\contentsline {section}{\numberline {8.2}REGLAS DE LA INTERACCIÓN}{68}{section.8.2}%
+\contentsline {section}{\numberline {8.3}ALGORITMO DE EMPAREJAMIENTO}{69}{section.8.3}%
+\contentsline {section}{\numberline {8.4}JERARQUÍA DE INTERESES Y AUTOCOMPLETADO}{70}{section.8.4}%
+\contentsline {section}{\numberline {8.5}SEGURIDAD Y PRIVACIDAD}{71}{section.8.5}%
+\contentsline {section}{\numberline {8.6}SISTEMA DE DISEÑO: IHC AFECTIVA Y UX/UI EMOCIONAL}{72}{section.8.6}%
+\contentsline {subsection}{\numberline {8.6.1}Paleta de colores y accesibilidad}{72}{subsection.8.6.1}%
+\contentsline {subsection}{\numberline {8.6.2}Tipografía}{73}{subsection.8.6.2}%
+\contentsline {subsection}{\numberline {8.6.3}Ilustraciones propias y mascota}{73}{subsection.8.6.3}%
+\contentsline {subsection}{\numberline {8.6.4}Micro-interacciones}{73}{subsection.8.6.4}%
+\contentsline {subsection}{\numberline {8.6.5}Lenguaje del sistema}{74}{subsection.8.6.5}%
+\contentsline {subsection}{\numberline {8.6.6}Diseño adaptable}{75}{subsection.8.6.6}%
+\contentsline {section}{\numberline {8.7}ITERACIONES DURANTE EL DESARROLLO}{75}{section.8.7}%
+\contentsline {section}{\numberline {8.8}HACIA LA FASE TESTEAR}{76}{section.8.8}%
