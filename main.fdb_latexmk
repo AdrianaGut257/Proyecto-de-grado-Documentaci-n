@@ -1,13 +1,13 @@
 # Fdb version 4
-["bibtex main"] 1793036513.17958 "main.aux" "main.bbl" "main" 1793036516.09153 0
-  "./bibliography.bib" 1793022796 16803 fb21bacf5b9b1ff55610dc91e8428f87 ""
+["bibtex main"] 1793037755.86919 "main.aux" "main.bbl" "main" 1793037758.59824 0
+  "./bibliography.bib" 1793037755 16785 127c15da22cc26f692aaf09903a14245 ""
   "C:/Users/Admin/AppData/Local/Programs/MiKTeX/bibtex/bst/apacite/apacite.bst" 1374952728 146156 9d7b79dbf9d91133318126032cff8c27 ""
-  "main.aux" 1793036515 23201 8ec7e8fa293134bee897e8086eb9b8eb "pdflatex"
+  "main.aux" 1793037757 23201 8ec7e8fa293134bee897e8086eb9b8eb "pdflatex"
   (generated)
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["pdflatex"] 1793036513.42863 "main.tex" "main.pdf" "main" 1793036516.09209 0
+["pdflatex"] 1793037756.13413 "main.tex" "main.pdf" "main" 1793037758.59984 0
   "C:/Users/Admin/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1789651246 82507 a9eef8696c92627b87e9975edea03b2a ""
   "C:/Users/Admin/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1775521573 13333527 3074542d8433c68e6220797e38de3b66 ""
   "C:/Users/Admin/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc" 1458473887 4993 80dc9bab7f31fb78a000ccfed0e27cab ""
@@ -113,10 +113,10 @@
   "C:/Users/Admin/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "Chapters/1-Introduction.tex" 1793022013 21988 0cdccc126e79cedcb141b6deb240e7ef ""
   "Chapters/2-Theoretical-framework.tex" 1793022777 18186 d35b6232da3bd597d2ac5e0deff5bd2d ""
-  "Chapters/3-Methodology.tex" 1793022750 18499 318f339544d7dd43bd21b270ecb91864 ""
+  "Chapters/3-Methodology.tex" 1793037753 18524 3a09293988c40558177582008e7cf1cc ""
   "Chapters/4-Emotional-disconnection.tex" 1793022666 13080 928a12db84f0e06024598be756616a27 ""
   "Chapters/5-Empathize.tex" 1793036318 16510 cf08523064868e3f159a3e8eb8f90a34 ""
-  "Chapters/6-Define.tex" 1793022655 11682 54e954aff6c7718f21dffdbfdd598679 ""
+  "Chapters/6-Define.tex" 1793037753 11695 acaaf77b7e97791c98730715e6dd839a ""
   "Chapters/7-Ideate.tex" 1793022655 15383 0defb1f7d4f2cdec6747cdab62d26f08 ""
   "Chapters/8-Prototype.tex" 1793022655 19352 1ab1b64c88f2137a7adc7c755614009f ""
   "Images/document/designThinking.jpg" 1775944602 4045166 095803b1745fa7026675ad23316baa01 ""
@@ -134,13 +134,13 @@
   "Images/methodology/empathy/usuario5-5P.png" 1793035567 679543 6f81e3717aad7aa8c1e3c1eff2bd335b ""
   "Images/stages/Qualitative-interview-guide.png" 1788272600 1053062 e904572e6cf0285c6c2d15599b128576 ""
   "cover.tex" 1789769040 1132 44029dd122b994216edb97d110abad5e ""
-  "main.aux" 1793036515 23201 8ec7e8fa293134bee897e8086eb9b8eb "pdflatex"
-  "main.bbl" 1793036513 34605 dd2001f02f39d08d428b69b939f1c23e "bibtex main"
-  "main.lof" 1793036515 1541 4c47b0930c2c51188274a61e89283893 "pdflatex"
-  "main.lot" 1793036515 1015 a7bb26b915c9b93fdf594f9a72c4f08e "pdflatex"
-  "main.out" 1793036515 16320 16827dff8804ed1d6aba27f614133c46 "pdflatex"
+  "main.aux" 1793037757 23201 8ec7e8fa293134bee897e8086eb9b8eb "pdflatex"
+  "main.bbl" 1793037756 34605 dd2001f02f39d08d428b69b939f1c23e "bibtex main"
+  "main.lof" 1793037757 1541 4c47b0930c2c51188274a61e89283893 "pdflatex"
+  "main.lot" 1793037757 1015 a7bb26b915c9b93fdf594f9a72c4f08e "pdflatex"
+  "main.out" 1793037757 16320 16827dff8804ed1d6aba27f614133c46 "pdflatex"
   "main.tex" 1793022784 7374 d6291060601d826a8763cb3aca4deaac ""
-  "main.toc" 1793036515 7741 5cd35fe9c8ae53a6c0e553072b007cbd "pdflatex"
+  "main.toc" 1793037757 7741 5cd35fe9c8ae53a6c0e553072b007cbd "pdflatex"
   (generated)
   "main.aux"
   "main.lof"
