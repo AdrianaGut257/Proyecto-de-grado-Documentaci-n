@@ -1,5 +1,5 @@
 \chapter{PROTOTIPAR}
-El presente capítulo desarrolla la cuarta etapa del Design Thinking: Prototipar. Su propósito es construir una representación tangible de las ideas seleccionadas en el Capítulo 6, que permita visualizar las decisiones de diseño, iniciar conversaciones productivas con los usuarios y detectar errores de forma temprana (Vargas Márquez et al., 2021). Se describe la arquitectura del sistema, las reglas de interacción implementadas, el algoritmo de emparejamiento, el sistema de diseño bajo principios de IHC Afectiva, y las iteraciones realizadas durante el desarrollo.
+El presente capítulo desarrolla la cuarta etapa del Design Thinking: Prototipar. Su propósito es construir una representación tangible de las ideas seleccionadas en el Capítulo 7, que permita visualizar las decisiones de diseño, iniciar conversaciones productivas con los usuarios y detectar errores de forma temprana (Vargas Márquez et al., 2021). Se describe la arquitectura del sistema, las reglas de interacción implementadas, el algoritmo de emparejamiento, el sistema de diseño bajo principios de IHC Afectiva, y las iteraciones realizadas durante el desarrollo.
 
 %[Imagen: mockup general de la aplicación ECCO, mostrando las pantallas principales en secuencia]
 
@@ -7,10 +7,10 @@ El presente capítulo desarrolla la cuarta etapa del Design Thinking: Prototipar
 El prototipo se desarrolló bajo una arquitectura cliente-servidor, compuesta por los siguientes elementos:
 
 \begin{itemize}
-    \item \textbf{Cliente:} aplicación desarrollada en React Native con Expo (TypeScript), organizada por funcionalidades: autenticación, \textit{onboarding}, inicio, conversación, jardín, perfil y ajustes. El uso de Expo permite probar la aplicación directamente en el teléfono mediante Expo Go, sin necesidad de compilación previa, lo cual facilita la ejecución de las pruebas piloto descritas en el Capítulo 8.
+    \item \textbf{Cliente:} aplicación desarrollada en React Native con Expo (TypeScript), organizada por funcionalidades: autenticación, \textit{onboarding}, inicio, conversación, jardín, perfil y ajustes. El uso de Expo permite probar la aplicación directamente en el teléfono mediante Expo Go, sin necesidad de compilación previa, lo cual facilita la ejecución de las pruebas piloto descritas en el Capítulo 9.
     \item \textbf{Servidor:} API REST desarrollada en FastAPI (Python), organizada en los módulos de autenticación, usuarios, ánimo, emparejamiento, chat, jardín y sugerencias.
     \item \textbf{Base de datos:} PostgreSQL, con migraciones versionadas mediante Alembic. Se optó por un modelo relacional en lugar de uno documental, dado que los datos del sistema (usuarios, conversaciones, mensajes y decisiones) presentan relaciones estructuradas entre sí, y porque PostgreSQL permite bloquear el proceso de emparejamiento para evitar que dos búsquedas simultáneas generen parejas duplicadas.
-    \item \textbf{Servicio externo:} Google Knowledge Graph Search API, consultada únicamente desde el servidor para proteger la clave de acceso, utilizada para el autocompletado de gustos específicos (Google, s.f.; sección 7.4).
+    \item \textbf{Servicio externo:} Google Knowledge Graph Search API, consultada únicamente desde el servidor para proteger la clave de acceso, utilizada para el autocompletado de gustos específicos (Google, s.f.; sección 8.4).
 \end{itemize}
 
 %[Imagen: diagrama de arquitectura cliente-servidor de ECCO]
@@ -20,7 +20,7 @@ La aplicación consulta periódicamente al servidor para recibir mensajes nuevos
 En cuanto a la calidad del software, el servidor cuenta con 45 pruebas automatizadas que verifican los módulos de autenticación, perfil, emparejamiento, chat, reglas semanales, jardín, reportes y sugerencias. Adicionalmente, el flujo completo de la aplicación fue probado con dos usuarios simulados en entorno de navegador.
 
 \section{REGLAS DE LA INTERACCIÓN}
-La Tabla \ref{tab:reglas_interaccion} resume los parámetros que rigen la interacción dentro del prototipo. Estos valores constituyen hipótesis de diseño derivadas de la literatura y de la evidencia primaria recolectada en los Capítulos 4 y 5, y se someterán a validación durante la prueba piloto (Capítulo 8).
+La Tabla \ref{tab:reglas_interaccion} resume los parámetros que rigen la interacción dentro del prototipo. Estos valores constituyen hipótesis de diseño derivadas de la literatura y de la evidencia primaria recolectada en los Capítulos 5 y 6, y se someterán a validación durante la prueba piloto (Capítulo 9).
 
 \begin{longtable}{
   >{\raggedright\arraybackslash}p{0.55\textwidth}
@@ -54,7 +54,7 @@ Intereses mínimos requeridos & 3 \\
 
 \end{longtable}
 
-El límite de cinco mensajes diarios busca que cada mensaje sea redactado y dirigido personalmente a la otra persona, el tipo de comunicación que Burke y Kraut (2016) asociaron con mejoras en el bienestar, y evita a la vez incorporar elementos orientados a prolongar el tiempo de uso (Montag et al., 2019), en coherencia con la asociación entre el uso problemático de las redes sociales y una mayor soledad (Feng et al., 2026). Este valor constituye una hipótesis de diseño que se validará en la prueba piloto (Capítulo 8).
+El límite de cinco mensajes diarios busca que cada mensaje sea redactado y dirigido personalmente a la otra persona, el tipo de comunicación que Burke y Kraut (2016) asociaron con mejoras en el bienestar, y evita a la vez incorporar elementos orientados a prolongar el tiempo de uso (Montag et al., 2019), en coherencia con la asociación entre el uso problemático de las redes sociales y una mayor soledad (Feng et al., 2026). Este valor constituye una hipótesis de diseño que se validará en la prueba piloto (Capítulo 9).
 
 \section{ALGORITMO DE EMPAREJAMIENTO}
 Cuando un usuario inicia una búsqueda, el sistema lo compara con todas las personas que se encuentran buscando pareja en ese mismo momento, y selecciona a aquella con el puntaje de afinidad más alto, calculado mediante la siguiente fórmula:
@@ -63,7 +63,7 @@ Cuando un usuario inicia una búsqueda, el sistema lo compara con todas las pers
 \textbf{Puntaje = 3 × temas en común + 1 × intereses en común + 2 × subtemas en común + 4 × ejemplos en común}
 \end{quote}
 
-Esta fórmula otorga mayor peso a los niveles más específicos de afinidad: compartir un ejemplo concreto (por ejemplo, la misma película) pesa más que compartir únicamente la categoría general (por ejemplo, ``Películas''). Este diseño responde directamente a los hallazgos de los Capítulos 4 y 5, según los cuales los usuarios valoran la posibilidad de conectar a partir de gustos específicos y particulares, y es coherente con el meta-análisis de Montoya et al. (2008), según el cual la similitud real entre las personas se asocia con la atracción interpersonal, especialmente en interacciones breves o iniciales.
+Esta fórmula otorga mayor peso a los niveles más específicos de afinidad: compartir un ejemplo concreto (por ejemplo, la misma película) pesa más que compartir únicamente la categoría general (por ejemplo, ``Películas''). Este diseño responde directamente a los hallazgos de los Capítulos 5 y 6, según los cuales los usuarios valoran la posibilidad de conectar a partir de gustos específicos y particulares, y es coherente con el meta-análisis de Montoya et al. (2008), según el cual la similitud real entre las personas se asocia con la atracción interpersonal, especialmente en interacciones breves o iniciales.
 
 La comparación de textos ignora mayúsculas, espacios y tildes (por ejemplo, ``Iron Man 2'' equivale a ``iron man 2''). El sistema garantiza que nunca se repita una pareja ya formada previamente, y un bloqueo a nivel de base de datos evita que dos búsquedas simultáneas generen parejas duplicadas.
 
@@ -93,7 +93,7 @@ Dado que la aplicación empareja a jóvenes desconocidos entre sí para conversa
 %[Imagen: pantalla ``Un lugar seguro'' con los acuerdos de convivencia]
 
 \section{SISTEMA DE DISEÑO: IHC AFECTIVA Y UX/UI EMOCIONAL}
-El sistema de diseño del prototipo se construyó deliberadamente para traducir en elementos visuales e interactivos concretos los principios de IHC Afectiva revisados en el Capítulo 2, evitando los códigos visuales que la literatura del Capítulo 3 asocia a la ansiedad social y la comparación: colores de alerta, contadores públicos y notificaciones de enganche.
+El sistema de diseño del prototipo se construyó deliberadamente para traducir en elementos visuales e interactivos concretos los principios de IHC Afectiva revisados en el Capítulo 2, evitando los códigos visuales que la literatura del Capítulo 4 asocia a la ansiedad social y la comparación: colores de alerta, contadores públicos y notificaciones de enganche.
 
 \subsection{Paleta de colores y accesibilidad}
 La paleta es cálida y natural, compuesta por un color durazno como color principal, verde para representar el crecimiento y las acciones positivas, y celeste para transmitir calma y acceso a la ayuda, complementada con cinco colores adicionales utilizados en la representación de los estados de ánimo.
@@ -173,11 +173,11 @@ Durante la construcción del prototipo se identificaron problemas de usabilidad 
     \item \textbf{Búsqueda en segundo plano:} no quedaba claro cómo retomar una búsqueda tras salir de la pantalla. La tarjeta de la pantalla de Inicio se actualiza ahora automáticamente y notifica ``¡Encontramos a alguien!'' cuando corresponde.
     \item \textbf{Animación de bienvenida:} se probó inicialmente una animación desarrollada en Rive, la cual no es compatible con Expo Go, herramienta utilizada en las pruebas piloto. Se reemplazó por una ilustración SVG propia.
     \item \textbf{Ancho en pantallas grandes:} se evaluaron un ancho máximo fijo y un diseño de dos columnas; finalmente se optó por una sola columna que ocupa todo el ancho disponible, por su mayor coherencia con la Ley de Miller.
-    \item \textbf{Gustos específicos:} se incorporó la jerarquía de subtemas y ejemplos con autocompletado (sección 7.4), con el fin de que el algoritmo de emparejamiento (sección 7.3) pudiera operar con mayor precisión.
-    \item \textbf{Retroalimentación del autocompletado:} cuando el servicio externo no encuentra sugerencias, el sistema informa ``Sin sugerencias. Toca + para agregarlo tal como lo escribiste'', atendiendo el principio de retroalimentación, que consiste en comunicar de inmediato al usuario el resultado de sus acciones (Norman, 2013). También se redujo el tiempo de espera percibido mediante el almacenamiento en caché descrito en la sección 7.4.
+    \item \textbf{Gustos específicos:} se incorporó la jerarquía de subtemas y ejemplos con autocompletado (sección 8.4), con el fin de que el algoritmo de emparejamiento (sección 8.3) pudiera operar con mayor precisión.
+    \item \textbf{Retroalimentación del autocompletado:} cuando el servicio externo no encuentra sugerencias, el sistema informa ``Sin sugerencias. Toca + para agregarlo tal como lo escribiste'', atendiendo el principio de retroalimentación, que consiste en comunicar de inmediato al usuario el resultado de sus acciones (Norman, 2013). También se redujo el tiempo de espera percibido mediante el almacenamiento en caché descrito en la sección 8.4.
 \end{enumerate}
 
 %[Imagen: comparación antes/después de la pantalla de selección de temas]
 
 \section{HACIA LA FASE TESTEAR}
-Las decisiones de diseño descritas en este capítulo constituyen un conjunto de hipótesis que deberán validarse con usuarios reales durante la prueba piloto, desarrollada en el Capítulo 8. En particular, interesa conocer si la duración de siete días y el límite de cinco mensajes diarios resultan adecuados, si las ideas para romper el hielo cumplen su función, y si la representación del vínculo mediante una planta motiva la interacción sin generar presión, en coherencia con el principio de poner los prototipos en manos de los usuarios para recopilar retroalimentación cualitativa y cuantitativa (Vargas Márquez et al., 2021).
+Las decisiones de diseño descritas en este capítulo constituyen un conjunto de hipótesis que deberán validarse con usuarios reales durante la prueba piloto, desarrollada en el Capítulo 9. En particular, interesa conocer si la duración de siete días y el límite de cinco mensajes diarios resultan adecuados, si las ideas para romper el hielo cumplen su función, y si la representación del vínculo mediante una planta motiva la interacción sin generar presión, en coherencia con el principio de poner los prototipos en manos de los usuarios para recopilar retroalimentación cualitativa y cuantitativa (Vargas Márquez et al., 2021).

@@ -122,6 +122,34 @@ Brooke, J.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
+Brown%
+\ \BBA {} Wyatt%
+}{%
+Brown%
+\ \BBA {} Wyatt%
+}{%
+{\protect \APACyear {2010}}%
+}]{%
+brown2010designthinking}
+\APACinsertmetastar {%
+brown2010designthinking}%
+\begin{APACrefauthors}%
+Brown, T.%
+\BCBT {}\ \BBA {} Wyatt, J.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2010}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Design thinking for social innovation} {Design thinking
+  for social innovation}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Development Outreach}{12}{1}{29--43}.
+\newblock
+\begin{APACrefDOI} \doi{10.1596/1020-797X_12_1_29} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
 Burke%
 \ \BBA {} Kraut%
 }{%
