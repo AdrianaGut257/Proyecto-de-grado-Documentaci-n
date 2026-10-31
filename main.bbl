@@ -28,6 +28,67 @@ Algoe, S\BPBI B.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
+Alves%
+}{%
+Alves%
+}{%
+{\protect \APACyear {2018}}%
+}]{%
+alves2018sharing}
+\APACinsertmetastar {%
+alves2018sharing}%
+\begin{APACrefauthors}%
+Alves, H.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2018}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Sharing rare attitudes attracts} {Sharing rare attitudes
+  attracts}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Personality and Social Psychology
+  Bulletin}{44}{8}{1270--1283}.
+\newblock
+\begin{APACrefDOI} \doi{10.1177/0146167218766861} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Aron%
+, Melinat%
+, Aron%
+, Vallone%
+\BCBL {}\ \BBA {} Bator%
+}{%
+Aron%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {1997}}%
+}]{%
+aron1997experimental}
+\APACinsertmetastar {%
+aron1997experimental}%
+\begin{APACrefauthors}%
+Aron, A.%
+, Melinat, E.%
+, Aron, E\BPBI N.%
+, Vallone, R\BPBI D.%
+\BCBL {}\ \BBA {} Bator, R\BPBI J.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1997}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {The experimental generation of interpersonal closeness:
+  {A} procedure and some preliminary findings} {The experimental generation of
+  interpersonal closeness: {A} procedure and some preliminary findings}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Personality and Social Psychology
+  Bulletin}{23}{4}{363--377}.
+\newblock
+\begin{APACrefDOI} \doi{10.1177/0146167297234003} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
 Birrell%
 , Werner-Seidler%
 , Davidson%
@@ -58,6 +119,36 @@ Birrell, L.%
 \APACjournalVolNumPages{Mental Health \& Prevention}{37}{}{Artículo 200395}.
 \newblock
 \begin{APACrefDOI} \doi{10.1016/j.mhp.2025.200395} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Blattner%
+, Sumikawa%
+\BCBL {}\ \BBA {} Greenberg%
+}{%
+Blattner%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {1989}}%
+}]{%
+blattner1989earcons}
+\APACinsertmetastar {%
+blattner1989earcons}%
+\begin{APACrefauthors}%
+Blattner, M\BPBI M.%
+, Sumikawa, D\BPBI A.%
+\BCBL {}\ \BBA {} Greenberg, R\BPBI M.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1989}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Earcons and icons: {T}heir structure and common design
+  principles} {Earcons and icons: {T}heir structure and common design
+  principles}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Human--Computer Interaction}{4}{1}{11--44}.
+\newblock
+\begin{APACrefDOI} \doi{10.1207/s15327051hci0401_1} \end{APACrefDOI}
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
@@ -122,6 +213,34 @@ Brooke, J.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
+Brown%
+\ \BBA {} Wyatt%
+}{%
+Brown%
+\ \BBA {} Wyatt%
+}{%
+{\protect \APACyear {2010}}%
+}]{%
+brown2010designthinking}
+\APACinsertmetastar {%
+brown2010designthinking}%
+\begin{APACrefauthors}%
+Brown, T.%
+\BCBT {}\ \BBA {} Wyatt, J.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2010}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Design thinking for social innovation} {Design thinking
+  for social innovation}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Development Outreach}{12}{1}{29--43}.
+\newblock
+\begin{APACrefDOI} \doi{10.1596/1020-797X_12_1_29} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
 Burke%
 \ \BBA {} Kraut%
 }{%
@@ -150,6 +269,28 @@ Burke, M.%
   Communication}{21}{4}{265--281}.
 \newblock
 \begin{APACrefDOI} \doi{10.1111/jcc4.12162} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Byrne%
+}{%
+Byrne%
+}{%
+{\protect \APACyear {1971}}%
+}]{%
+byrne1971attraction}
+\APACinsertmetastar {%
+byrne1971attraction}%
+\begin{APACrefauthors}%
+Byrne, D.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{1971}.
+\newblock
+\APACrefbtitle {The attraction paradigm} {The attraction paradigm}.
+\newblock
+\APACaddressPublisher{}{Academic Press}.
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
@@ -215,6 +356,36 @@ Collazos, C\BPBI A.%
   (LATIn)}.
 \newblock
 \begin{APACrefURL} \url{http://www.proyectolatin.org/} \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Derks%
+, Fischer%
+\BCBL {}\ \BBA {} Bos%
+}{%
+Derks%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2008}}%
+}]{%
+derks2008role}
+\APACinsertmetastar {%
+derks2008role}%
+\begin{APACrefauthors}%
+Derks, D.%
+, Fischer, A\BPBI H.%
+\BCBL {}\ \BBA {} Bos, A\BPBI E\BPBI R.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2008}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {The role of emotion in computer-mediated communication:
+  {A} review} {The role of emotion in computer-mediated communication: {A}
+  review}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Computers in Human Behavior}{24}{3}{766--785}.
+\newblock
+\begin{APACrefDOI} \doi{10.1016/j.chb.2007.04.004} \end{APACrefDOI}
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
@@ -543,6 +714,31 @@ Feng, H\BHBI P.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
+Gaver%
+}{%
+Gaver%
+}{%
+{\protect \APACyear {1986}}%
+}]{%
+gaver1986auditory}
+\APACinsertmetastar {%
+gaver1986auditory}%
+\begin{APACrefauthors}%
+Gaver, W\BPBI W.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1986}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Auditory icons: {U}sing sound in computer interfaces}
+  {Auditory icons: {U}sing sound in computer interfaces}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Human--Computer Interaction}{2}{2}{167--177}.
+\newblock
+\begin{APACrefDOI} \doi{10.1207/s15327051hci0202_3} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
 Godard%
 \ \BBA {} Holtzman%
 }{%
@@ -713,6 +909,166 @@ Hern{\'a}ndez~Bieliukas, Y\BPBI C.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
+Katsaros%
+, Yang%
+\BCBL {}\ \BBA {} Fratamico%
+}{%
+Katsaros%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2022}}%
+}]{%
+katsaros2022reconsidering}
+\APACinsertmetastar {%
+katsaros2022reconsidering}%
+\begin{APACrefauthors}%
+Katsaros, M.%
+, Yang, K.%
+\BCBL {}\ \BBA {} Fratamico, L.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2022}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Reconsidering tweets: {I}ntervening during tweet
+  creation decreases offensive content} {Reconsidering tweets: {I}ntervening
+  during tweet creation decreases offensive content}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Proceedings of the International AAAI Conference on Web
+  and Social Media}{16}{1}{477--487}.
+\newblock
+\begin{APACrefDOI} \doi{10.1609/icwsm.v16i1.19308} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Kruger%
+, Epley%
+, Parker%
+\BCBL {}\ \BBA {} Ng%
+}{%
+Kruger%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2005}}%
+}]{%
+kruger2005egocentrism}
+\APACinsertmetastar {%
+kruger2005egocentrism}%
+\begin{APACrefauthors}%
+Kruger, J.%
+, Epley, N.%
+, Parker, J.%
+\BCBL {}\ \BBA {} Ng, Z\BHBI W.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2005}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Egocentrism over e-mail: {C}an we communicate as well as
+  we think?} {Egocentrism over e-mail: {C}an we communicate as well as we
+  think?}{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Journal of Personality and Social
+  Psychology}{89}{6}{925--936}.
+\newblock
+\begin{APACrefDOI} \doi{10.1037/0022-3514.89.6.925} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Lehrer%
+\ \BBA {} Gevirtz%
+}{%
+Lehrer%
+\ \BBA {} Gevirtz%
+}{%
+{\protect \APACyear {2014}}%
+}]{%
+lehrer2014hrv}
+\APACinsertmetastar {%
+lehrer2014hrv}%
+\begin{APACrefauthors}%
+Lehrer, P\BPBI M.%
+\BCBT {}\ \BBA {} Gevirtz, R.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2014}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Heart rate variability biofeedback: {H}ow and why does
+  it work?} {Heart rate variability biofeedback: {H}ow and why does it
+  work?}{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Frontiers in Psychology}{5}{}{Artículo 756}.
+\newblock
+\begin{APACrefDOI} \doi{10.3389/fpsyg.2014.00756} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Lester%
+\ \protect \BOthers {.}}{%
+Lester%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {1997}}%
+}]{%
+lester1997persona}
+\APACinsertmetastar {%
+lester1997persona}%
+\begin{APACrefauthors}%
+Lester, J\BPBI C.%
+, Converse, S\BPBI A.%
+, Kahler, S\BPBI E.%
+, Barlow, S\BPBI T.%
+, Stone, B\BPBI A.%
+\BCBL {}\ \BBA {} Bhogal, R\BPBI S.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1997}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {The persona effect: {A}ffective impact of animated
+  pedagogical agents} {The persona effect: {A}ffective impact of animated
+  pedagogical agents}.{\BBCQ}
+\newblock
+\BIn{} \APACrefbtitle {Proceedings of the ACM SIGCHI Conference on Human
+  Factors in Computing Systems} {Proceedings of the acm sigchi conference on
+  human factors in computing systems}\ (\BPGS\ 359--366).
+\newblock
+\APACaddressPublisher{}{ACM}.
+\newblock
+\begin{APACrefDOI} \doi{10.1145/258549.258797} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Lieberman%
+\ \protect \BOthers {.}}{%
+Lieberman%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2007}}%
+}]{%
+lieberman2007putting}
+\APACinsertmetastar {%
+lieberman2007putting}%
+\begin{APACrefauthors}%
+Lieberman, M\BPBI D.%
+, Eisenberger, N\BPBI I.%
+, Crockett, M\BPBI J.%
+, Tom, S\BPBI M.%
+, Pfeifer, J\BPBI H.%
+\BCBL {}\ \BBA {} Way, B\BPBI M.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2007}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Putting feelings into words: {A}ffect labeling disrupts
+  amygdala activity in response to affective stimuli} {Putting feelings into
+  words: {A}ffect labeling disrupts amygdala activity in response to affective
+  stimuli}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Psychological Science}{18}{5}{421--428}.
+\newblock
+\begin{APACrefDOI} \doi{10.1111/j.1467-9280.2007.01916.x} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
 Liu%
 , Pradhan%
 \BCBL {}\ \BBA {} Wang%
@@ -851,6 +1207,29 @@ Norman%
 }{%
 Norman%
 }{%
+{\protect \APACyear {2004}}%
+}]{%
+norman2004emotional}
+\APACinsertmetastar {%
+norman2004emotional}%
+\begin{APACrefauthors}%
+Norman, D\BPBI A.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{2004}.
+\newblock
+\APACrefbtitle {Emotional design: {W}hy we love (or hate) everyday things}
+  {Emotional design: {W}hy we love (or hate) everyday things}.
+\newblock
+\APACaddressPublisher{}{Basic Books}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Norman%
+}{%
+Norman%
+}{%
 {\protect \APACyear {2013}}%
 }]{%
 norman2013design}
@@ -900,6 +1279,36 @@ Parry, D\BPBI A.%
 \APACjournalVolNumPages{New Media \& Society}{28}{8}{4303--4323}.
 \newblock
 \begin{APACrefDOI} \doi{10.1177/14614448251362436} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Peters%
+, Calvo%
+\BCBL {}\ \BBA {} Ryan%
+}{%
+Peters%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2018}}%
+}]{%
+peters2018designing}
+\APACinsertmetastar {%
+peters2018designing}%
+\begin{APACrefauthors}%
+Peters, D.%
+, Calvo, R\BPBI A.%
+\BCBL {}\ \BBA {} Ryan, R\BPBI M.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2018}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Designing for motivation, engagement and wellbeing in
+  digital experience} {Designing for motivation, engagement and wellbeing in
+  digital experience}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Frontiers in Psychology}{9}{}{Artículo 797}.
+\newblock
+\begin{APACrefDOI} \doi{10.3389/fpsyg.2018.00797} \end{APACrefDOI}
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
@@ -978,6 +1387,36 @@ Sandstrom, G\BPBI M.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
+Shiffman%
+, Stone%
+\BCBL {}\ \BBA {} Hufford%
+}{%
+Shiffman%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2008}}%
+}]{%
+shiffman2008ema}
+\APACinsertmetastar {%
+shiffman2008ema}%
+\begin{APACrefauthors}%
+Shiffman, S.%
+, Stone, A\BPBI A.%
+\BCBL {}\ \BBA {} Hufford, M\BPBI R.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2008}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Ecological momentary assessment} {Ecological momentary
+  assessment}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Annual Review of Clinical Psychology}{4}{}{1--32}.
+\newblock
+\begin{APACrefDOI} \doi{10.1146/annurev.clinpsy.3.022806.091415}
+  \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
 Shneiderman%
 \ \protect \BOthers {.}}{%
 Shneiderman%
@@ -1034,6 +1473,32 @@ Smith, D.%
 \APACjournalVolNumPages{Australian Journal of Psychology}{73}{1}{12--23}.
 \newblock
 \begin{APACrefDOI} \doi{10.1080/00049530.2021.1898914} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Thomas%
+\ \BBA {} Johnston%
+}{%
+Thomas%
+\ \BBA {} Johnston%
+}{%
+{\protect \APACyear {1981}}%
+}]{%
+thomas1981illusion}
+\APACinsertmetastar {%
+thomas1981illusion}%
+\begin{APACrefauthors}%
+Thomas, F.%
+\BCBT {}\ \BBA {} Johnston, O.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{1981}.
+\newblock
+\APACrefbtitle {Disney animation: {T}he illusion of life} {Disney animation:
+  {T}he illusion of life}.
+\newblock
+\APACaddressPublisher{}{Abbeville Press}.
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
@@ -1216,6 +1681,32 @@ wcag22_2023}%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
+Weiser%
+\ \BBA {} Brown%
+}{%
+Weiser%
+\ \BBA {} Brown%
+}{%
+{\protect \APACyear {1996}}%
+}]{%
+weiser1996calm}
+\APACinsertmetastar {%
+weiser1996calm}%
+\begin{APACrefauthors}%
+Weiser, M.%
+\BCBT {}\ \BBA {} Brown, J\BPBI S.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1996}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Designing calm technology} {Designing calm
+  technology}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{PowerGrid Journal}{1}{1}{}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
 Yablonski%
 }{%
 Yablonski%
@@ -1259,6 +1750,39 @@ Yablonski, J.%
 \APACrefbtitle {Laws of {UX}.} {Laws of {UX}.}
 \newblock
 \APAChowpublished {\url{https://lawsofux.com}}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Zaccaro%
+\ \protect \BOthers {.}}{%
+Zaccaro%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2018}}%
+}]{%
+zaccaro2018breath}
+\APACinsertmetastar {%
+zaccaro2018breath}%
+\begin{APACrefauthors}%
+Zaccaro, A.%
+, Piarulli, A.%
+, Laurino, M.%
+, Garbella, E.%
+, Menicucci, D.%
+, Neri, B.%
+\BCBL {}\ \BBA {} Gemignani, A.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2018}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {How breath-control can change your life: {A} systematic
+  review on psycho-physiological correlates of slow breathing} {How
+  breath-control can change your life: {A} systematic review on
+  psycho-physiological correlates of slow breathing}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Frontiers in Human Neuroscience}{12}{}{Artículo 353}.
+\newblock
+\begin{APACrefDOI} \doi{10.3389/fnhum.2018.00353} \end{APACrefDOI}
 \PrintBackRefs{\CurrentBib}
 
 \end{thebibliography}

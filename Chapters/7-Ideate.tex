@@ -1,0 +1,246 @@
+\chapter{IDEAR}
+El presente capítulo desarrolla la tercera etapa del Design Thinking: Idear. Su propósito es generar múltiples soluciones posibles a partir del planteamiento del problema (POV) formulado en el Capítulo 6, sin restricciones prematuras, para después seleccionar aquellas que mejor respondan a las necesidades identificadas durante las fases de Empatizar y Definir (Vargas Márquez et al., 2021).
+
+\section{GENERACIÓN DE IDEAS}
+A partir de las preguntas ¿Cómo podríamos...? (Figura 6.6), la generación de ideas se desarrolló mediante dos técnicas complementarias: ¿Y si...? y Lluvia de ideas.
+
+\subsection{¿Y si...?}
+La técnica ¿Y si...? tiene como objetivo generar ideas mediante el fomento del pensamiento lateral, explorando escenarios hipotéticos y desafiando suposiciones establecidas (Design Thinking en Español, s.f.-j). Se aplicó en dos rondas, formulando cuatro preguntas por cada uno de los cinco conocimientos (hechos) derivados de la fase de Empatizar, lo que dio lugar a 40 ideas (Figuras \ref{fig:ysi_1} y \ref{fig:ysi_2}). Entre ellas se encuentran, por ejemplo:
+
+\begin{itemize}
+    \item \textbf{Intereses en común:} ¿Y si el emparejamiento fuera como un juego donde el usuario elige ``¿De qué quiero hablar hoy?'' y se conecta con alguien que eligió el mismo tema? ¿Y si los intereses se revelaran progresivamente después de una cantidad de mensajes?
+    \item \textbf{Avatar:} ¿Y si el avatar cambiara de expresión según el estado de ánimo que el usuario elige al entrar? ¿Y si el avatar solo se revelara completo después de cierto número de mensajes?
+    \item \textbf{Temor a la hostilidad:} ¿Y si, antes de habilitar el chat, ambos usuarios debieran aceptar un breve acuerdo de respeto? ¿Y si existiera un botón de pausa, distinto a bloquear o reportar?
+    \item \textbf{Pocos vínculos, pero significativos:} ¿Y si el sistema solo permitiera una conexión activa a la vez? ¿Y si el vínculo se representara como una planta? ¿Y si al finalizar los usuarios pudieran votar de forma anónima si desean volver a hablar, mostrando primero una pantalla de resultados igual para todos para evitar deducir el voto de la otra persona?
+    \item \textbf{Mensajes positivos sin métricas:} ¿Y si existiera un banco de frases positivas para cuando el usuario no sabe qué decir? ¿Y si hubiera pequeños gestos no textuales, como un ícono de abrazo o apoyo?
+\end{itemize}
+
+\begin{figure}[htbp]
+  \centering
+  \caption{Técnica ¿Y si...? - Ronda 1}
+  \label{fig:ysi_1}
+  \vspace{4pt}
+  \includegraphics[width=0.95\textwidth]{Images/methodology/ideate/ySi1.png}
+  \vspace{4pt}
+\end{figure}
+
+\begin{figure}[htbp]
+  \centering
+  \caption{Técnica ¿Y si...? - Ronda 2}
+  \label{fig:ysi_2}
+  \vspace{4pt}
+  \includegraphics[width=0.95\textwidth]{Images/methodology/ideate/ySi2.png}
+  \vspace{4pt}
+\end{figure}
+
+\subsection{Lluvia de ideas}
+La Lluvia de ideas o \textit{brainstorming} es una técnica que sirve para generar el mayor número posible de ideas, buscando primero la cantidad para aplicar luego técnicas de selección que permitan quedarse con las mejores (Design Thinking en Español, s.f.-d). En el presente proyecto, las ideas más prometedoras de la técnica anterior se desarrollaron como bocetos de concepto (\textit{wireframes}) para cada conocimiento: el emparejamiento por palabra clave de interés y la rotación de temas con aviso; el avatar con expresiones según el estado de ánimo; el acuerdo de respeto previo al chat y el reporte o bloqueo accesible sin interrumpir la experiencia; la opción de reencuentro tras la conversación y el vínculo representado como una planta; y el banco de frases positivas y los mensajes positivos predefinidos para completar.
+
+Varias de las ideas seleccionadas para el prototipo (Tabla \ref{tab:ideas_seleccionadas}) provienen directamente de estas técnicas: la elección de ``¿De qué quiero hablar hoy?'' se transformó en la selección de hasta tres temas antes de cada búsqueda; el avatar que cambia de expresión según el estado de ánimo se incorporó tal como fue planteado; la conexión activa única y la planta dieron forma al ciclo semanal; la votación anónima y la protección del voto de la otra persona se materializaron en la decisión privada al finalizar los siete días; el acuerdo de respeto dio origen a la pantalla ``Un lugar seguro''; y el banco de frases positivas se integró en las ideas para romper el hielo. Algunas ideas se adaptaron al seleccionarse; por ejemplo, la planta que se marchita si no se cuida se transformó en una planta que nunca se marchita.
+
+\section{CRITERIOS DE SELECCIÓN}
+Siguiendo a Vargas Márquez et al. (2021), quienes señalan que la creación de múltiples ideas aumenta el potencial de innovación y que es necesario separar la generación de ideas de su evaluación (p. 13), no todas las ideas generadas se llevaron al prototipo. La selección se realizó aplicando tres criterios:
+
+\begin{enumerate}
+    \item \textbf{Respuesta a un hallazgo consistente} de las fases de Empatizar y Definir, ya sea un patrón del Mapa de Motivaciones (necesidad de tema en común, 9 de 15 pares; uso de avatar, 9 de 15 pares; entorno seguro o libre de hostilidad, 8 de 15 pares) o un factor identificado en el Capítulo 4.
+    \item \textbf{Respaldo en la literatura} revisada en el marco teórico y en el Capítulo 4.
+    \item \textbf{Ausencia de carga cognitiva innecesaria}, conforme a la Ley de Hick y la Ley de Tesler (Yablonski, 2020). Las ideas que sumaban opciones a la interfaz sin resolver un dolor central identificado en el Mapa de Empatía se pospusieron para una fase posterior al prototipo actual.
+\end{enumerate}
+
+\section{IDEAS SELECCIONADAS}
+La Tabla \ref{tab:ideas_seleccionadas} presenta las ideas seleccionadas para el prototipo, organizadas según el conocimiento del cual se derivaron, junto con la pregunta orientadora que las originó y su sustento teórico o empírico.
+
+\begin{longtable}{
+  >{\raggedright\arraybackslash}p{0.27\textwidth}
+  >{\raggedright\arraybackslash}p{0.35\textwidth}
+  >{\raggedright\arraybackslash}p{0.29\textwidth}
+}
+\caption{Ideas seleccionadas para el prototipo}\label{tab:ideas_seleccionadas}\\
+\toprule
+\textbf{Pregunta ¿Cómo podríamos...?} & \textbf{Idea seleccionada} & \textbf{Sustento} \\
+\midrule
+\endfirsthead
+
+\multicolumn{3}{l}{\textit{Tabla \thetable{} (continuación)}} \\[4pt]
+\toprule
+\textbf{Pregunta ¿Cómo podríamos...?} & \textbf{Idea seleccionada} & \textbf{Sustento} \\
+\midrule
+\endhead
+
+\midrule
+\multicolumn{3}{r}{\textit{Continúa en la siguiente página}} \\
+\endfoot
+
+\bottomrule
+\endlastfoot
+
+\multicolumn{3}{l}{\textbf{Conocimiento: Compartir gustos o intereses para iniciar y sostener la conversación}} \\[4pt]
+¿Cómo podríamos identificar los intereses de un usuario antes de emparejarlo con otro?
+&
+El usuario elige sus intereses al registrarse y, antes de cada búsqueda, hasta tres temas entre ellos.
+&
+La mayoría necesita un tema en común para iniciar la conversación (Mapa de Motivaciones); la similitud percibida favorece la atracción (Montoya et al., 2008). \\[6pt]
+
+¿Cómo podríamos emparejar por gustos específicos?
+&
+Los intereses se organizan de lo general a lo específico, y el emparejamiento da más peso a los gustos más específicos.
+&
+Los Usuarios 1 y 4 asociaron la conexión con compartir gustos concretos, no categorías generales. \\[6pt]
+
+¿Cómo podríamos mostrar visualmente qué tienen en común dos usuarios antes de chatear?
+&
+Pantalla de presentación con los temas e intereses que ambos comparten.
+&
+El Usuario 1 señaló que, sin algo en común, no sabría de qué hablar (5 ¿Por qué?). \\[6pt]
+
+¿Cómo podríamos sugerir temas basados en gustos compartidos?
+&
+Tres sugerencias diarias para romper el hielo, basadas en lo que ambos comparten, que se pueden editar antes de enviarlas.
+&
+Facilita iniciar la conversación (Usuario 1); la falta de personalización es una barrera para la participación (Borghouts et al., 2021); pocas opciones agilizan la decisión (Ley de Hick; Yablonski, 2020). \\[6pt]
+
+¿Cómo podríamos hacer que la conversación muestre lo que une a ambos usuarios?
+&
+Solo se empareja a quienes comparten al menos un tema; los temas se ven en la conversación y cada día se revela una coincidencia más, de la más específica a la más general.
+&
+La similitud percibida acerca a las personas (Byrne, 1971), y compartir gustos poco comunes atrae más (Alves, 2018); la apertura gradual genera cercanía (Aron et al., 1997). \\[6pt]
+
+\addlinespace[4pt]
+\multicolumn{3}{l}{\textbf{Conocimiento: Preferencia por un avatar en vez de una foto real}} \\[4pt]
+¿Cómo podríamos permitir que el avatar refleje la personalidad o identidad real del usuario?
+&
+Avatar personalizable en rasgos físicos, accesorios, ropa y fondo.
+&
+La mayoría prefiere un avatar a una foto real (Mapa de Motivaciones), y el Usuario 4 pidió que refleje sus rasgos reales. \\[6pt]
+
+¿Cómo podríamos hacer para que un avatar sea una experiencia entretenida y no solo funcional?
+&
+Botón ``Sorpréndeme'' que crea un avatar aleatorio con una breve animación.
+&
+Lo deseable es una faceta de la experiencia de usuario (Morville, 2005, como se citó en Méndez et al., 2014); los diseños agradables se perciben como más fáciles de usar (Yablonski, 2020). \\[6pt]
+
+¿Cómo podríamos compensar la falta de expresiones faciales?
+&
+El avatar muestra el estado de ánimo del día, salvo que el usuario lo desactive.
+&
+El Usuario 1 percibe la comunicación digital como plana por la falta de expresiones; el texto carece de señales como la expresión facial (Picard, 1997; Tufail et al., 2025). \\[6pt]
+
+¿Cómo podríamos hacer que los mensajes no se sientan como texto plano?
+&
+Tono opcional para cada mensaje (con cariño, en broma, para animarte, con curiosidad, con gratitud o en serio), que tiñe la burbuja y añade una etiqueta con ícono.
+&
+Quien escribe sobreestima cuánto se entiende su tono, sobre todo en las bromas (Kruger et al., 2005); el Usuario 1 percibe la comunicación como plana. \\[6pt]
+
+¿Cómo podríamos responder a un mensaje sin gastar palabras?
+&
+Cinco reacciones con las caras de ánimo de la app (Me alegra, Me gusta, Entiendo, Lo siento, Te abrazo), que aparecen al mantener presionado un mensaje y no cuentan como mensaje.
+&
+Lo pidió el Usuario 1; las señales gráficas cumplen en el texto el papel de los gestos (Derks et al., 2008). \\[6pt]
+
+\addlinespace[4pt]
+\multicolumn{3}{l}{\textbf{Conocimiento: Temor a la hostilidad o a desconocidos con malas intenciones}} \\[4pt]
+¿Cómo podríamos dar mecanismos de reporte o bloqueo sin que interrumpan la experiencia?
+&
+Ícono de escudo en la conversación para salir o reportar; el motivo no se revela y ambos no vuelven a ser emparejados.
+&
+La mayoría valora un entorno seguro (Mapa de Motivaciones); el usuario debe mantener el control de la interfaz (Shneiderman et al., 2016). \\[6pt]
+
+¿Cómo podríamos transmitir confianza antes de que el usuario inicie su primera conversación?
+&
+Pantalla ``Un lugar seguro'' con acuerdos de convivencia y la opción de salir en cualquier momento.
+&
+Los entrevistados expresaron la necesidad de sentirse seguros frente a desconocidos (sección 5.5). \\[6pt]
+
+¿Cómo podríamos reducir el odio o la toxicidad dentro de la app?
+&
+Moderación antes de enviar en dos niveles: una pausa amable (``¿Lo reformulamos?'') ante lo leve y el bloqueo del mensaje ante lo grave. Además, confirmación del correo para reducir cuentas falsas.
+&
+Una pausa antes de publicar reduce el contenido ofensivo (Katsaros et al., 2022); frenar la respuesta impulsiva es una forma de regulación (Gross, 1998). \\[6pt]
+
+\addlinespace[4pt]
+\multicolumn{3}{l}{\textbf{Conocimiento: Pocos vínculos, pero significativos}} \\[4pt]
+¿Cómo podríamos priorizar la calidad de la interacción sobre la cantidad de contactos?
+&
+Una sola conversación activa, de siete días, con hasta diez mensajes diarios por persona de máximo 500 caracteres (inicialmente cinco; véase la sección 8.2).
+&
+Los mensajes escritos y dirigidos a una persona se asocian con mayor bienestar, a diferencia de las reacciones de un clic (Burke \& Kraut, 2016); el límite de caracteres responde al Usuario 4. \\[6pt]
+
+¿Cómo podríamos hacer que cada mensaje breve se sienta significativo y no trivial?
+&
+Una planta que crece los días en que ambos se escriben y que nunca se marchita.
+&
+El uso activo de las redes sociales se asocia con mayor bienestar y apoyo social en línea (Godard \& Holtzman, 2024). \\[6pt]
+
+¿Cómo podríamos ayudar a que un vínculo esporádico se sostenga en el tiempo?
+&
+Al terminar los siete días, cada uno decide en privado si continuar; si ambos aceptan, la planta florece y la conversación sigue abierta.
+&
+Responde al planteamiento del problema (POV); el cierre de una experiencia influye en cómo se recuerda (Regla del Pico-Final; Yablonski, 2020). \\[6pt]
+
+¿Cómo podríamos medir el éxito de la app en bienestar emocional y no en métricas de uso?
+&
+Registro del ánimo al entrar, que puede actualizarse durante el día, con un historial del día y un resumen semanal privados, sin rachas ni notificaciones para retener al usuario.
+&
+El registro del ánimo se asocia con mayor autoconciencia emocional (Eisenstadt et al., 2021); registrarlo varias veces capta cómo cambia (Shiffman et al., 2008); se evitan elementos que prolongan el uso (Montag et al., 2019). \\[6pt]
+
+\addlinespace[4pt]
+\multicolumn{3}{l}{\textbf{Conocimiento: Mensajes positivos, sin \textit{likes} ni métricas públicas}} \\[4pt]
+¿Cómo podríamos sugerir tipos de mensajes positivos cuando el usuario no sabe qué decir?
+&
+Frases de validación incluidas en las sugerencias para romper el hielo.
+&
+Lo pidió el Usuario 1; la gratitud fortalece los vínculos (Algoe, 2012). \\[6pt]
+
+¿Cómo podríamos evitar cualquier métrica pública que genere comparación?
+&
+Sin contadores públicos: el Jardín muestra plantas, no cifras ni rankings.
+&
+Los \textit{likes} prolongan el uso (Montag et al., 2019) y el uso pasivo favorece la comparación social (Verduyn et al., 2017). \\[6pt]
+
+¿Cómo podríamos hacer que la app acompañe en un mal día?
+&
+Respuestas empáticas según el ánimo registrado y, cuando el ánimo es bajo, una respiración guiada de tres respiraciones lentas (unos 30 segundos) antes de continuar.
+&
+Los ejercicios guiados y el monitoreo del ánimo cuentan con respaldo en aplicaciones de bienestar (Eisenstadt et al., 2021); la respiración lenta reduce la activación fisiológica (Zaccaro et al., 2018). \\
+
+\end{longtable}
+
+\section{IDEAS DESCARTADAS O POSPUESTAS}
+No todas las ideas generadas durante la fase de Idear se incorporaron al prototipo. La Tabla \ref{tab:ideas_descartadas} sintetiza las ideas descartadas o pospuestas, junto con la razón de su exclusión, en coherencia con la recomendación de separar la generación de ideas de su evaluación (Vargas Márquez et al., 2021, p. 13).
+
+\begin{longtable}{
+  >{\raggedright\arraybackslash}p{0.28\textwidth}
+  >{\raggedright\arraybackslash}p{0.17\textwidth}
+  >{\raggedright\arraybackslash}p{0.47\textwidth}
+}
+\caption{Ideas descartadas o pospuestas}\label{tab:ideas_descartadas}\\
+\toprule
+\textbf{Idea} & \textbf{Decisión} & \textbf{Razón} \\
+\midrule
+\endfirsthead
+
+\multicolumn{3}{l}{\textit{Tabla \thetable{} (continuación)}} \\[4pt]
+\toprule
+\textbf{Idea} & \textbf{Decisión} & \textbf{Razón} \\
+\midrule
+\endhead
+
+\midrule
+\multicolumn{3}{r}{\textit{Continúa en la siguiente página}} \\
+\endfoot
+
+\bottomrule
+\endlastfoot
+Notificaciones \textit{push} y rachas diarias (\textit{streaks}) & Descartada & Son elementos que prolongan el tiempo de uso (Montag et al., 2019) y podrían fomentar un patrón de uso problemático, asociado a mayor soledad (Feng et al., 2026) \\[6pt]
+``Mundo de conexiones'' con estadísticas globales de la comunidad & Descartada & Introduce métricas públicas y comparación social (Verduyn et al., 2017), contrarias a los límites definidos en 1.5 \\[6pt]
+Reacciones variadas a los mensajes (solicitado por el Usuario 1) & Pospuesta y luego implementada & Se pospuso porque suma opciones en cada mensaje (Ley de Hick, Yablonski, 2020); se implementó durante el prototipado, con las opciones ocultas hasta que el usuario las solicita (sección 8.6) \\[6pt]
+Mensajes largos tipo \textit{story time} (solicitado por el Usuario 4) & Atendida parcialmente & Se amplió el límite a 500 caracteres por mensaje, sin introducir un formato especial que rompa la lógica de micro-interacción \\[6pt]
+Debates de opinión grupales (solicitado por el Usuario 4) & Descartada & Excede el alcance definido en 1.5, que excluye la comunicación grupal \\[6pt]
+Avatar en 3D & Reemplazada & Se optó por un avatar 2D en SVG, liviano, personalizable en tiempo real y que no requiere un motor 3D en el teléfono \\[6pt]
+Lista fija de seis temas para buscar pareja & Reemplazada & Mostraba temas que el usuario no había elegido; se reemplazó por sus propios intereses \\[6pt]
+Moderación con un clasificador automático externo & Pospuesta & El servicio de Google requiere una cuenta de facturación y Perspective API anunció su cierre para 2026; se implementó una moderación local en español (sección 8.5) \\[6pt]
+
+\end{longtable}
+
+\section{SÍNTESIS DE LA FASE IDEAR}
+Las ideas seleccionadas y presentadas en la Tabla \ref{tab:ideas_seleccionadas} constituyen el conjunto de decisiones de diseño que se materializan en el prototipo funcional descrito en el Capítulo 8. Cada una de ellas responde directamente a un hallazgo de las fases de Empatizar y Definir, y cuenta con respaldo en la literatura revisada en los Capítulos 2 y 4, en coherencia con el enfoque iterativo y centrado en el usuario del Design Thinking (Vargas Márquez et al., 2021).

@@ -13,70 +13,82 @@
 \contentsline {subsection}{\numberline {1.6.2}Fuentes de información}{9}{subsection.1.6.2}%
 \contentsline {subsection}{\numberline {1.6.3}Técnicas de recolección de datos}{9}{subsection.1.6.3}%
 \contentsline {subsection}{\numberline {1.6.4}Procedimiento}{9}{subsection.1.6.4}%
-\contentsline {subsection}{\numberline {1.6.5}Cronograma de desarrollo}{13}{subsection.1.6.5}%
-\contentsline {chapter}{\numberline {2}MARCO TEORICO}{16}{chapter.2}%
-\contentsline {section}{\numberline {2.1}INTERACCIÓN HUMANO-COMPUTADORA (IHC)}{16}{section.2.1}%
-\contentsline {subsection}{\numberline {2.1.1}Experiencia de Usuario (UX)}{17}{subsection.2.1.1}%
-\contentsline {subsection}{\numberline {2.1.2}Interfaz de usuario (UI)}{19}{subsection.2.1.2}%
-\contentsline {subsection}{\numberline {2.1.3}Usabilidad}{20}{subsection.2.1.3}%
-\contentsline {section}{\numberline {2.2}COMPUTACIÓN AFECTIVA E IHC AFECTIVA}{20}{section.2.2}%
-\contentsline {section}{\numberline {2.3}EMOCIONES EN ENTORNOS DIGITALES}{21}{section.2.3}%
-\contentsline {subsection}{\numberline {2.3.1}Emociones en la interacción digital}{21}{subsection.2.3.1}%
-\contentsline {subsection}{\numberline {2.3.2}Regulación emocional}{22}{subsection.2.3.2}%
-\contentsline {subsection}{\numberline {2.3.3}Conexión social y bienestar emocional}{22}{subsection.2.3.3}%
-\contentsline {subsection}{\numberline {2.3.4}Micro interacciones sociales positivas}{23}{subsection.2.3.4}%
-\contentsline {section}{\numberline {2.4}METODOLOGÍA}{24}{section.2.4}%
-\contentsline {subsection}{\numberline {2.4.1}Design Thinking}{24}{subsection.2.4.1}%
-\contentsline {chapter}{\numberline {3}DESCONEXIÓN EMOCIONAL EN LAS REDES SOCIALES}{27}{chapter.3}%
-\contentsline {section}{\numberline {3.1}Uso de redes sociales y soledad en jóvenes}{27}{section.3.1}%
-\contentsline {section}{\numberline {3.2}Tipo de interacción digital como factor determinante}{28}{section.3.2}%
-\contentsline {section}{\numberline {3.3}Conexión abundante versus vínculo significativo}{29}{section.3.3}%
-\contentsline {section}{\numberline {3.4}Resultados de la encuesta diagnóstico aplicada al grupo objetivo}{30}{section.3.4}%
-\contentsline {section}{\numberline {3.5}Factores identificados que limitan la generación de vínculos significativos}{31}{section.3.5}%
-\contentsline {chapter}{\numberline {4}EMPATÍA}{33}{chapter.4}%
-\contentsline {section}{\numberline {4.1}ANÁLISIS DIMENSIONAL}{33}{section.4.1}%
-\contentsline {section}{\numberline {4.2}GUÍA DE LA ENTREVISTA CUALITATIVA}{34}{section.4.2}%
-\contentsline {section}{\numberline {4.3}APLICACIÓN DE LAS ENTREVISTAS}{35}{section.4.3}%
-\contentsline {subsection}{\numberline {4.3.1}Usuario 1}{36}{subsection.4.3.1}%
-\contentsline {subsection}{\numberline {4.3.2}Usuario 4}{37}{subsection.4.3.2}%
-\contentsline {subsection}{\numberline {4.3.3}Usuarios 2, 3, 5 y 6}{38}{subsection.4.3.3}%
-\contentsline {section}{\numberline {4.4}TÉCNICA DE LOS 5 ¿POR QUÉ?}{39}{section.4.4}%
-\contentsline {subsection}{\numberline {4.4.1}Usuario 1}{39}{subsection.4.4.1}%
-\contentsline {subsection}{\numberline {4.4.2}Usuario 5}{40}{subsection.4.4.2}%
-\contentsline {subsection}{\numberline {4.4.3}Usuarios 2, 3, 4 y 6}{40}{subsection.4.4.3}%
-\contentsline {section}{\numberline {4.5}SÍNTESIS DE LA FASE EMPATIZAR}{41}{section.4.5}%
-\contentsline {chapter}{\numberline {5}DEFINIR}{43}{chapter.5}%
-\contentsline {section}{\numberline {5.1}PERFIL DE USUARIO}{43}{section.5.1}%
-\contentsline {subsection}{\numberline {5.1.1}Usuario 1}{43}{subsection.5.1.1}%
-\contentsline {subsection}{\numberline {5.1.2}Usuario 5}{44}{subsection.5.1.2}%
-\contentsline {subsection}{\numberline {5.1.3}Usuarios 2, 3, 4 y 6}{44}{subsection.5.1.3}%
-\contentsline {section}{\numberline {5.2}MAPA DE EMPATÍA}{45}{section.5.2}%
-\contentsline {subsection}{\numberline {5.2.1}Usuario 1}{46}{subsection.5.2.1}%
-\contentsline {subsection}{\numberline {5.2.2}Usuario 5}{46}{subsection.5.2.2}%
-\contentsline {subsection}{\numberline {5.2.3}Usuarios 2, 3, 4 y 6}{47}{subsection.5.2.3}%
-\contentsline {section}{\numberline {5.3}MAPA DE MOTIVACIONES}{48}{section.5.3}%
-\contentsline {section}{\numberline {5.4}¿CÓMO PODRÍAMOS...?}{49}{section.5.4}%
-\contentsline {section}{\numberline {5.5}PLANTEAMIENTO DEL PROBLEMA (POINT OF VIEW)}{49}{section.5.5}%
-\contentsline {chapter}{\numberline {6}IDEAR}{51}{chapter.6}%
-\contentsline {section}{\numberline {6.1}GENERACIÓN DE IDEAS}{51}{section.6.1}%
-\contentsline {subsection}{\numberline {6.1.1}¿Y si...?}{51}{subsection.6.1.1}%
-\contentsline {subsection}{\numberline {6.1.2}Lluvia de ideas}{52}{subsection.6.1.2}%
-\contentsline {section}{\numberline {6.2}CRITERIOS DE SELECCIÓN}{53}{section.6.2}%
-\contentsline {section}{\numberline {6.3}IDEAS SELECCIONADAS}{53}{section.6.3}%
-\contentsline {section}{\numberline {6.4}IDEAS DESCARTADAS O POSPUESTAS}{59}{section.6.4}%
-\contentsline {section}{\numberline {6.5}SÍNTESIS DE LA FASE IDEAR}{60}{section.6.5}%
-\contentsline {chapter}{\numberline {7}PROTOTIPAR}{61}{chapter.7}%
-\contentsline {section}{\numberline {7.1}ARQUITECTURA}{61}{section.7.1}%
-\contentsline {section}{\numberline {7.2}REGLAS DE LA INTERACCIÓN}{62}{section.7.2}%
-\contentsline {section}{\numberline {7.3}ALGORITMO DE EMPAREJAMIENTO}{63}{section.7.3}%
-\contentsline {section}{\numberline {7.4}JERARQUÍA DE INTERESES Y AUTOCOMPLETADO}{64}{section.7.4}%
-\contentsline {section}{\numberline {7.5}SEGURIDAD Y PRIVACIDAD}{65}{section.7.5}%
-\contentsline {section}{\numberline {7.6}SISTEMA DE DISEÑO: IHC AFECTIVA Y UX/UI EMOCIONAL}{66}{section.7.6}%
-\contentsline {subsection}{\numberline {7.6.1}Paleta de colores y accesibilidad}{66}{subsection.7.6.1}%
-\contentsline {subsection}{\numberline {7.6.2}Tipografía}{67}{subsection.7.6.2}%
-\contentsline {subsection}{\numberline {7.6.3}Ilustraciones propias y mascota}{67}{subsection.7.6.3}%
-\contentsline {subsection}{\numberline {7.6.4}Micro-interacciones}{67}{subsection.7.6.4}%
-\contentsline {subsection}{\numberline {7.6.5}Lenguaje del sistema}{68}{subsection.7.6.5}%
-\contentsline {subsection}{\numberline {7.6.6}Diseño adaptable}{69}{subsection.7.6.6}%
-\contentsline {section}{\numberline {7.7}ITERACIONES DURANTE EL DESARROLLO}{69}{section.7.7}%
-\contentsline {section}{\numberline {7.8}HACIA LA FASE TESTEAR}{70}{section.7.8}%
+\contentsline {chapter}{\numberline {2}MARCO TEORICO}{14}{chapter.2}%
+\contentsline {section}{\numberline {2.1}INTERACCIÓN HUMANO-COMPUTADORA (IHC)}{14}{section.2.1}%
+\contentsline {subsection}{\numberline {2.1.1}Experiencia de Usuario (UX)}{15}{subsection.2.1.1}%
+\contentsline {subsection}{\numberline {2.1.2}Interfaz de usuario (UI)}{17}{subsection.2.1.2}%
+\contentsline {subsection}{\numberline {2.1.3}Usabilidad}{18}{subsection.2.1.3}%
+\contentsline {section}{\numberline {2.2}COMPUTACIÓN AFECTIVA E IHC AFECTIVA}{18}{section.2.2}%
+\contentsline {section}{\numberline {2.3}EMOCIONES EN ENTORNOS DIGITALES}{19}{section.2.3}%
+\contentsline {subsection}{\numberline {2.3.1}Emociones en la interacción digital}{19}{subsection.2.3.1}%
+\contentsline {subsection}{\numberline {2.3.2}Regulación emocional}{20}{subsection.2.3.2}%
+\contentsline {subsection}{\numberline {2.3.3}Conexión social y bienestar emocional}{20}{subsection.2.3.3}%
+\contentsline {subsection}{\numberline {2.3.4}Micro interacciones sociales positivas}{21}{subsection.2.3.4}%
+\contentsline {chapter}{\numberline {3}METODOLOGÍA: DESIGN THINKING}{23}{chapter.3}%
+\contentsline {section}{\numberline {3.1}DEFINICIÓN Y ORIGEN DEL DESIGN THINKING}{23}{section.3.1}%
+\contentsline {section}{\numberline {3.2}CARACTERÍSTICAS DEL DESIGN THINKING}{24}{section.3.2}%
+\contentsline {section}{\numberline {3.3}MODELOS DEL DESIGN THINKING}{25}{section.3.3}%
+\contentsline {section}{\numberline {3.4}ETAPAS DEL DESIGN THINKING}{26}{section.3.4}%
+\contentsline {section}{\numberline {3.5}DESIGN THINKING Y DISEÑO DE EXPERIENCIA DE USUARIO}{28}{section.3.5}%
+\contentsline {section}{\numberline {3.6}JUSTIFICACIÓN DE LA ELECCIÓN DE LA METODOLOGÍA}{30}{section.3.6}%
+\contentsline {section}{\numberline {3.7}APLICACIÓN DEL DESIGN THINKING EN EL PROYECTO}{30}{section.3.7}%
+\contentsline {chapter}{\numberline {4}DESCONEXIÓN EMOCIONAL EN LAS REDES SOCIALES}{32}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Uso de redes sociales y soledad en jóvenes}{32}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Tipo de interacción digital como factor determinante}{33}{section.4.2}%
+\contentsline {section}{\numberline {4.3}Conexión abundante versus vínculo significativo}{34}{section.4.3}%
+\contentsline {section}{\numberline {4.4}Resultados de la encuesta diagnóstico aplicada al grupo objetivo}{35}{section.4.4}%
+\contentsline {section}{\numberline {4.5}Factores identificados que limitan la generación de vínculos significativos}{36}{section.4.5}%
+\contentsline {chapter}{\numberline {5}EMPATÍA}{38}{chapter.5}%
+\contentsline {section}{\numberline {5.1}ANÁLISIS DIMENSIONAL}{38}{section.5.1}%
+\contentsline {section}{\numberline {5.2}GUÍA DE LA ENTREVISTA CUALITATIVA}{39}{section.5.2}%
+\contentsline {section}{\numberline {5.3}APLICACIÓN DE LAS ENTREVISTAS}{40}{section.5.3}%
+\contentsline {subsection}{\numberline {5.3.1}Usuario 1}{41}{subsection.5.3.1}%
+\contentsline {subsection}{\numberline {5.3.2}Usuario 4}{42}{subsection.5.3.2}%
+\contentsline {subsection}{\numberline {5.3.3}Usuarios 2, 3, 5 y 6}{43}{subsection.5.3.3}%
+\contentsline {section}{\numberline {5.4}TÉCNICA DE LOS 5 ¿POR QUÉ?}{44}{section.5.4}%
+\contentsline {subsection}{\numberline {5.4.1}Usuario 1}{44}{subsection.5.4.1}%
+\contentsline {subsection}{\numberline {5.4.2}Usuario 5}{45}{subsection.5.4.2}%
+\contentsline {subsection}{\numberline {5.4.3}Usuarios 2, 3, 4 y 6}{45}{subsection.5.4.3}%
+\contentsline {section}{\numberline {5.5}SÍNTESIS DE LA FASE EMPATIZAR}{46}{section.5.5}%
+\contentsline {chapter}{\numberline {6}DEFINIR}{48}{chapter.6}%
+\contentsline {section}{\numberline {6.1}PERFIL DE USUARIO}{48}{section.6.1}%
+\contentsline {subsection}{\numberline {6.1.1}Usuario 1}{48}{subsection.6.1.1}%
+\contentsline {subsection}{\numberline {6.1.2}Usuario 5}{49}{subsection.6.1.2}%
+\contentsline {subsection}{\numberline {6.1.3}Usuarios 2, 3, 4 y 6}{49}{subsection.6.1.3}%
+\contentsline {section}{\numberline {6.2}MAPA DE EMPATÍA}{50}{section.6.2}%
+\contentsline {subsection}{\numberline {6.2.1}Usuario 1}{51}{subsection.6.2.1}%
+\contentsline {subsection}{\numberline {6.2.2}Usuario 5}{51}{subsection.6.2.2}%
+\contentsline {subsection}{\numberline {6.2.3}Usuarios 2, 3, 4 y 6}{52}{subsection.6.2.3}%
+\contentsline {section}{\numberline {6.3}MAPA DE MOTIVACIONES}{53}{section.6.3}%
+\contentsline {section}{\numberline {6.4}¿CÓMO PODRÍAMOS...?}{54}{section.6.4}%
+\contentsline {section}{\numberline {6.5}PLANTEAMIENTO DEL PROBLEMA (POINT OF VIEW)}{54}{section.6.5}%
+\contentsline {chapter}{\numberline {7}IDEAR}{56}{chapter.7}%
+\contentsline {section}{\numberline {7.1}GENERACIÓN DE IDEAS}{56}{section.7.1}%
+\contentsline {subsection}{\numberline {7.1.1}¿Y si...?}{56}{subsection.7.1.1}%
+\contentsline {subsection}{\numberline {7.1.2}Lluvia de ideas}{57}{subsection.7.1.2}%
+\contentsline {section}{\numberline {7.2}CRITERIOS DE SELECCIÓN}{59}{section.7.2}%
+\contentsline {section}{\numberline {7.3}IDEAS SELECCIONADAS}{59}{section.7.3}%
+\contentsline {section}{\numberline {7.4}IDEAS DESCARTADAS O POSPUESTAS}{66}{section.7.4}%
+\contentsline {section}{\numberline {7.5}SÍNTESIS DE LA FASE IDEAR}{68}{section.7.5}%
+\contentsline {chapter}{\numberline {8}PROTOTIPAR}{69}{chapter.8}%
+\contentsline {section}{\numberline {8.1}ARQUITECTURA}{69}{section.8.1}%
+\contentsline {subsection}{\numberline {8.1.1}Despliegue para la prueba piloto}{71}{subsection.8.1.1}%
+\contentsline {section}{\numberline {8.2}REGLAS DE LA INTERACCIÓN}{71}{section.8.2}%
+\contentsline {section}{\numberline {8.3}ALGORITMO DE EMPAREJAMIENTO}{73}{section.8.3}%
+\contentsline {section}{\numberline {8.4}JERARQUÍA DE INTERESES Y AUTOCOMPLETADO}{74}{section.8.4}%
+\contentsline {section}{\numberline {8.5}SEGURIDAD Y PRIVACIDAD}{75}{section.8.5}%
+\contentsline {subsection}{\numberline {8.5.1}Moderación antes de enviar}{76}{subsection.8.5.1}%
+\contentsline {section}{\numberline {8.6}SISTEMA DE DISEÑO: IHC AFECTIVA Y UX/UI EMOCIONAL}{77}{section.8.6}%
+\contentsline {subsection}{\numberline {8.6.1}Paleta de colores y accesibilidad}{77}{subsection.8.6.1}%
+\contentsline {subsection}{\numberline {8.6.2}Tipografía}{79}{subsection.8.6.2}%
+\contentsline {subsection}{\numberline {8.6.3}Ilustraciones propias}{79}{subsection.8.6.3}%
+\contentsline {subsection}{\numberline {8.6.4}Avatar ilustrado y avatar vivo}{81}{subsection.8.6.4}%
+\contentsline {subsection}{\numberline {8.6.5}Registro del ánimo}{82}{subsection.8.6.5}%
+\contentsline {subsection}{\numberline {8.6.6}Tono del mensaje y reacciones}{83}{subsection.8.6.6}%
+\contentsline {subsection}{\numberline {8.6.7}Jardín}{84}{subsection.8.6.7}%
+\contentsline {subsection}{\numberline {8.6.8}Micro-interacciones}{84}{subsection.8.6.8}%
+\contentsline {subsection}{\numberline {8.6.9}Sonidos}{85}{subsection.8.6.9}%
+\contentsline {subsection}{\numberline {8.6.10}Lenguaje del sistema}{86}{subsection.8.6.10}%
+\contentsline {subsection}{\numberline {8.6.11}Diseño adaptable}{86}{subsection.8.6.11}%
+\contentsline {section}{\numberline {8.7}ITERACIONES DURANTE EL DESARROLLO}{86}{section.8.7}%
+\contentsline {section}{\numberline {8.8}HACIA LA FASE TESTEAR}{88}{section.8.8}%
