@@ -68,20 +68,27 @@
 \contentsline {subsection}{\numberline {7.1.2}Lluvia de ideas}{57}{subsection.7.1.2}%
 \contentsline {section}{\numberline {7.2}CRITERIOS DE SELECCIÓN}{59}{section.7.2}%
 \contentsline {section}{\numberline {7.3}IDEAS SELECCIONADAS}{59}{section.7.3}%
-\contentsline {section}{\numberline {7.4}IDEAS DESCARTADAS O POSPUESTAS}{65}{section.7.4}%
-\contentsline {section}{\numberline {7.5}SÍNTESIS DE LA FASE IDEAR}{66}{section.7.5}%
-\contentsline {chapter}{\numberline {8}PROTOTIPAR}{67}{chapter.8}%
-\contentsline {section}{\numberline {8.1}ARQUITECTURA}{67}{section.8.1}%
-\contentsline {section}{\numberline {8.2}REGLAS DE LA INTERACCIÓN}{68}{section.8.2}%
-\contentsline {section}{\numberline {8.3}ALGORITMO DE EMPAREJAMIENTO}{69}{section.8.3}%
-\contentsline {section}{\numberline {8.4}JERARQUÍA DE INTERESES Y AUTOCOMPLETADO}{70}{section.8.4}%
-\contentsline {section}{\numberline {8.5}SEGURIDAD Y PRIVACIDAD}{71}{section.8.5}%
-\contentsline {section}{\numberline {8.6}SISTEMA DE DISEÑO: IHC AFECTIVA Y UX/UI EMOCIONAL}{72}{section.8.6}%
-\contentsline {subsection}{\numberline {8.6.1}Paleta de colores y accesibilidad}{72}{subsection.8.6.1}%
-\contentsline {subsection}{\numberline {8.6.2}Tipografía}{73}{subsection.8.6.2}%
-\contentsline {subsection}{\numberline {8.6.3}Ilustraciones propias y mascota}{73}{subsection.8.6.3}%
-\contentsline {subsection}{\numberline {8.6.4}Micro-interacciones}{73}{subsection.8.6.4}%
-\contentsline {subsection}{\numberline {8.6.5}Lenguaje del sistema}{74}{subsection.8.6.5}%
-\contentsline {subsection}{\numberline {8.6.6}Diseño adaptable}{75}{subsection.8.6.6}%
-\contentsline {section}{\numberline {8.7}ITERACIONES DURANTE EL DESARROLLO}{75}{section.8.7}%
-\contentsline {section}{\numberline {8.8}HACIA LA FASE TESTEAR}{76}{section.8.8}%
+\contentsline {section}{\numberline {7.4}IDEAS DESCARTADAS O POSPUESTAS}{66}{section.7.4}%
+\contentsline {section}{\numberline {7.5}SÍNTESIS DE LA FASE IDEAR}{68}{section.7.5}%
+\contentsline {chapter}{\numberline {8}PROTOTIPAR}{69}{chapter.8}%
+\contentsline {section}{\numberline {8.1}ARQUITECTURA}{69}{section.8.1}%
+\contentsline {subsection}{\numberline {8.1.1}Despliegue para la prueba piloto}{71}{subsection.8.1.1}%
+\contentsline {section}{\numberline {8.2}REGLAS DE LA INTERACCIÓN}{71}{section.8.2}%
+\contentsline {section}{\numberline {8.3}ALGORITMO DE EMPAREJAMIENTO}{73}{section.8.3}%
+\contentsline {section}{\numberline {8.4}JERARQUÍA DE INTERESES Y AUTOCOMPLETADO}{74}{section.8.4}%
+\contentsline {section}{\numberline {8.5}SEGURIDAD Y PRIVACIDAD}{75}{section.8.5}%
+\contentsline {subsection}{\numberline {8.5.1}Moderación antes de enviar}{76}{subsection.8.5.1}%
+\contentsline {section}{\numberline {8.6}SISTEMA DE DISEÑO: IHC AFECTIVA Y UX/UI EMOCIONAL}{77}{section.8.6}%
+\contentsline {subsection}{\numberline {8.6.1}Paleta de colores y accesibilidad}{77}{subsection.8.6.1}%
+\contentsline {subsection}{\numberline {8.6.2}Tipografía}{79}{subsection.8.6.2}%
+\contentsline {subsection}{\numberline {8.6.3}Ilustraciones propias}{79}{subsection.8.6.3}%
+\contentsline {subsection}{\numberline {8.6.4}Avatar ilustrado y avatar vivo}{81}{subsection.8.6.4}%
+\contentsline {subsection}{\numberline {8.6.5}Registro del ánimo}{82}{subsection.8.6.5}%
+\contentsline {subsection}{\numberline {8.6.6}Tono del mensaje y reacciones}{83}{subsection.8.6.6}%
+\contentsline {subsection}{\numberline {8.6.7}Jardín}{84}{subsection.8.6.7}%
+\contentsline {subsection}{\numberline {8.6.8}Micro-interacciones}{84}{subsection.8.6.8}%
+\contentsline {subsection}{\numberline {8.6.9}Sonidos}{85}{subsection.8.6.9}%
+\contentsline {subsection}{\numberline {8.6.10}Lenguaje del sistema}{86}{subsection.8.6.10}%
+\contentsline {subsection}{\numberline {8.6.11}Diseño adaptable}{86}{subsection.8.6.11}%
+\contentsline {section}{\numberline {8.7}ITERACIONES DURANTE EL DESARROLLO}{86}{section.8.7}%
+\contentsline {section}{\numberline {8.8}HACIA LA FASE TESTEAR}{88}{section.8.8}%

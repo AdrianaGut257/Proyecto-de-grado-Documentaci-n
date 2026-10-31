@@ -1,13 +1,13 @@
 # Fdb version 4
-["bibtex main"] 1793039498.35092 "main.aux" "main.bbl" "main" 1793039501.3268 0
-  "./bibliography.bib" 1793037755 16785 127c15da22cc26f692aaf09903a14245 ""
+["bibtex main"] 1793454089.71239 "main.aux" "main.bbl" "main" 1793454093.89376 0
+  "./bibliography.bib" 1793452161 22778 d96c2a2588369696d34c743ebb35acaa ""
   "C:/Users/Admin/AppData/Local/Programs/MiKTeX/bibtex/bst/apacite/apacite.bst" 1374952728 146156 9d7b79dbf9d91133318126032cff8c27 ""
-  "main.aux" 1793039500 23673 14765fcf671b19ca43ca6f512fe2c3cc "pdflatex"
+  "main.aux" 1793454093 27172 b4cb85c90be130405acfb3582dfc6f8f "pdflatex"
   (generated)
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["pdflatex"] 1793039498.71811 "main.tex" "main.pdf" "main" 1793039501.32754 0
+["pdflatex"] 1793454089.985 "main.tex" "main.pdf" "main" 1793454093.89474 0
   "C:/Users/Admin/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1789651246 82507 a9eef8696c92627b87e9975edea03b2a ""
   "C:/Users/Admin/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1775521573 13333527 3074542d8433c68e6220797e38de3b66 ""
   "C:/Users/Admin/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc" 1458473887 4993 80dc9bab7f31fb78a000ccfed0e27cab ""
@@ -121,8 +121,8 @@
   "Chapters/4-Emotional-disconnection.tex" 1793022666 13080 928a12db84f0e06024598be756616a27 ""
   "Chapters/5-Empathize.tex" 1793036318 16510 cf08523064868e3f159a3e8eb8f90a34 ""
   "Chapters/6-Define.tex" 1793037753 11695 acaaf77b7e97791c98730715e6dd839a ""
-  "Chapters/7-Ideate.tex" 1793039486 15231 b6f71a320b6a3e3d1e42bca605d2edab ""
-  "Chapters/8-Prototype.tex" 1793022655 19352 1ab1b64c88f2137a7adc7c755614009f ""
+  "Chapters/7-Ideate.tex" 1793452097 18098 5035879efc1743311030ad7cac0fbe8c ""
+  "Chapters/8-Prototype.tex" 1793454078 38291 25e7cb821fa95d07d3d8936ce5183e3d ""
   "Images/document/designThinking.jpg" 1775944602 4045166 095803b1745fa7026675ad23316baa01 ""
   "Images/fcyt-escudo.png" 1785772177 141906 4c8d99a6fe61a3fca9bf4e2c3ea76a37 ""
   "Images/fcyt-logo.png" 1785772545 930770 32cad1952b8c1d42bc5cecc1827c0f2b ""
@@ -138,15 +138,18 @@
   "Images/methodology/empathy/usuario5-5P.png" 1793035567 679543 6f81e3717aad7aa8c1e3c1eff2bd335b ""
   "Images/methodology/ideate/ySi1.png" 1793039245 1147003 c71e042a3ca2f6b12af0ace74a88aa48 ""
   "Images/methodology/ideate/ySi2.png" 1793039287 1281895 5397d52dd702cf09ad3fddbaca67f01d ""
+  "Images/methodology/prototype/architecture.png" 1793453931 451931 138d5e553d184df612b6a3e341ad2081 ""
+  "Images/methodology/prototype/colors.png" 1793040277 868621 e96a36e3a3e03a47ae8d426203e0062d ""
+  "Images/methodology/prototype/typography.png" 1793046641 345133 fe455f15876c8b8550eb7c80dae2a31e ""
   "Images/stages/Qualitative-interview-guide.png" 1788272600 1053062 e904572e6cf0285c6c2d15599b128576 ""
   "cover.tex" 1789769040 1132 44029dd122b994216edb97d110abad5e ""
-  "main.aux" 1793039500 23673 14765fcf671b19ca43ca6f512fe2c3cc "pdflatex"
-  "main.bbl" 1793039498 34605 dd2001f02f39d08d428b69b939f1c23e "bibtex main"
-  "main.lof" 1793039500 1763 a7b9779dcb217c0688d4a513e4d63376 "pdflatex"
-  "main.lot" 1793039500 1015 f3e28b2e6281d377fd1cca8604487227 "pdflatex"
-  "main.out" 1793039500 16320 16827dff8804ed1d6aba27f614133c46 "pdflatex"
+  "main.aux" 1793454093 27172 b4cb85c90be130405acfb3582dfc6f8f "pdflatex"
+  "main.bbl" 1793454089 47254 037631ecde25d3180ee21d9c53bf1e47 "bibtex main"
+  "main.lof" 1793454093 2129 91c6ca6850fa791991784d59541d0b8c "pdflatex"
+  "main.lot" 1793454093 1015 f65fe64f177e9655987554f0607a140c "pdflatex"
+  "main.out" 1793454093 17500 2b5dd7fc24737d6b57ce52adda4ae3bd "pdflatex"
   "main.tex" 1793022784 7374 d6291060601d826a8763cb3aca4deaac ""
-  "main.toc" 1793039500 7741 ebee59b6277d2d531d07beee0a07d0ba "pdflatex"
+  "main.toc" 1793454093 8383 27edafc8f6d7a5709e2c95509aaf585c "pdflatex"
   (generated)
   "main.aux"
   "main.lof"
