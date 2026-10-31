@@ -36,7 +36,7 @@ La técnica ¿Y si...? tiene como objetivo generar ideas mediante el fomento del
 \subsection{Lluvia de ideas}
 La Lluvia de ideas o \textit{brainstorming} es una técnica que sirve para generar el mayor número posible de ideas, buscando primero la cantidad para aplicar luego técnicas de selección que permitan quedarse con las mejores (Design Thinking en Español, s.f.-d). En el presente proyecto, las ideas más prometedoras de la técnica anterior se desarrollaron como bocetos de concepto (\textit{wireframes}) para cada conocimiento: el emparejamiento por palabra clave de interés y la rotación de temas con aviso; el avatar con expresiones según el estado de ánimo; el acuerdo de respeto previo al chat y el reporte o bloqueo accesible sin interrumpir la experiencia; la opción de reencuentro tras la conversación y el vínculo representado como una planta; y el banco de frases positivas y los mensajes positivos predefinidos para completar.
 
-Varias de las ideas seleccionadas para el prototipo (Tabla \ref{tab:ideas_seleccionadas}) provienen directamente de estas técnicas: la elección de ``¿De qué quiero hablar hoy?'' se transformó en la selección de hasta tres temas antes de cada búsqueda; el avatar que cambia de expresión según el estado de ánimo se incorporó tal como fue planteado; la conexión activa única y la planta dieron forma al ciclo semanal; la votación anónima y la protección del voto de la otra persona se materializaron en la decisión privada al finalizar los siete días; el acuerdo de respeto dio origen a la pantalla ``Un lugar seguro''; y el banco de frases positivas se integró en las ideas para romper el hielo. Algunas ideas se adaptaron al seleccionarse; por ejemplo, la planta que se marchita si no se cuida se transformó en una planta que nunca se marchita.
+Varias de las ideas seleccionadas para el prototipo (Tabla \ref{tab:ideas_seleccionadas}) provienen directamente de estas técnicas: la elección de ``¿De qué quiero hablar hoy?'' dio lugar a la selección de hasta tres temas antes de cada búsqueda; el avatar que cambia de expresión según el estado de ánimo se implementó tal como fue planteado; la conexión activa única y la planta dieron forma al ciclo semanal; la votación anónima y la protección del voto de la otra persona se materializaron en la decisión privada al finalizar los siete días; el acuerdo de respeto dio origen a la pantalla ``Un lugar seguro''; y el banco de frases positivas se integró en las ideas para romper el hielo. La idea de una planta que se marchita si no se cuida no se seleccionó, por lo que la planta del prototipo nunca se marchita.
 
 \section{CRITERIOS DE SELECCIÓN}
 Siguiendo a Vargas Márquez et al. (2021), quienes señalan que la creación de múltiples ideas aumenta el potencial de innovación y que es necesario separar la generación de ideas de su evaluación (p. 13), no todas las ideas generadas se llevaron al prototipo. La selección se realizó aplicando tres criterios:
@@ -161,7 +161,7 @@ Una pausa antes de publicar reduce el contenido ofensivo (Katsaros et al., 2022)
 \multicolumn{3}{l}{\textbf{Conocimiento: Pocos vínculos, pero significativos}} \\[4pt]
 ¿Cómo podríamos priorizar la calidad de la interacción sobre la cantidad de contactos?
 &
-Una sola conversación activa, de siete días, con hasta diez mensajes diarios por persona de máximo 500 caracteres (inicialmente cinco; véase la sección 8.2).
+Una sola conversación activa, de siete días, con hasta diez mensajes diarios por persona de máximo 500 caracteres.
 &
 Los mensajes escritos y dirigidos a una persona se asocian con mayor bienestar, a diferencia de las reacciones de un clic (Burke \& Kraut, 2016); el límite de caracteres responde al Usuario 4. \\[6pt]
 
@@ -233,12 +233,9 @@ No todas las ideas generadas durante la fase de Idear se incorporaron al prototi
 \endlastfoot
 Notificaciones \textit{push} y rachas diarias (\textit{streaks}) & Descartada & Son elementos que prolongan el tiempo de uso (Montag et al., 2019) y podrían fomentar un patrón de uso problemático, asociado a mayor soledad (Feng et al., 2026) \\[6pt]
 ``Mundo de conexiones'' con estadísticas globales de la comunidad & Descartada & Introduce métricas públicas y comparación social (Verduyn et al., 2017), contrarias a los límites definidos en 1.5 \\[6pt]
-Reacciones variadas a los mensajes (solicitado por el Usuario 1) & Pospuesta y luego implementada & Se pospuso porque suma opciones en cada mensaje (Ley de Hick, Yablonski, 2020); se implementó durante el prototipado, con las opciones ocultas hasta que el usuario las solicita (sección 8.6) \\[6pt]
-Mensajes largos tipo \textit{story time} (solicitado por el Usuario 4) & Atendida parcialmente & Se amplió el límite a 500 caracteres por mensaje, sin introducir un formato especial que rompa la lógica de micro-interacción \\[6pt]
+Mensajes largos tipo \textit{story time} (solicitado por el Usuario 4) & Atendida parcialmente & Se permiten hasta 500 caracteres por mensaje, sin introducir un formato especial que rompa la lógica de micro-interacción \\[6pt]
 Debates de opinión grupales (solicitado por el Usuario 4) & Descartada & Excede el alcance definido en 1.5, que excluye la comunicación grupal \\[6pt]
-Avatar en 3D & Reemplazada & Se optó por un avatar 2D en SVG, liviano, personalizable en tiempo real y que no requiere un motor 3D en el teléfono \\[6pt]
-Lista fija de seis temas para buscar pareja & Reemplazada & Mostraba temas que el usuario no había elegido; se reemplazó por sus propios intereses \\[6pt]
-Moderación con un clasificador automático externo & Pospuesta & El servicio de Google requiere una cuenta de facturación y Perspective API anunció su cierre para 2026; se implementó una moderación local en español (sección 8.5) \\[6pt]
+Moderación con un clasificador automático externo & Pospuesta & El servicio de Google requiere una cuenta de facturación y Perspective API anunció su cierre para 2026; el prototipo utiliza una moderación local en español (sección 8.5) \\[6pt]
 
 \end{longtable}
 
